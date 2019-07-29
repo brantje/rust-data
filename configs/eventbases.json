@@ -1,0 +1,116 @@
+{
+  "Strucures (from copy/paste plugin)": [
+    {
+      "Name": "1by2",
+      "LootTable": "starter-base",
+      "Permission needed to enter the structure": "",
+      "Reward for blowing up cupboard": 200,
+      "Width of foundation (count foundation blocks)": 2,
+      "Length of foundation (count foundation blocks)": 2
+    }
+  ],
+  "LootTables": [
+    {
+      "Name": "starter-base",
+      "Containers": [
+        {
+          "Shortname": "box.wooden.large",
+          "Items": [
+            {
+              "Shortname": "techparts",
+              "Min": 0,
+              "Max": 200
+            },
+            {
+              "Shortname": "gears",
+              "Min": 0,
+              "Max": 30
+            },
+            {
+              "Shortname": "riflebody",
+              "Min": 0,
+              "Max": 10
+            },
+            {
+              "Shortname": "propanetank",
+              "Min": 0,
+              "Max": 10
+            },
+            {
+              "Shortname": "lowgradefuel",
+              "Min": 0,
+              "Max": 10
+            }
+          ],
+          "SkinID": 854002617
+        },
+        {
+          "Shortname": "box.wooden.large",
+          "Items": [
+            {
+              "Shortname": "black.raspberries",
+              "Min": 0,
+              "Max": 200
+            },
+            {
+              "Shortname": "can.beans",
+              "Min": 0,
+              "Max": 20
+            },
+            {
+              "Shortname": "can.tuna",
+              "Min": 0,
+              "Max": 20
+            },
+            {
+              "Shortname": "pumpkin",
+              "Min": 0,
+              "Max": 20
+            }
+          ],
+          "SkinID": 809975811
+        },
+        {
+          "Shortname": "box.wooden.large",
+          "Items": [
+            {
+              "Shortname": "crossbow",
+              "Min": 0,
+              "Max": 2
+            },
+            {
+              "Shortname": "shotgun.double",
+              "Min": 0,
+              "Max": 2
+            },
+            {
+              "Shortname": "salvaged.sword",
+              "Min": 0,
+              "Max": 2
+            }
+          ],
+          "SkinID": 854718942
+        },
+        {
+          "Shortname": "box.wooden.large",
+          "Items": [
+            {
+              "Shortname": "ammo.rifle",
+              "Min": 50,
+              "Max": 150
+            }
+          ],
+          "SkinID": 0
+        }
+      ]
+    }
+  ],
+  "Despawn time (after cupboard got blowed up) in seconds": 300,
+  "Number of bases to spawn": 5,
+  "Interval to check if wether or not to spawn a base": 60,
+  "Use ServerRewards": true,
+  "Use Economics": false,
+  "Enable debug mode": false,
+  "Range for notifing the player that a structure is near (requires ZoneManager) (Not working atm)": 200,
+  "TruePVE Ruleset": "exclude"
+}
