@@ -1,0 +1,3909 @@
+{
+  "version": 2180,
+  "AllItemsAvailable": {
+    "ammo.grenadelauncher.buckshot": {
+      "itemID": 1055319033,
+      "shortname": "ammo.grenadelauncher.buckshot",
+      "displayName": "40mm Shotgun Round",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": false
+    },
+    "ammo.grenadelauncher.he": {
+      "itemID": 349762871,
+      "shortname": "ammo.grenadelauncher.he",
+      "displayName": "40mm HE Grenade",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": false
+    },
+    "ammo.grenadelauncher.smoke": {
+      "itemID": 915408809,
+      "shortname": "ammo.grenadelauncher.smoke",
+      "displayName": "40mm Smoke Grenade",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": false
+    },
+    "weapon.mod.8x.scope": {
+      "itemID": 174866732,
+      "shortname": "weapon.mod.8x.scope",
+      "displayName": "16x Zoom Scope",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "rifle.ak": {
+      "itemID": 1545779598,
+      "shortname": "rifle.ak",
+      "displayName": "Assault Rifle",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "ammo.handmade.shell": {
+      "itemID": 588596902,
+      "shortname": "ammo.handmade.shell",
+      "displayName": "Handmade Shell",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "ammo.pistol": {
+      "itemID": 785728077,
+      "shortname": "ammo.pistol",
+      "displayName": "Pistol Bullet",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "ammo.pistol.fire": {
+      "itemID": 51984655,
+      "shortname": "ammo.pistol.fire",
+      "displayName": "Incendiary Pistol Bullet",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "ammo.pistol.hv": {
+      "itemID": -1691396643,
+      "shortname": "ammo.pistol.hv",
+      "displayName": "HV Pistol Ammo",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "ammo.rifle": {
+      "itemID": -1211166256,
+      "shortname": "ammo.rifle",
+      "displayName": "5.56 Rifle Ammo",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "ammo.rifle.explosive": {
+      "itemID": -1321651331,
+      "shortname": "ammo.rifle.explosive",
+      "displayName": "Explosive 5.56 Rifle Ammo",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "ammo.rifle.incendiary": {
+      "itemID": 605467368,
+      "shortname": "ammo.rifle.incendiary",
+      "displayName": "Incendiary 5.56 Rifle Ammo",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "ammo.rifle.hv": {
+      "itemID": 1712070256,
+      "shortname": "ammo.rifle.hv",
+      "displayName": "HV 5.56 Rifle Ammo",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "ammo.rocket.basic": {
+      "itemID": -742865266,
+      "shortname": "ammo.rocket.basic",
+      "displayName": "Rocket",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "ammo.rocket.fire": {
+      "itemID": 1638322904,
+      "shortname": "ammo.rocket.fire",
+      "displayName": "Incendiary Rocket",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "ammo.rocket.hv": {
+      "itemID": -1841918730,
+      "shortname": "ammo.rocket.hv",
+      "displayName": "High Velocity Rocket",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "ammo.rocket.smoke": {
+      "itemID": -17123659,
+      "shortname": "ammo.rocket.smoke",
+      "displayName": "Smoke Rocket WIP!!!!",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": false
+    },
+    "ammo.shotgun": {
+      "itemID": -1685290200,
+      "shortname": "ammo.shotgun",
+      "displayName": "12 Gauge Buckshot",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "ammo.shotgun.fire": {
+      "itemID": -1036635990,
+      "shortname": "ammo.shotgun.fire",
+      "displayName": "12 Gauge Incendiary Shell",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "ammo.shotgun.slug": {
+      "itemID": -727717969,
+      "shortname": "ammo.shotgun.slug",
+      "displayName": "12 Gauge Slug",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "electric.andswitch": {
+      "itemID": 1171735914,
+      "shortname": "electric.andswitch",
+      "displayName": "AND Switch",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "antiradpills": {
+      "itemID": -1432674913,
+      "shortname": "antiradpills",
+      "displayName": "Anti-Radiation Pills",
+      "category": 6,
+      "categoryName": "Medical",
+      "availableAsBluePrint": false
+    },
+    "apple": {
+      "itemID": 1548091822,
+      "shortname": "apple",
+      "displayName": "Apple",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "apple.spoiled": {
+      "itemID": 352130972,
+      "shortname": "apple.spoiled",
+      "displayName": "Rotten Apple",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "arrow.bone": {
+      "itemID": 215754713,
+      "shortname": "arrow.bone",
+      "displayName": "Bone Arrow",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": false
+    },
+    "arrow.fire": {
+      "itemID": 14241751,
+      "shortname": "arrow.fire",
+      "displayName": "Fire Arrow",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "arrow.hv": {
+      "itemID": -1023065463,
+      "shortname": "arrow.hv",
+      "displayName": "High Velocity Arrow",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "arrow.wooden": {
+      "itemID": -1234735557,
+      "shortname": "arrow.wooden",
+      "displayName": "Wooden Arrow",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "electric.audioalarm": {
+      "itemID": 2100007442,
+      "shortname": "electric.audioalarm",
+      "displayName": "Audio Alarm",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "autoturret": {
+      "itemID": -2139580305,
+      "shortname": "autoturret",
+      "displayName": "Auto Turret",
+      "category": 9,
+      "categoryName": "Traps",
+      "availableAsBluePrint": true
+    },
+    "axe.salvaged": {
+      "itemID": -262590403,
+      "shortname": "axe.salvaged",
+      "displayName": "Salvaged Axe",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "bandage": {
+      "itemID": -2072273936,
+      "shortname": "bandage",
+      "displayName": "Bandage",
+      "category": 6,
+      "categoryName": "Medical",
+      "availableAsBluePrint": true
+    },
+    "barrelcostume": {
+      "itemID": -1215166612,
+      "shortname": "barrelcostume",
+      "displayName": "A Barrel Costume",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "barricade.concrete": {
+      "itemID": -1950721390,
+      "shortname": "barricade.concrete",
+      "displayName": "Concrete Barricade",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "barricade.metal": {
+      "itemID": 1655650836,
+      "shortname": "barricade.metal",
+      "displayName": "Metal Barricade",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "barricade.sandbags": {
+      "itemID": -559599960,
+      "shortname": "barricade.sandbags",
+      "displayName": "Sandbag Barricade",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "barricade.stone": {
+      "itemID": 15388698,
+      "shortname": "barricade.stone",
+      "displayName": "Stone Barricade",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "barricade.wood": {
+      "itemID": 866889860,
+      "shortname": "barricade.wood",
+      "displayName": "Wooden Barricade",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "barricade.woodwire": {
+      "itemID": 1382263453,
+      "shortname": "barricade.woodwire",
+      "displayName": "Barbed Wooden Barricade",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "battery.small": {
+      "itemID": 609049394,
+      "shortname": "battery.small",
+      "displayName": "Battery - Small",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "bbq": {
+      "itemID": 1099314009,
+      "shortname": "bbq",
+      "displayName": "Barbeque",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "trap.bear": {
+      "itemID": -582782051,
+      "shortname": "trap.bear",
+      "displayName": "Snap Trap",
+      "category": 9,
+      "categoryName": "Traps",
+      "availableAsBluePrint": true
+    },
+    "bed": {
+      "itemID": -1273339005,
+      "shortname": "bed",
+      "displayName": "Bed",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "tool.binoculars": {
+      "itemID": -1262185308,
+      "shortname": "tool.binoculars",
+      "displayName": "Binoculars",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "black.raspberries": {
+      "itemID": 1931713481,
+      "shortname": "black.raspberries",
+      "displayName": "Black Raspberries",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "bleach": {
+      "itemID": 1553078977,
+      "shortname": "bleach",
+      "displayName": "Bleach",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false
+    },
+    "blood": {
+      "itemID": 1776460938,
+      "shortname": "blood",
+      "displayName": "Blood",
+      "category": 6,
+      "categoryName": "Medical",
+      "availableAsBluePrint": false
+    },
+    "blueberries": {
+      "itemID": -586342290,
+      "shortname": "blueberries",
+      "displayName": "Blueberries",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "blueprintbase": {
+      "itemID": -996920608,
+      "shortname": "blueprintbase",
+      "displayName": "Blueprint",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "rifle.bolt": {
+      "itemID": 1588298435,
+      "shortname": "rifle.bolt",
+      "displayName": "Bolt Action Rifle",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "bone.club": {
+      "itemID": 1711033574,
+      "shortname": "bone.club",
+      "displayName": "Bone Club",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "bone.fragments": {
+      "itemID": 1719978075,
+      "shortname": "bone.fragments",
+      "displayName": "Bone Fragments",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "botabag": {
+      "itemID": 613961768,
+      "shortname": "botabag",
+      "displayName": "Bota Bag",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "bow.hunting": {
+      "itemID": 1443579727,
+      "shortname": "bow.hunting",
+      "displayName": "Hunting Bow",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "box.wooden.large": {
+      "itemID": 833533164,
+      "shortname": "box.wooden.large",
+      "displayName": "Large Wood Box",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "box.wooden": {
+      "itemID": -180129657,
+      "shortname": "box.wooden",
+      "displayName": "Wood Storage Box",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "easter.bronzeegg": {
+      "itemID": 844440409,
+      "shortname": "easter.bronzeegg",
+      "displayName": "Bronze Egg",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "bucket.water": {
+      "itemID": 1424075905,
+      "shortname": "bucket.water",
+      "displayName": "Water Bucket",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "building.planner": {
+      "itemID": 1525520776,
+      "shortname": "building.planner",
+      "displayName": "Building Plan",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "attire.bunny.onesie": {
+      "itemID": -1266045928,
+      "shortname": "attire.bunny.onesie",
+      "displayName": "Bunny Onesie",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "burlap.shirt": {
+      "itemID": 602741290,
+      "shortname": "burlap.shirt",
+      "displayName": "Burlap Shirt",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "burlap.shoes": {
+      "itemID": -761829530,
+      "shortname": "burlap.shoes",
+      "displayName": "Burlap Shoes",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "knife.butcher": {
+      "itemID": -194509282,
+      "shortname": "knife.butcher",
+      "displayName": "Butcher Knife",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "electric.cabletunnel": {
+      "itemID": 1835946060,
+      "shortname": "electric.cabletunnel",
+      "displayName": "Cable Tunnel",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "cactusflesh": {
+      "itemID": 1783512007,
+      "shortname": "cactusflesh",
+      "displayName": "Cactus Flesh",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "cakefiveyear": {
+      "itemID": 1973165031,
+      "shortname": "cakefiveyear",
+      "displayName": "Birthday Cake",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false
+    },
+    "tool.camera": {
+      "itemID": -1316706473,
+      "shortname": "tool.camera",
+      "displayName": "Camera",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false
+    },
+    "campfire": {
+      "itemID": 1946219319,
+      "shortname": "campfire",
+      "displayName": "Camp Fire",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "can.beans": {
+      "itemID": -700591459,
+      "shortname": "can.beans",
+      "displayName": "Can of Beans",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "can.beans.empty": {
+      "itemID": 1655979682,
+      "shortname": "can.beans.empty",
+      "displayName": "Empty Can Of Beans",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "can.tuna": {
+      "itemID": -1941646328,
+      "shortname": "can.tuna",
+      "displayName": "Can of Tuna",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "can.tuna.empty": {
+      "itemID": -1557377697,
+      "shortname": "can.tuna.empty",
+      "displayName": "Empty Tuna Can",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "candycaneclub": {
+      "itemID": 1789825282,
+      "shortname": "candycaneclub",
+      "displayName": "Candy Cane Club",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "candycane": {
+      "itemID": 1121925526,
+      "shortname": "candycane",
+      "displayName": "Candy Cane",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "cursedcauldron": {
+      "itemID": 1242522330,
+      "shortname": "cursedcauldron",
+      "displayName": "Cursed Cauldron",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "cctv.camera": {
+      "itemID": 634478325,
+      "shortname": "cctv.camera",
+      "displayName": "CCTV Camera",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "ceilinglight": {
+      "itemID": 1142993169,
+      "shortname": "ceilinglight",
+      "displayName": "Ceiling Light",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "chainsaw": {
+      "itemID": 1104520648,
+      "shortname": "chainsaw",
+      "displayName": "Chainsaw",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "chair": {
+      "itemID": 1534542921,
+      "shortname": "chair",
+      "displayName": "Chair",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "charcoal": {
+      "itemID": -1938052175,
+      "shortname": "charcoal",
+      "displayName": "Charcoal",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "chicken.burned": {
+      "itemID": 1973684065,
+      "shortname": "chicken.burned",
+      "displayName": "Burnt Chicken",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "chicken.cooked": {
+      "itemID": -1848736516,
+      "shortname": "chicken.cooked",
+      "displayName": "Cooked Chicken",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "chicken.raw": {
+      "itemID": -1440987069,
+      "shortname": "chicken.raw",
+      "displayName": "Raw Chicken Breast",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "chicken.spoiled": {
+      "itemID": -751151717,
+      "shortname": "chicken.spoiled",
+      "displayName": "Spoiled Chicken",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "chineselantern": {
+      "itemID": -1916473915,
+      "shortname": "chineselantern",
+      "displayName": "Chinese Lantern",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "arcade.machine.chippy": {
+      "itemID": 359723196,
+      "shortname": "arcade.machine.chippy",
+      "displayName": "Chippy Arcade Game",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "chocholate": {
+      "itemID": 363467698,
+      "shortname": "chocholate",
+      "displayName": "Chocolate Bar",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "xmasdoorwreath": {
+      "itemID": 2009734114,
+      "shortname": "xmasdoorwreath",
+      "displayName": "Christmas Door Wreath",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "cloth": {
+      "itemID": -858312878,
+      "shortname": "cloth",
+      "displayName": "Cloth",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "coal": {
+      "itemID": 204391461,
+      "shortname": "coal",
+      "displayName": "Coal :(",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "coffin.storage": {
+      "itemID": 573676040,
+      "shortname": "coffin.storage",
+      "displayName": "Coffin",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "bow.compound": {
+      "itemID": 884424049,
+      "shortname": "bow.compound",
+      "displayName": "Compound Bow",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "corn": {
+      "itemID": 1367190888,
+      "shortname": "corn",
+      "displayName": "Corn",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "clone.corn": {
+      "itemID": -778875547,
+      "shortname": "clone.corn",
+      "displayName": "Corn Clone",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "seed.corn": {
+      "itemID": 998894949,
+      "shortname": "seed.corn",
+      "displayName": "Corn Seed",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "electric.counter": {
+      "itemID": -216999575,
+      "shortname": "electric.counter",
+      "displayName": "Counter",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "crossbow": {
+      "itemID": 1965232394,
+      "shortname": "crossbow",
+      "displayName": "Crossbow",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "crude.oil": {
+      "itemID": -321733511,
+      "shortname": "crude.oil",
+      "displayName": "Crude Oil",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "cupboard.tool": {
+      "itemID": -97956382,
+      "shortname": "cupboard.tool",
+      "displayName": "Tool Cupboard",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "rf.detonator": {
+      "itemID": 596469572,
+      "shortname": "rf.detonator",
+      "displayName": "RF Transmitter",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "diving.fins": {
+      "itemID": 296519935,
+      "shortname": "diving.fins",
+      "displayName": "Diving Fins",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "diving.mask": {
+      "itemID": -113413047,
+      "shortname": "diving.mask",
+      "displayName": "Diving Mask",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "diving.tank": {
+      "itemID": -2022172587,
+      "shortname": "diving.tank",
+      "displayName": "Diving Tank",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "diving.wetsuit": {
+      "itemID": -1101924344,
+      "shortname": "diving.wetsuit",
+      "displayName": "Wetsuit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "door.double.hinged.metal": {
+      "itemID": 1390353317,
+      "shortname": "door.double.hinged.metal",
+      "displayName": "Sheet Metal Double Door",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": false
+    },
+    "door.double.hinged.toptier": {
+      "itemID": 1221063409,
+      "shortname": "door.double.hinged.toptier",
+      "displayName": "Armored Double Door",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "door.double.hinged.wood": {
+      "itemID": -1336109173,
+      "shortname": "door.double.hinged.wood",
+      "displayName": "Wood Double Door",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "door.hinged.metal": {
+      "itemID": -2067472972,
+      "shortname": "door.hinged.metal",
+      "displayName": "Sheet Metal Door",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "door.hinged.toptier": {
+      "itemID": 1353298668,
+      "shortname": "door.hinged.toptier",
+      "displayName": "Armored Door",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "door.hinged.wood": {
+      "itemID": 1729120840,
+      "shortname": "door.hinged.wood",
+      "displayName": "Wooden Door",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": false
+    },
+    "door.key": {
+      "itemID": -1112793865,
+      "shortname": "door.key",
+      "displayName": "Door Key",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "door.closer": {
+      "itemID": 1409529282,
+      "shortname": "door.closer",
+      "displayName": "Door Closer",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": false
+    },
+    "electric.doorcontroller": {
+      "itemID": -502177121,
+      "shortname": "electric.doorcontroller",
+      "displayName": "Door Controller",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "xmas.door.garland": {
+      "itemID": 674734128,
+      "shortname": "xmas.door.garland",
+      "displayName": "Festive Doorway Garland",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "dragondoorknocker": {
+      "itemID": -854270928,
+      "shortname": "dragondoorknocker",
+      "displayName": "Dragon Door Knocker",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "dropbox": {
+      "itemID": -1519126340,
+      "shortname": "dropbox",
+      "displayName": "Drop Box",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "ducttape": {
+      "itemID": 1401987718,
+      "shortname": "ducttape",
+      "displayName": "Duct Tape",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true
+    },
+    "easterbasket": {
+      "itemID": 1856217390,
+      "shortname": "easterbasket",
+      "displayName": "Egg Basket",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "easterdoorwreath": {
+      "itemID": -979302481,
+      "shortname": "easterdoorwreath",
+      "displayName": "Easter Door Wreath",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "electric.flasherlight": {
+      "itemID": -939424778,
+      "shortname": "electric.flasherlight",
+      "displayName": "Flasher Light",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "electric.sirenlight": {
+      "itemID": 762289806,
+      "shortname": "electric.sirenlight",
+      "displayName": "Siren Light",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "electric.blocker": {
+      "itemID": -690968985,
+      "shortname": "electric.blocker",
+      "displayName": "Blocker",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "electrical.branch": {
+      "itemID": -1448252298,
+      "shortname": "electrical.branch",
+      "displayName": "Electrical Branch",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "electrical.combiner": {
+      "itemID": -458565393,
+      "shortname": "electrical.combiner",
+      "displayName": "Root Combiner",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "electrical.memorycell": {
+      "itemID": -746647361,
+      "shortname": "electrical.memorycell",
+      "displayName": "Memory Cell",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "electric.random.switch": {
+      "itemID": 492357192,
+      "shortname": "electric.random.switch",
+      "displayName": "RAND Switch",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "explosive.satchel": {
+      "itemID": -1878475007,
+      "shortname": "explosive.satchel",
+      "displayName": "Satchel Charge",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "explosive.timed": {
+      "itemID": 1248356124,
+      "shortname": "explosive.timed",
+      "displayName": "Timed Explosive Charge",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "explosives": {
+      "itemID": -592016202,
+      "shortname": "explosives",
+      "displayName": "Explosives",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": true
+    },
+    "facialhair.style01": {
+      "itemID": 798638114,
+      "shortname": "facialhair.style01",
+      "displayName": "m-facialhair01",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "fat.animal": {
+      "itemID": -1018587433,
+      "shortname": "fat.animal",
+      "displayName": "Animal Fat",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "femalearmpithair.style01": {
+      "itemID": 274502203,
+      "shortname": "femalearmpithair.style01",
+      "displayName": "f-armpit01",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "femaleeyebrow.style01": {
+      "itemID": -1065444793,
+      "shortname": "femaleeyebrow.style01",
+      "displayName": "f-eyebrow01",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "femalepubichair.style01": {
+      "itemID": 16333305,
+      "shortname": "femalepubichair.style01",
+      "displayName": "f-pubic01",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "female_hairstyle_01": {
+      "itemID": 649305914,
+      "shortname": "female_hairstyle_01",
+      "displayName": "f-hairstyle-1",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "female_hairstyle_03": {
+      "itemID": 649305916,
+      "shortname": "female_hairstyle_03",
+      "displayName": "f-hairstyle-3",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "female_hairstyle_05": {
+      "itemID": 649305918,
+      "shortname": "female_hairstyle_05",
+      "displayName": "f-hairstyle-5",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "fireplace.stone": {
+      "itemID": -1535621066,
+      "shortname": "fireplace.stone",
+      "displayName": "Stone Fireplace",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "fish.cooked": {
+      "itemID": 1668129151,
+      "shortname": "fish.cooked",
+      "displayName": "Cooked Fish",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "fish.raw": {
+      "itemID": 989925924,
+      "shortname": "fish.raw",
+      "displayName": "Raw Fish",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "fishingrod.handmade": {
+      "itemID": 1569882109,
+      "shortname": "fishingrod.handmade",
+      "displayName": "Handmade Fishing Rod",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "flamethrower": {
+      "itemID": -1215753368,
+      "shortname": "flamethrower",
+      "displayName": "Flame Thrower",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "flameturret": {
+      "itemID": 528668503,
+      "shortname": "flameturret",
+      "displayName": "Flame Turret",
+      "category": 9,
+      "categoryName": "Traps",
+      "availableAsBluePrint": true
+    },
+    "flare": {
+      "itemID": 304481038,
+      "shortname": "flare",
+      "displayName": "Flare",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "flashlight.held": {
+      "itemID": -196667575,
+      "shortname": "flashlight.held",
+      "displayName": "Flashlight",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "weapon.mod.flashlight": {
+      "itemID": 952603248,
+      "shortname": "weapon.mod.flashlight",
+      "displayName": "Weapon flashlight",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "floor.grill": {
+      "itemID": 936496778,
+      "shortname": "floor.grill",
+      "displayName": "Floor grill",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "floor.ladder.hatch": {
+      "itemID": 1948067030,
+      "shortname": "floor.ladder.hatch",
+      "displayName": "Ladder Hatch",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "fogmachine": {
+      "itemID": -1973785141,
+      "shortname": "fogmachine",
+      "displayName": "Fogger-3000",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "fridge": {
+      "itemID": 1413014235,
+      "shortname": "fridge",
+      "displayName": "Fridge",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "boots.frog": {
+      "itemID": -1000573653,
+      "shortname": "boots.frog",
+      "displayName": "Frog Boots",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "lowgradefuel": {
+      "itemID": -946369541,
+      "shortname": "lowgradefuel",
+      "displayName": "Low Grade Fuel",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "furnace": {
+      "itemID": -1999722522,
+      "shortname": "furnace",
+      "displayName": "Furnace",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "furnace.large": {
+      "itemID": -1992717673,
+      "shortname": "furnace.large",
+      "displayName": "Large Furnace",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "fuse": {
+      "itemID": -629028935,
+      "shortname": "fuse",
+      "displayName": "Electric Fuse",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false
+    },
+    "gates.external.high.stone": {
+      "itemID": -691113464,
+      "shortname": "gates.external.high.stone",
+      "displayName": "High External Stone Gate",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "gates.external.high.wood": {
+      "itemID": -335089230,
+      "shortname": "gates.external.high.wood",
+      "displayName": "High External Wooden Gate",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "gears": {
+      "itemID": 479143914,
+      "shortname": "gears",
+      "displayName": "Gears",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true
+    },
+    "geiger.counter": {
+      "itemID": 999690781,
+      "shortname": "geiger.counter",
+      "displayName": "Geiger Counter",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false
+    },
+    "electric.generator.small": {
+      "itemID": -295829489,
+      "shortname": "electric.generator.small",
+      "displayName": "Small Generator",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "generator.wind.scrap": {
+      "itemID": -1819763926,
+      "shortname": "generator.wind.scrap",
+      "displayName": "Wind Turbine",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "giantcandycanedecor": {
+      "itemID": -695124222,
+      "shortname": "giantcandycanedecor",
+      "displayName": "Giant Candy Decor",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "giantlollipops": {
+      "itemID": 282103175,
+      "shortname": "giantlollipops",
+      "displayName": "Giant Lollipop Decor",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "burlap.gloves.new": {
+      "itemID": 21402876,
+      "shortname": "burlap.gloves.new",
+      "displayName": "Burlap Gloves",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "burlap.gloves": {
+      "itemID": 1366282552,
+      "shortname": "burlap.gloves",
+      "displayName": "Leather Gloves",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "roadsign.gloves": {
+      "itemID": -699558439,
+      "shortname": "roadsign.gloves",
+      "displayName": "Roadsign Gloves",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "tactical.gloves": {
+      "itemID": -1108136649,
+      "shortname": "tactical.gloves",
+      "displayName": "Tactical Gloves",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "gloweyes": {
+      "itemID": -690276911,
+      "shortname": "gloweyes",
+      "displayName": "Glowing Eyes",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "glue": {
+      "itemID": -1899491405,
+      "shortname": "glue",
+      "displayName": "Glue",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false
+    },
+    "easter.goldegg": {
+      "itemID": -1002156085,
+      "shortname": "easter.goldegg",
+      "displayName": "Gold Egg",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "granolabar": {
+      "itemID": -746030907,
+      "shortname": "granolabar",
+      "displayName": "Granola Bar",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "gravestone": {
+      "itemID": 809199956,
+      "shortname": "gravestone",
+      "displayName": "Gravestone",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "woodcross": {
+      "itemID": 699075597,
+      "shortname": "woodcross",
+      "displayName": "Wooden Cross",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "wall.graveyard.fence": {
+      "itemID": -1679267738,
+      "shortname": "wall.graveyard.fence",
+      "displayName": "Graveyard Fence",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "grenade.beancan": {
+      "itemID": 1840822026,
+      "shortname": "grenade.beancan",
+      "displayName": "Beancan Grenade",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "grenade.f1": {
+      "itemID": 143803535,
+      "shortname": "grenade.f1",
+      "displayName": "F1 Grenade",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "fun.guitar": {
+      "itemID": -2124352573,
+      "shortname": "fun.guitar",
+      "displayName": "Acoustic Guitar",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "gunpowder": {
+      "itemID": -265876753,
+      "shortname": "gunpowder",
+      "displayName": "Gun Powder",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": true
+    },
+    "habrepair": {
+      "itemID": -1759188988,
+      "shortname": "habrepair",
+      "displayName": "Hab Repair",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "male_hairstyle_01": {
+      "itemID": 1070894649,
+      "shortname": "male_hairstyle_01",
+      "displayName": "m-hairstyle-1",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "female_hairstyle_02": {
+      "itemID": 649305917,
+      "shortname": "female_hairstyle_02",
+      "displayName": "f-hairstyle-2",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "halloween.lootbag": {
+      "itemID": -295117143,
+      "shortname": "halloween.lootbag",
+      "displayName": "Halloween Loot Bag",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "scarecrow.suit": {
+      "itemID": 273951840,
+      "shortname": "scarecrow.suit",
+      "displayName": "WIP",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "scarecrowhead": {
+      "itemID": 809942731,
+      "shortname": "scarecrowhead",
+      "displayName": "Scarecrow Wrap",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "attire.hide.helterneck": {
+      "itemID": 3222790,
+      "shortname": "attire.hide.helterneck",
+      "displayName": "Hide Halterneck",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "hammer": {
+      "itemID": 200773292,
+      "shortname": "hammer",
+      "displayName": "Hammer",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "hammer.salvaged": {
+      "itemID": -1506397857,
+      "shortname": "hammer.salvaged",
+      "displayName": "Salvaged Hammer",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "hat.beenie": {
+      "itemID": 1675639563,
+      "shortname": "hat.beenie",
+      "displayName": "Beenie Hat",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "hat.boonie": {
+      "itemID": -23994173,
+      "shortname": "hat.boonie",
+      "displayName": "Boonie Hat",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "bucket.helmet": {
+      "itemID": 850280505,
+      "shortname": "bucket.helmet",
+      "displayName": "Bucket Helmet",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "attire.bunnyears": {
+      "itemID": -1004426654,
+      "shortname": "attire.bunnyears",
+      "displayName": "Bunny Ears",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "burlap.headwrap": {
+      "itemID": 1877339384,
+      "shortname": "burlap.headwrap",
+      "displayName": "Burlap Headwrap",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "hat.candle": {
+      "itemID": 1714496074,
+      "shortname": "hat.candle",
+      "displayName": "Candle Hat",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "hat.cap": {
+      "itemID": -1022661119,
+      "shortname": "hat.cap",
+      "displayName": "Baseball Cap",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "clatter.helmet": {
+      "itemID": 968019378,
+      "shortname": "clatter.helmet",
+      "displayName": "Clatter Helmet",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "coffeecan.helmet": {
+      "itemID": -803263829,
+      "shortname": "coffeecan.helmet",
+      "displayName": "Coffee Can Helmet",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "deer.skull.mask": {
+      "itemID": -1903165497,
+      "shortname": "deer.skull.mask",
+      "displayName": "Bone Helmet",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "hat.dragonmask": {
+      "itemID": -22883916,
+      "shortname": "hat.dragonmask",
+      "displayName": "Dragon Mask",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "heavy.plate.helmet": {
+      "itemID": 1181207482,
+      "shortname": "heavy.plate.helmet",
+      "displayName": "Heavy Plate Helmet",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "hat.miner": {
+      "itemID": -1539025626,
+      "shortname": "hat.miner",
+      "displayName": "Miners Hat",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "partyhat": {
+      "itemID": -575744869,
+      "shortname": "partyhat",
+      "displayName": "Party Hat",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "attire.reindeer.headband": {
+      "itemID": -324675402,
+      "shortname": "attire.reindeer.headband",
+      "displayName": "Reindeer Antlers",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "riot.helmet": {
+      "itemID": 671063303,
+      "shortname": "riot.helmet",
+      "displayName": "Riot Helmet",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "hat.wolf": {
+      "itemID": -1478212975,
+      "shortname": "hat.wolf",
+      "displayName": "Wolf Headdress",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "wood.armor.helmet": {
+      "itemID": -2094954543,
+      "shortname": "wood.armor.helmet",
+      "displayName": "Wood Armor Helmet",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "hatchet": {
+      "itemID": -1252059217,
+      "shortname": "hatchet",
+      "displayName": "Hatchet",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "hazmatsuit": {
+      "itemID": 1266491000,
+      "shortname": "hazmatsuit",
+      "displayName": "Hazmat Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "electric.hbhfsensor": {
+      "itemID": -1507239837,
+      "shortname": "electric.hbhfsensor",
+      "displayName": "HBHF Sensor",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "clone.hemp": {
+      "itemID": -886280491,
+      "shortname": "clone.hemp",
+      "displayName": "Hemp Clone",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "seed.hemp": {
+      "itemID": -237809779,
+      "shortname": "seed.hemp",
+      "displayName": "Hemp Seed",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "attire.hide.boots": {
+      "itemID": 794356786,
+      "shortname": "attire.hide.boots",
+      "displayName": "Hide Boots",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "attire.hide.skirt": {
+      "itemID": -1773144852,
+      "shortname": "attire.hide.skirt",
+      "displayName": "Hide Skirt",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "attire.hide.vest": {
+      "itemID": 196700171,
+      "shortname": "attire.hide.vest",
+      "displayName": "Hide Vest",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "hitchtroughcombo": {
+      "itemID": 1160881421,
+      "shortname": "hitchtroughcombo",
+      "displayName": "Hitch & Trough",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "weapon.mod.holosight": {
+      "itemID": 442289265,
+      "shortname": "weapon.mod.holosight",
+      "displayName": "Holosight",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "hoodie": {
+      "itemID": 1751045826,
+      "shortname": "hoodie",
+      "displayName": "Hoodie",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "hq.metal.ore": {
+      "itemID": -1982036270,
+      "shortname": "hq.metal.ore",
+      "displayName": "High Quality Metal Ore",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "humanmeat.burned": {
+      "itemID": -682687162,
+      "shortname": "humanmeat.burned",
+      "displayName": "Burnt Human Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "humanmeat.cooked": {
+      "itemID": 1536610005,
+      "shortname": "humanmeat.cooked",
+      "displayName": "Cooked Human Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "humanmeat.raw": {
+      "itemID": -1709878924,
+      "shortname": "humanmeat.raw",
+      "displayName": "Raw Human Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "humanmeat.spoiled": {
+      "itemID": 1272768630,
+      "shortname": "humanmeat.spoiled",
+      "displayName": "Spoiled Human Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "icepick.salvaged": {
+      "itemID": -1780802565,
+      "shortname": "icepick.salvaged",
+      "displayName": "Salvaged Icepick",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "bone.armor.suit": {
+      "itemID": 1746956556,
+      "shortname": "bone.armor.suit",
+      "displayName": "Bone Armor",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "heavy.plate.jacket": {
+      "itemID": -1102429027,
+      "shortname": "heavy.plate.jacket",
+      "displayName": "Heavy Plate Jacket",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "jacket.snow": {
+      "itemID": -48090175,
+      "shortname": "jacket.snow",
+      "displayName": "Snow Jacket",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "jacket": {
+      "itemID": -1163532624,
+      "shortname": "jacket",
+      "displayName": "Jacket",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "jackhammer": {
+      "itemID": 1488979457,
+      "shortname": "jackhammer",
+      "displayName": "Jackhammer",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false
+    },
+    "jackolantern.angry": {
+      "itemID": 1242482355,
+      "shortname": "jackolantern.angry",
+      "displayName": "Jack O Lantern Angry",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "jackolantern.happy": {
+      "itemID": -1824943010,
+      "shortname": "jackolantern.happy",
+      "displayName": "Jack O Lantern Happy",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "keycard_blue": {
+      "itemID": -484206264,
+      "shortname": "keycard_blue",
+      "displayName": "Blue Keycard",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "keycard_green": {
+      "itemID": 37122747,
+      "shortname": "keycard_green",
+      "displayName": "Green Keycard",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "keycard_red": {
+      "itemID": -1880870149,
+      "shortname": "keycard_red",
+      "displayName": "Red Keycard",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "knife.combat": {
+      "itemID": 2040726127,
+      "shortname": "knife.combat",
+      "displayName": "Combat Knife",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "knife.bone": {
+      "itemID": 1814288539,
+      "shortname": "knife.bone",
+      "displayName": "Bone Knife",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "rifle.l96": {
+      "itemID": -778367295,
+      "shortname": "rifle.l96",
+      "displayName": "L96 Rifle",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "ladder.wooden.wall": {
+      "itemID": -316250604,
+      "shortname": "ladder.wooden.wall",
+      "displayName": "Wooden Ladder",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "trap.landmine": {
+      "itemID": -1663759755,
+      "shortname": "trap.landmine",
+      "displayName": "Land Mine",
+      "category": 9,
+      "categoryName": "Traps",
+      "availableAsBluePrint": true
+    },
+    "lantern": {
+      "itemID": 1658229558,
+      "shortname": "lantern",
+      "displayName": "Lantern",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "electric.battery.rechargable.large": {
+      "itemID": 553270375,
+      "shortname": "electric.battery.rechargable.large",
+      "displayName": "Large Rechargable Battery",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "largecandles": {
+      "itemID": -489848205,
+      "shortname": "largecandles",
+      "displayName": "Large Candle Set",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "largemedkit": {
+      "itemID": 254522515,
+      "shortname": "largemedkit",
+      "displayName": "Large Medkit",
+      "category": 6,
+      "categoryName": "Medical",
+      "availableAsBluePrint": true
+    },
+    "electric.laserdetector": {
+      "itemID": -798293154,
+      "shortname": "electric.laserdetector",
+      "displayName": "Laser Detector",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "weapon.mod.lasersight": {
+      "itemID": -132516482,
+      "shortname": "weapon.mod.lasersight",
+      "displayName": "Weapon Lasersight",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "leather": {
+      "itemID": 1381010055,
+      "shortname": "leather",
+      "displayName": "Leather",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "lock.code": {
+      "itemID": 1159991980,
+      "shortname": "lock.code",
+      "displayName": "Code Lock",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "lock.key": {
+      "itemID": -850982208,
+      "shortname": "lock.key",
+      "displayName": "Key Lock",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "locker": {
+      "itemID": -110921842,
+      "shortname": "locker",
+      "displayName": "Locker",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "longsword": {
+      "itemID": -1469578201,
+      "shortname": "longsword",
+      "displayName": "Longsword",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "rifle.lr300": {
+      "itemID": -1812555177,
+      "shortname": "rifle.lr300",
+      "displayName": "LR-300 Assault Rifle",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "lmg.m249": {
+      "itemID": -2069578888,
+      "shortname": "lmg.m249",
+      "displayName": "M249",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "rifle.m39": {
+      "itemID": 28201841,
+      "shortname": "rifle.m39",
+      "displayName": "M39 Rifle",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "pistol.m92": {
+      "itemID": -852563019,
+      "shortname": "pistol.m92",
+      "displayName": "M92 Pistol",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "mace": {
+      "itemID": -1966748496,
+      "shortname": "mace",
+      "displayName": "Mace",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "machete": {
+      "itemID": -1137865085,
+      "shortname": "machete",
+      "displayName": "Machete",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "mailbox": {
+      "itemID": -586784898,
+      "shortname": "mailbox",
+      "displayName": "Mail Box",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "male.facialhair.style02": {
+      "itemID": -163828118,
+      "shortname": "male.facialhair.style02",
+      "displayName": "m-facialhair02",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "male.facialhair.style03": {
+      "itemID": -163828117,
+      "shortname": "male.facialhair.style03",
+      "displayName": "m-facialhair03",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "male.facialhair.style04": {
+      "itemID": -163828112,
+      "shortname": "male.facialhair.style04",
+      "displayName": "m-facialhair04",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "male_hairstyle_02": {
+      "itemID": 1070894648,
+      "shortname": "male_hairstyle_02",
+      "displayName": "m-hairstyle-2",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "male_hairstyle_04": {
+      "itemID": 1070894646,
+      "shortname": "male_hairstyle_04",
+      "displayName": "m-hairstyle-4",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "malearmpithair.style01": {
+      "itemID": 181590376,
+      "shortname": "malearmpithair.style01",
+      "displayName": "m-armpit01",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "maleeyebrow.style01": {
+      "itemID": -874975042,
+      "shortname": "maleeyebrow.style01",
+      "displayName": "m-eyebrow01",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "malepubichair.style01": {
+      "itemID": -1190096326,
+      "shortname": "malepubichair.style01",
+      "displayName": "m-pubic01",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "male_hairstyle_03": {
+      "itemID": 1070894647,
+      "shortname": "male_hairstyle_03",
+      "displayName": "m-hairstyle-3",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "male_hairstyle_05": {
+      "itemID": 1070894645,
+      "shortname": "male_hairstyle_05",
+      "displayName": "m-hairstyle-5",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "map": {
+      "itemID": 696029452,
+      "shortname": "map",
+      "displayName": "Paper Map",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "mask.balaclava": {
+      "itemID": -2012470695,
+      "shortname": "mask.balaclava",
+      "displayName": "Improvised Balaclava",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "mask.bandana": {
+      "itemID": -702051347,
+      "shortname": "mask.bandana",
+      "displayName": "Bandana Mask",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "metal.facemask": {
+      "itemID": -194953424,
+      "shortname": "metal.facemask",
+      "displayName": "Metal Facemask",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "bearmeat.burned": {
+      "itemID": -989755543,
+      "shortname": "bearmeat.burned",
+      "displayName": "Burnt Bear Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "bearmeat.cooked": {
+      "itemID": 1873897110,
+      "shortname": "bearmeat.cooked",
+      "displayName": "Cooked Bear Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "bearmeat": {
+      "itemID": -1520560807,
+      "shortname": "bearmeat",
+      "displayName": "Raw Bear Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "deermeat.burned": {
+      "itemID": -78533081,
+      "shortname": "deermeat.burned",
+      "displayName": "Burnt Deer Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "deermeat.cooked": {
+      "itemID": -1509851560,
+      "shortname": "deermeat.cooked",
+      "displayName": "Cooked Deer Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "deermeat.raw": {
+      "itemID": 1422530437,
+      "shortname": "deermeat.raw",
+      "displayName": "Raw Deer Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "horsemeat.burned": {
+      "itemID": 1917703890,
+      "shortname": "horsemeat.burned",
+      "displayName": "Burnt Horse Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "horsemeat.cooked": {
+      "itemID": -1162759543,
+      "shortname": "horsemeat.cooked",
+      "displayName": "Cooked Horse Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "horsemeat.raw": {
+      "itemID": -1130350864,
+      "shortname": "horsemeat.raw",
+      "displayName": "Raw Horse Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "meat.pork.burned": {
+      "itemID": 1391703481,
+      "shortname": "meat.pork.burned",
+      "displayName": "Burnt Pork",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "meat.pork.cooked": {
+      "itemID": -242084766,
+      "shortname": "meat.pork.cooked",
+      "displayName": "Cooked Pork",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "meat.boar": {
+      "itemID": 621915341,
+      "shortname": "meat.boar",
+      "displayName": "Raw Pork",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "wolfmeat.burned": {
+      "itemID": 1827479659,
+      "shortname": "wolfmeat.burned",
+      "displayName": "Burnt Wolf Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "wolfmeat.cooked": {
+      "itemID": 813023040,
+      "shortname": "wolfmeat.cooked",
+      "displayName": "Cooked Wolf Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "wolfmeat.raw": {
+      "itemID": -395377963,
+      "shortname": "wolfmeat.raw",
+      "displayName": "Raw Wolf Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "wolfmeat.spoiled": {
+      "itemID": -1167031859,
+      "shortname": "wolfmeat.spoiled",
+      "displayName": "Spoiled Wolf Meat",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "metal.fragments": {
+      "itemID": 69511070,
+      "shortname": "metal.fragments",
+      "displayName": "Metal Fragments",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "metal.ore": {
+      "itemID": -4031221,
+      "shortname": "metal.ore",
+      "displayName": "Metal Ore",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "metal.plate.torso": {
+      "itemID": 1110385766,
+      "shortname": "metal.plate.torso",
+      "displayName": "Metal Chest Plate",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "metal.refined": {
+      "itemID": 317398316,
+      "shortname": "metal.refined",
+      "displayName": "High Quality Metal",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "metalblade": {
+      "itemID": 1882709339,
+      "shortname": "metalblade",
+      "displayName": "Metal Blade",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true
+    },
+    "metalpipe": {
+      "itemID": 95950017,
+      "shortname": "metalpipe",
+      "displayName": "Metal Pipe",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true
+    },
+    "multiplegrenadelauncher": {
+      "itemID": -1123473824,
+      "shortname": "multiplegrenadelauncher",
+      "displayName": "Multiple Grenade Launcher",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "minihelicopter.repair": {
+      "itemID": 1426574435,
+      "shortname": "minihelicopter.repair",
+      "displayName": "MC repair",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "mining.pumpjack": {
+      "itemID": -1130709577,
+      "shortname": "mining.pumpjack",
+      "displayName": "Pump Jack",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": false
+    },
+    "mining.quarry": {
+      "itemID": 1052926200,
+      "shortname": "mining.quarry",
+      "displayName": "Mining Quarry",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": false
+    },
+    "fish.minnows": {
+      "itemID": -542577259,
+      "shortname": "fish.minnows",
+      "displayName": "Minnows",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "smg.mp5": {
+      "itemID": 1318558775,
+      "shortname": "smg.mp5",
+      "displayName": "MP5A4",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "mushroom": {
+      "itemID": -1962971928,
+      "shortname": "mushroom",
+      "displayName": "Mushroom",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "weapon.mod.muzzleboost": {
+      "itemID": -1405508498,
+      "shortname": "weapon.mod.muzzleboost",
+      "displayName": "Muzzle Boost",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "weapon.mod.muzzlebrake": {
+      "itemID": 1478091698,
+      "shortname": "weapon.mod.muzzlebrake",
+      "displayName": "Muzzle Brake",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "pistol.nailgun": {
+      "itemID": 1953903201,
+      "shortname": "pistol.nailgun",
+      "displayName": "Nailgun",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "ammo.nailgun.nails": {
+      "itemID": -2097376851,
+      "shortname": "ammo.nailgun.nails",
+      "displayName": "Nailgun Nails",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "note": {
+      "itemID": 1414245162,
+      "shortname": "note",
+      "displayName": "Note",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "electric.orswitch": {
+      "itemID": -1286302544,
+      "shortname": "electric.orswitch",
+      "displayName": "OR Switch",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "easter.paintedeggs": {
+      "itemID": -126305173,
+      "shortname": "easter.paintedeggs",
+      "displayName": "Painted Egg",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "burlap.trousers": {
+      "itemID": 1992974553,
+      "shortname": "burlap.trousers",
+      "displayName": "Burlap Trousers",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "pants": {
+      "itemID": 237239288,
+      "shortname": "pants",
+      "displayName": "Pants",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "heavy.plate.pants": {
+      "itemID": -1778159885,
+      "shortname": "heavy.plate.pants",
+      "displayName": "Heavy Plate Pants",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "attire.hide.pants": {
+      "itemID": 1722154847,
+      "shortname": "attire.hide.pants",
+      "displayName": "Hide Pants",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "roadsign.kilt": {
+      "itemID": 1850456855,
+      "shortname": "roadsign.kilt",
+      "displayName": "Road Sign Kilt",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "pants.shorts": {
+      "itemID": -1695367501,
+      "shortname": "pants.shorts",
+      "displayName": "Shorts",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "paper": {
+      "itemID": -1779183908,
+      "shortname": "paper",
+      "displayName": "Paper",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "pickaxe": {
+      "itemID": -1302129395,
+      "shortname": "pickaxe",
+      "displayName": "Pickaxe",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "jar.pickle": {
+      "itemID": 286193827,
+      "shortname": "jar.pickle",
+      "displayName": "Pickles",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "pistol.eoka": {
+      "itemID": -75944661,
+      "shortname": "pistol.eoka",
+      "displayName": "Eoka Pistol",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "pistol.revolver": {
+      "itemID": 649912614,
+      "shortname": "pistol.revolver",
+      "displayName": "Revolver",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "pistol.semiauto": {
+      "itemID": 818877484,
+      "shortname": "pistol.semiauto",
+      "displayName": "Semi-Automatic Pistol",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "pitchfork": {
+      "itemID": 1090916276,
+      "shortname": "pitchfork",
+      "displayName": "Pitchfork",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "planter.large": {
+      "itemID": 1581210395,
+      "shortname": "planter.large",
+      "displayName": "Large Planter Box",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "planter.small": {
+      "itemID": 1903654061,
+      "shortname": "planter.small",
+      "displayName": "Small Planter Box",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "attire.hide.poncho": {
+      "itemID": 980333378,
+      "shortname": "attire.hide.poncho",
+      "displayName": "Hide Poncho",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "pookie.bear": {
+      "itemID": -1651220691,
+      "shortname": "pookie.bear",
+      "displayName": "Pookie Bear",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "xmas.present.large": {
+      "itemID": -1622660759,
+      "shortname": "xmas.present.large",
+      "displayName": "Large Present",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "xmas.present.medium": {
+      "itemID": 756517185,
+      "shortname": "xmas.present.medium",
+      "displayName": "Medium Present",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "xmas.present.small": {
+      "itemID": -722241321,
+      "shortname": "xmas.present.small",
+      "displayName": "Small Present",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "electric.pressurepad": {
+      "itemID": -2049214035,
+      "shortname": "electric.pressurepad",
+      "displayName": "Pressure Pad",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "propanetank": {
+      "itemID": -1673693549,
+      "shortname": "propanetank",
+      "displayName": "Empty Propane Tank",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true
+    },
+    "pumpkin": {
+      "itemID": -567909622,
+      "shortname": "pumpkin",
+      "displayName": "Pumpkin",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "clone.pumpkin": {
+      "itemID": 1898094925,
+      "shortname": "clone.pumpkin",
+      "displayName": "Pumpkin Plant Clone",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "seed.pumpkin": {
+      "itemID": -1511285251,
+      "shortname": "seed.pumpkin",
+      "displayName": "Pumpkin Seed",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "pistol.python": {
+      "itemID": 1373971859,
+      "shortname": "pistol.python",
+      "displayName": "Python Revolver",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "target.reactive": {
+      "itemID": -1736356576,
+      "shortname": "target.reactive",
+      "displayName": "Reactive Target",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "box.repair.bench": {
+      "itemID": 803222026,
+      "shortname": "box.repair.bench",
+      "displayName": "Repair Bench",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "research.table": {
+      "itemID": -1861522751,
+      "shortname": "research.table",
+      "displayName": "Research Table",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "researchpaper": {
+      "itemID": -544317637,
+      "shortname": "researchpaper",
+      "displayName": "Research Paper",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "electric.rf.broadcaster": {
+      "itemID": -1044468317,
+      "shortname": "electric.rf.broadcaster",
+      "displayName": "RF Broadcaster",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "rf_pager": {
+      "itemID": -566907190,
+      "shortname": "rf_pager",
+      "displayName": "RF Pager",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "electric.rf.receiver": {
+      "itemID": 888415708,
+      "shortname": "electric.rf.receiver",
+      "displayName": "RF Receiver",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "riflebody": {
+      "itemID": 176787552,
+      "shortname": "riflebody",
+      "displayName": "Rifle Body",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false
+    },
+    "roadsign.jacket": {
+      "itemID": -2002277461,
+      "shortname": "roadsign.jacket",
+      "displayName": "Road Sign Jacket",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "roadsigns": {
+      "itemID": 1199391518,
+      "shortname": "roadsigns",
+      "displayName": "Road Signs",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true
+    },
+    "rock": {
+      "itemID": 963906841,
+      "shortname": "rock",
+      "displayName": "Rock",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "rocket.launcher": {
+      "itemID": 442886268,
+      "shortname": "rocket.launcher",
+      "displayName": "Rocket Launcher",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "rope": {
+      "itemID": 1414245522,
+      "shortname": "rope",
+      "displayName": "Rope",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false
+    },
+    "rug.bear": {
+      "itemID": -1104881824,
+      "shortname": "rug.bear",
+      "displayName": "Rug Bear Skin",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "rug": {
+      "itemID": -1985799200,
+      "shortname": "rug",
+      "displayName": "Rug",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "rustige_egg_a": {
+      "itemID": -173268129,
+      "shortname": "rustige_egg_a",
+      "displayName": "Rustigé Egg - Red",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "rustige_egg_b": {
+      "itemID": -173268132,
+      "shortname": "rustige_egg_b",
+      "displayName": "Rustigé Egg - Blue",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "water.salt": {
+      "itemID": -277057363,
+      "shortname": "water.salt",
+      "displayName": "Salt Water",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "salvaged.cleaver": {
+      "itemID": -1978999529,
+      "shortname": "salvaged.cleaver",
+      "displayName": "Salvaged Cleaver",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "salvaged.sword": {
+      "itemID": 1326180354,
+      "shortname": "salvaged.sword",
+      "displayName": "Salvaged Sword",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "ammo.rocket.sam": {
+      "itemID": -384243979,
+      "shortname": "ammo.rocket.sam",
+      "displayName": "SAM Ammo",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true
+    },
+    "samsite": {
+      "itemID": -1009359066,
+      "shortname": "samsite",
+      "displayName": "SAM Site",
+      "category": 9,
+      "categoryName": "Traps",
+      "availableAsBluePrint": false
+    },
+    "santahat": {
+      "itemID": -575483084,
+      "shortname": "santahat",
+      "displayName": "Santa Hat",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "scarecrow": {
+      "itemID": 177226991,
+      "shortname": "scarecrow",
+      "displayName": "Scarecrow",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "hazmatsuit_scientist": {
+      "itemID": -253079493,
+      "shortname": "hazmatsuit_scientist",
+      "displayName": "Scientist Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "scientistsuit_heavy": {
+      "itemID": -1772746857,
+      "shortname": "scientistsuit_heavy",
+      "displayName": "Heavy Scientist Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "hazmatsuit_scientist_peacekeeper": {
+      "itemID": -1958316066,
+      "shortname": "hazmatsuit_scientist_peacekeeper",
+      "displayName": "Scientist Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false
+    },
+    "weapon.mod.small.scope": {
+      "itemID": 567235583,
+      "shortname": "weapon.mod.small.scope",
+      "displayName": "8x Zoom Scope",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "scrap": {
+      "itemID": -932201673,
+      "shortname": "scrap",
+      "displayName": "Scrap",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "searchlight": {
+      "itemID": 2087678962,
+      "shortname": "searchlight",
+      "displayName": "Search Light",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "rifle.semiauto": {
+      "itemID": -904863145,
+      "shortname": "rifle.semiauto",
+      "displayName": "Semi-Automatic Rifle",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "semibody": {
+      "itemID": 573926264,
+      "shortname": "semibody",
+      "displayName": "Semi Automatic Body",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false
+    },
+    "sewingkit": {
+      "itemID": 1234880403,
+      "shortname": "sewingkit",
+      "displayName": "Sewing Kit",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true
+    },
+    "sheetmetal": {
+      "itemID": -1994909036,
+      "shortname": "sheetmetal",
+      "displayName": "Sheet Metal",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false
+    },
+    "shelves": {
+      "itemID": 1950721418,
+      "shortname": "shelves",
+      "displayName": "Salvaged Shelves",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "shirt.collared": {
+      "itemID": -2025184684,
+      "shortname": "shirt.collared",
+      "displayName": "Shirt",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "shirt.tanktop": {
+      "itemID": 1608640313,
+      "shortname": "shirt.tanktop",
+      "displayName": "Tank Top",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "shoes.boots": {
+      "itemID": -1549739227,
+      "shortname": "shoes.boots",
+      "displayName": "Boots",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "shotgun.double": {
+      "itemID": -765183617,
+      "shortname": "shotgun.double",
+      "displayName": "Double Barrel Shotgun",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "shotgun.pump": {
+      "itemID": 795371088,
+      "shortname": "shotgun.pump",
+      "displayName": "Pump Shotgun",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "shotgun.waterpipe": {
+      "itemID": -1367281941,
+      "shortname": "shotgun.waterpipe",
+      "displayName": "Waterpipe Shotgun",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "guntrap": {
+      "itemID": 352499047,
+      "shortname": "guntrap",
+      "displayName": "Shotgun Trap",
+      "category": 9,
+      "categoryName": "Traps",
+      "availableAsBluePrint": true
+    },
+    "shutter.metal.embrasure.a": {
+      "itemID": -1199897169,
+      "shortname": "shutter.metal.embrasure.a",
+      "displayName": "Metal horizontal embrasure",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "shutter.metal.embrasure.b": {
+      "itemID": -1199897172,
+      "shortname": "shutter.metal.embrasure.b",
+      "displayName": "Metal Vertical embrasure",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "shutter.wood.a": {
+      "itemID": -1023374709,
+      "shortname": "shutter.wood.a",
+      "displayName": "Wood Shutters",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "sickle": {
+      "itemID": -1368584029,
+      "shortname": "sickle",
+      "displayName": "Sickle",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "sign.hanging.banner.large": {
+      "itemID": 23352662,
+      "shortname": "sign.hanging.banner.large",
+      "displayName": "Large Banner Hanging",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "sign.hanging": {
+      "itemID": 1205607945,
+      "shortname": "sign.hanging",
+      "displayName": "Two Sided Hanging Sign",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "sign.hanging.ornate": {
+      "itemID": -1647846966,
+      "shortname": "sign.hanging.ornate",
+      "displayName": "Two Sided Ornate Hanging Sign",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "sign.pictureframe.landscape": {
+      "itemID": -845557339,
+      "shortname": "sign.pictureframe.landscape",
+      "displayName": "Landscape Picture Frame",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "sign.pictureframe.portrait": {
+      "itemID": -1370759135,
+      "shortname": "sign.pictureframe.portrait",
+      "displayName": "Portrait Picture Frame",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "sign.pictureframe.tall": {
+      "itemID": 121049755,
+      "shortname": "sign.pictureframe.tall",
+      "displayName": "Tall Picture Frame",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "sign.pictureframe.xl": {
+      "itemID": -996185386,
+      "shortname": "sign.pictureframe.xl",
+      "displayName": "XL Picture Frame",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "sign.pictureframe.xxl": {
+      "itemID": 98508942,
+      "shortname": "sign.pictureframe.xxl",
+      "displayName": "XXL Picture Frame",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "sign.pole.banner.large": {
+      "itemID": 2070189026,
+      "shortname": "sign.pole.banner.large",
+      "displayName": "Large Banner on pole",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "sign.post.double": {
+      "itemID": 1521286012,
+      "shortname": "sign.post.double",
+      "displayName": "Double Sign Post",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "sign.post.single": {
+      "itemID": 1542290441,
+      "shortname": "sign.post.single",
+      "displayName": "Single Sign Post",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "sign.post.town": {
+      "itemID": -1832422579,
+      "shortname": "sign.post.town",
+      "displayName": "One Sided Town Sign Post",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "sign.post.town.roof": {
+      "itemID": 826309791,
+      "shortname": "sign.post.town.roof",
+      "displayName": "Two Sided Town Sign Post",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "sign.wooden.huge": {
+      "itemID": -143132326,
+      "shortname": "sign.wooden.huge",
+      "displayName": "Huge Wooden Sign",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "sign.wooden.large": {
+      "itemID": 1153652756,
+      "shortname": "sign.wooden.large",
+      "displayName": "Large Wooden Sign",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "sign.wooden.medium": {
+      "itemID": -1819233322,
+      "shortname": "sign.wooden.medium",
+      "displayName": "Wooden Sign",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "sign.wooden.small": {
+      "itemID": -1138208076,
+      "shortname": "sign.wooden.small",
+      "displayName": "Small Wooden Sign",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "weapon.mod.silencer": {
+      "itemID": -1850571427,
+      "shortname": "weapon.mod.silencer",
+      "displayName": "Silencer",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "easter.silveregg": {
+      "itemID": 1757265204,
+      "shortname": "easter.silveregg",
+      "displayName": "Silver Egg",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "electric.simplelight": {
+      "itemID": -282113991,
+      "shortname": "electric.simplelight",
+      "displayName": "Simple Light",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "weapon.mod.simplesight": {
+      "itemID": -855748505,
+      "shortname": "weapon.mod.simplesight",
+      "displayName": "Simple Handmade Sight",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "skull_fire_pit": {
+      "itemID": 553887414,
+      "shortname": "skull_fire_pit",
+      "displayName": "Skull Fire Pit",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "skull.human": {
+      "itemID": 996293980,
+      "shortname": "skull.human",
+      "displayName": "Human Skull",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "skull.wolf": {
+      "itemID": 2048317869,
+      "shortname": "skull.wolf",
+      "displayName": "Wolf Skull",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "sleepingbag": {
+      "itemID": -1754948969,
+      "shortname": "sleepingbag",
+      "displayName": "Sleeping Bag",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "electric.battery.rechargable.small": {
+      "itemID": -692338819,
+      "shortname": "electric.battery.rechargable.small",
+      "displayName": "Small Rechargable Battery",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "small.oil.refinery": {
+      "itemID": -1293296287,
+      "shortname": "small.oil.refinery",
+      "displayName": "Small Oil Refinery",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "stash.small": {
+      "itemID": -369760990,
+      "shortname": "stash.small",
+      "displayName": "Small Stash",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "smallcandles": {
+      "itemID": -2058362263,
+      "shortname": "smallcandles",
+      "displayName": "Small Candle Set",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "fish.troutsmall": {
+      "itemID": -1878764039,
+      "shortname": "fish.troutsmall",
+      "displayName": "Small Trout",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "smallwaterbottle": {
+      "itemID": -1039528932,
+      "shortname": "smallwaterbottle",
+      "displayName": "Small Water Bottle",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "smg.2": {
+      "itemID": 1796682209,
+      "shortname": "smg.2",
+      "displayName": "Custom SMG",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "smgbody": {
+      "itemID": 1230323789,
+      "shortname": "smgbody",
+      "displayName": "SMG Body",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false
+    },
+    "grenade.smoke": {
+      "itemID": 1263920163,
+      "shortname": "grenade.smoke",
+      "displayName": "Smoke Grenade",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false
+    },
+    "snowball": {
+      "itemID": -363689972,
+      "shortname": "snowball",
+      "displayName": "Snowball",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "snowmachine": {
+      "itemID": 1358643074,
+      "shortname": "snowmachine",
+      "displayName": "Snow Machine",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "snowman": {
+      "itemID": 1629293099,
+      "shortname": "snowman",
+      "displayName": "Snowman",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "electric.solarpanel.large": {
+      "itemID": 2090395347,
+      "shortname": "electric.solarpanel.large",
+      "displayName": "Large Solar Panel",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "shotgun.spas12": {
+      "itemID": -41440462,
+      "shortname": "shotgun.spas12",
+      "displayName": "Spas-12 Shotgun",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false
+    },
+    "spear.stone": {
+      "itemID": 1602646136,
+      "shortname": "spear.stone",
+      "displayName": "Stone Spear",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "spear.wooden": {
+      "itemID": 1540934679,
+      "shortname": "spear.wooden",
+      "displayName": "Wooden Spear",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "spiderweb": {
+      "itemID": 882559853,
+      "shortname": "spiderweb",
+      "displayName": "Spider Webs",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "spikes.floor": {
+      "itemID": -92759291,
+      "shortname": "spikes.floor",
+      "displayName": "Wooden Floor Spikes",
+      "category": 9,
+      "categoryName": "Traps",
+      "availableAsBluePrint": true
+    },
+    "spinner.wheel": {
+      "itemID": -1100422738,
+      "shortname": "spinner.wheel",
+      "displayName": "Spinning wheel",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "electric.splitter": {
+      "itemID": -563624462,
+      "shortname": "electric.splitter",
+      "displayName": "Splitter",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "spookyspeaker": {
+      "itemID": 1885488976,
+      "shortname": "spookyspeaker",
+      "displayName": "Spooky Speaker",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "metalspring": {
+      "itemID": -1021495308,
+      "shortname": "metalspring",
+      "displayName": "Metal Spring",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true
+    },
+    "sticks": {
+      "itemID": 642482233,
+      "shortname": "sticks",
+      "displayName": "Sticks",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false
+    },
+    "stocking.large": {
+      "itemID": -465682601,
+      "shortname": "stocking.large",
+      "displayName": "SUPER Stocking",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "stocking.small": {
+      "itemID": 1668858301,
+      "shortname": "stocking.small",
+      "displayName": "Small Stocking",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "stone.pickaxe": {
+      "itemID": 171931394,
+      "shortname": "stone.pickaxe",
+      "displayName": "Stone Pickaxe",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "stonehatchet": {
+      "itemID": -1583967946,
+      "shortname": "stonehatchet",
+      "displayName": "Stone Hatchet",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "stones": {
+      "itemID": -2099697608,
+      "shortname": "stones",
+      "displayName": "Stones",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "strobelight": {
+      "itemID": 2104517339,
+      "shortname": "strobelight",
+      "displayName": "Strobe Light",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "sulfur": {
+      "itemID": -1581843485,
+      "shortname": "sulfur",
+      "displayName": "Sulfur",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "sulfur.ore": {
+      "itemID": -1157596551,
+      "shortname": "sulfur.ore",
+      "displayName": "Sulfur Ore",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "supply.signal": {
+      "itemID": 1397052267,
+      "shortname": "supply.signal",
+      "displayName": "Supply Signal",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false
+    },
+    "surveycharge": {
+      "itemID": 1975934948,
+      "shortname": "surveycharge",
+      "displayName": "Survey Charge",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "fishtrap.small": {
+      "itemID": 559147458,
+      "shortname": "fishtrap.small",
+      "displayName": "Survival Fish Trap",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "electric.switch": {
+      "itemID": 1951603367,
+      "shortname": "electric.switch",
+      "displayName": "Switch",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "syringe.medical": {
+      "itemID": 1079279582,
+      "shortname": "syringe.medical",
+      "displayName": "Medical Syringe",
+      "category": 6,
+      "categoryName": "Medical",
+      "availableAsBluePrint": true
+    },
+    "table": {
+      "itemID": 593465182,
+      "shortname": "table",
+      "displayName": "Table",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "targeting.computer": {
+      "itemID": 1523195708,
+      "shortname": "targeting.computer",
+      "displayName": "Targeting Computer",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "tarp": {
+      "itemID": 2019042823,
+      "shortname": "tarp",
+      "displayName": "Tarp",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false
+    },
+    "techparts": {
+      "itemID": 73681876,
+      "shortname": "techparts",
+      "displayName": "Tech Trash",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false
+    },
+    "smg.thompson": {
+      "itemID": -1758372725,
+      "shortname": "smg.thompson",
+      "displayName": "Thompson",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true
+    },
+    "electric.timer": {
+      "itemID": 665332906,
+      "shortname": "electric.timer",
+      "displayName": "Timer",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    },
+    "torch": {
+      "itemID": 795236088,
+      "shortname": "torch",
+      "displayName": "Torch",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true
+    },
+    "xmas.decoration.baubels": {
+      "itemID": -1667224349,
+      "shortname": "xmas.decoration.baubels",
+      "displayName": "Decorative Baubels",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "xmas.decoration.candycanes": {
+      "itemID": -209869746,
+      "shortname": "xmas.decoration.candycanes",
+      "displayName": "Decorative Plastic Candy Canes",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "xmas.decoration.gingerbreadmen": {
+      "itemID": 1686524871,
+      "shortname": "xmas.decoration.gingerbreadmen",
+      "displayName": "Decorative Gingerbread Men",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "xmas.decoration.lights": {
+      "itemID": 1723747470,
+      "shortname": "xmas.decoration.lights",
+      "displayName": "Tree Lights",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "xmas.decoration.pinecone": {
+      "itemID": -129230242,
+      "shortname": "xmas.decoration.pinecone",
+      "displayName": "Decorative Pinecones",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "xmas.decoration.star": {
+      "itemID": -1331212963,
+      "shortname": "xmas.decoration.star",
+      "displayName": "Star Tree Topper",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "xmas.decoration.tinsel": {
+      "itemID": 2106561762,
+      "shortname": "xmas.decoration.tinsel",
+      "displayName": "Decorative Tinsel",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "tshirt": {
+      "itemID": 223891266,
+      "shortname": "tshirt",
+      "displayName": "T-Shirt",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "tshirt.long": {
+      "itemID": 935692442,
+      "shortname": "tshirt.long",
+      "displayName": "Longsleeve T-Shirt",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "tunalight": {
+      "itemID": -1478445584,
+      "shortname": "tunalight",
+      "displayName": "Tuna Can Lamp",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "vending.machine": {
+      "itemID": 198438816,
+      "shortname": "vending.machine",
+      "displayName": "Vending Machine",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "wall.external.high.stone": {
+      "itemID": -967648160,
+      "shortname": "wall.external.high.stone",
+      "displayName": "High External Stone Wall",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "wall.external.high": {
+      "itemID": 99588025,
+      "shortname": "wall.external.high",
+      "displayName": "High External Wooden Wall",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "wall.frame.cell.gate": {
+      "itemID": -956706906,
+      "shortname": "wall.frame.cell.gate",
+      "displayName": "Prison Cell Gate",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "wall.frame.cell": {
+      "itemID": -1429456799,
+      "shortname": "wall.frame.cell",
+      "displayName": "Prison Cell Wall",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "wall.frame.fence.gate": {
+      "itemID": 1451568081,
+      "shortname": "wall.frame.fence.gate",
+      "displayName": "Chainlink Fence Gate",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "wall.frame.fence": {
+      "itemID": -1117626326,
+      "shortname": "wall.frame.fence",
+      "displayName": "Chainlink Fence",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "wall.frame.garagedoor": {
+      "itemID": -148794216,
+      "shortname": "wall.frame.garagedoor",
+      "displayName": "Garage Door",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "wall.frame.netting": {
+      "itemID": 1516985844,
+      "shortname": "wall.frame.netting",
+      "displayName": "Netting",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "wall.frame.shopfront": {
+      "itemID": -796583652,
+      "shortname": "wall.frame.shopfront",
+      "displayName": "Shop Front",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": false
+    },
+    "wall.frame.shopfront.metal": {
+      "itemID": -148229307,
+      "shortname": "wall.frame.shopfront.metal",
+      "displayName": "Metal Shop Front",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "wall.window.bars.metal": {
+      "itemID": -819720157,
+      "shortname": "wall.window.bars.metal",
+      "displayName": "Metal Window Bars",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "wall.window.bars.toptier": {
+      "itemID": 671706427,
+      "shortname": "wall.window.bars.toptier",
+      "displayName": "Reinforced Window Bars",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "wall.window.bars.wood": {
+      "itemID": -1183726687,
+      "shortname": "wall.window.bars.wood",
+      "displayName": "Wooden Window Bars",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "wall.window.glass.reinforced": {
+      "itemID": -1614955425,
+      "shortname": "wall.window.glass.reinforced",
+      "displayName": "Reinforced Glass Window",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "watchtower.wood": {
+      "itemID": -463122489,
+      "shortname": "watchtower.wood",
+      "displayName": "Watch Tower",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "water": {
+      "itemID": -1779180711,
+      "shortname": "water",
+      "displayName": "Water",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "water.catcher.large": {
+      "itemID": -1100168350,
+      "shortname": "water.catcher.large",
+      "displayName": "Large Water Catcher",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "water.catcher.small": {
+      "itemID": -132247350,
+      "shortname": "water.catcher.small",
+      "displayName": "Small Water Catcher",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true
+    },
+    "water.barrel": {
+      "itemID": -1863559151,
+      "shortname": "water.barrel",
+      "displayName": "Water Barrel",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "waterjug": {
+      "itemID": -119235651,
+      "shortname": "waterjug",
+      "displayName": "Water Jug",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false
+    },
+    "water.purifier": {
+      "itemID": 2114754781,
+      "shortname": "water.purifier",
+      "displayName": "Water Purifier",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true
+    },
+    "xmas.window.garland": {
+      "itemID": -1379835144,
+      "shortname": "xmas.window.garland",
+      "displayName": "Festive Window Garland",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "wiretool": {
+      "itemID": -144417939,
+      "shortname": "wiretool",
+      "displayName": "Wire Tool",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false
+    },
+    "wood": {
+      "itemID": -151838493,
+      "shortname": "wood",
+      "displayName": "Wood",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false
+    },
+    "wood.armor.jacket": {
+      "itemID": 418081930,
+      "shortname": "wood.armor.jacket",
+      "displayName": "Wood Chestplate",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "wood.armor.pants": {
+      "itemID": 832133926,
+      "shortname": "wood.armor.pants",
+      "displayName": "Wood Armor Pants",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true
+    },
+    "workbench1": {
+      "itemID": 1524187186,
+      "shortname": "workbench1",
+      "displayName": "Work Bench Level 1",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "workbench2": {
+      "itemID": -41896755,
+      "shortname": "workbench2",
+      "displayName": "Work Bench Level 2",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "workbench3": {
+      "itemID": -1607980696,
+      "shortname": "workbench3",
+      "displayName": "Work Bench Level 3",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "xmas.lightstring": {
+      "itemID": 1058261682,
+      "shortname": "xmas.lightstring",
+      "displayName": "Christmas Lights",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "xmas.tree": {
+      "itemID": 794443127,
+      "shortname": "xmas.tree",
+      "displayName": "Christmas Tree",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false
+    },
+    "electric.xorswitch": {
+      "itemID": 1293102274,
+      "shortname": "electric.xorswitch",
+      "displayName": "XOR Switch",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": true
+    }
+  }
+}
