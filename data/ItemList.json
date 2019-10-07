@@ -186,7 +186,7 @@
       "shortname": "electric.andswitch",
       "displayName": "AND Switch",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -258,7 +258,7 @@
       "shortname": "electric.audioalarm",
       "displayName": "Audio Alarm",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -267,7 +267,7 @@
       "shortname": "autoturret",
       "displayName": "Auto Turret",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -573,7 +573,7 @@
       "shortname": "electric.cabletunnel",
       "displayName": "Cable Tunnel",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
@@ -690,7 +690,7 @@
       "shortname": "ceilinglight",
       "displayName": "Ceiling Light",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -861,7 +861,7 @@
       "shortname": "electric.counter",
       "displayName": "Counter",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -1023,7 +1023,7 @@
       "shortname": "electric.doorcontroller",
       "displayName": "Door Controller",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -1086,7 +1086,7 @@
       "shortname": "electric.flasherlight",
       "displayName": "Flasher Light",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -1095,7 +1095,7 @@
       "shortname": "electric.sirenlight",
       "displayName": "Siren Light",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -1104,7 +1104,7 @@
       "shortname": "electric.blocker",
       "displayName": "Blocker",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -1113,7 +1113,7 @@
       "shortname": "electrical.branch",
       "displayName": "Electrical Branch",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -1122,7 +1122,7 @@
       "shortname": "electrical.combiner",
       "displayName": "Root Combiner",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -1131,7 +1131,7 @@
       "shortname": "electrical.memorycell",
       "displayName": "Memory Cell",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -1140,7 +1140,7 @@
       "shortname": "electric.random.switch",
       "displayName": "RAND Switch",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -1446,7 +1446,7 @@
       "shortname": "electric.generator.small",
       "displayName": "Test Generator",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
@@ -1455,7 +1455,7 @@
       "shortname": "generator.wind.scrap",
       "displayName": "Wind Turbine",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -1878,7 +1878,7 @@
       "shortname": "electric.hbhfsensor",
       "displayName": "HBHF Sensor",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -2202,7 +2202,7 @@
       "shortname": "electric.battery.rechargable.large",
       "displayName": "Large Rechargable Battery",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -2229,7 +2229,7 @@
       "shortname": "electric.laserdetector",
       "displayName": "Laser Detector",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -2787,7 +2787,7 @@
       "shortname": "electric.orswitch",
       "displayName": "OR Switch",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -2985,7 +2985,7 @@
       "shortname": "electric.pressurepad",
       "displayName": "Pressure Pad",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -3075,7 +3075,7 @@
       "shortname": "electric.rf.broadcaster",
       "displayName": "RF Broadcaster",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -3084,7 +3084,7 @@
       "shortname": "rf_pager",
       "displayName": "RF Pager",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -3093,7 +3093,7 @@
       "shortname": "electric.rf.receiver",
       "displayName": "RF Receiver",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -3633,7 +3633,7 @@
       "shortname": "electric.simplelight",
       "displayName": "Simple Light",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
@@ -3687,7 +3687,7 @@
       "shortname": "electric.battery.rechargable.small",
       "displayName": "Small Rechargable Battery",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -3696,7 +3696,7 @@
       "shortname": "electric.fuelgenerator.small",
       "displayName": "Small Generator",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -3804,7 +3804,7 @@
       "shortname": "electric.solarpanel.large",
       "displayName": "Large Solar Panel",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -3867,7 +3867,7 @@
       "shortname": "electric.splitter",
       "displayName": "Splitter",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -4002,7 +4002,7 @@
       "shortname": "electric.switch",
       "displayName": "Switch",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -4056,7 +4056,7 @@
       "shortname": "electric.teslacoil",
       "displayName": "Tesla Coil",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -4074,7 +4074,7 @@
       "shortname": "electric.timer",
       "displayName": "Timer",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
@@ -4389,7 +4389,7 @@
       "shortname": "wiretool",
       "displayName": "Wire Tool",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
@@ -4470,9 +4470,496 @@
       "shortname": "electric.xorswitch",
       "displayName": "XOR Switch",
       "category": 16,
-      "categoryName": "",
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     }
-  }
+  },
+  "AllMonumentsAvailable": [
+    {
+      "name": "OilrigAI2",
+      "displayName": null,
+      "tier": 6
+    },
+    {
+      "name": "OilrigAI",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/lighthouse/lighthouse.prefab",
+      "displayName": null,
+      "tier": 1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/lighthouse/lighthouse.prefab",
+      "displayName": null,
+      "tier": 1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_easy.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_medium.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_medium.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_easy.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_medium.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_hard.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_large_sewers_hard.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_hard.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_medium_medium.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_medium_medium.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_hard.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_large_sewers_hard.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_large_medium.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_easy.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/swamp/swamp_c.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/swamp/swamp_b.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_d.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_b.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_b.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_b.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_e.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_a.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_a.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/small/mining_quarry_a.prefab",
+      "displayName": null,
+      "tier": 4
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/small/warehouse.prefab",
+      "displayName": null,
+      "tier": 1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/small/supermarket_1.prefab",
+      "displayName": null,
+      "tier": 1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/small/warehouse.prefab",
+      "displayName": null,
+      "tier": 1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/small/gas_station_1.prefab",
+      "displayName": null,
+      "tier": 1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/small/warehouse.prefab",
+      "displayName": null,
+      "tier": 1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/small/sphere_tank.prefab",
+      "displayName": null,
+      "tier": 2
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/small/satellite_dish.prefab",
+      "displayName": null,
+      "tier": 2
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/small/supermarket_1.prefab",
+      "displayName": null,
+      "tier": 1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/small/mining_quarry_b.prefab",
+      "displayName": null,
+      "tier": 4
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/small/gas_station_1.prefab",
+      "displayName": null,
+      "tier": 1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/small/mining_quarry_c.prefab",
+      "displayName": null,
+      "tier": 4
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/medium/radtown_small_3.prefab",
+      "displayName": null,
+      "tier": 2
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/medium/bandit_town.prefab",
+      "displayName": null,
+      "tier": 2
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/medium/compound.prefab",
+      "displayName": null,
+      "tier": 2
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/large/airfield_1.prefab",
+      "displayName": null,
+      "tier": 2
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/large/trainyard_1.prefab",
+      "displayName": null,
+      "tier": 2
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/large/military_tunnel_1.prefab",
+      "displayName": null,
+      "tier": 4
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/large/junkyard_1.prefab",
+      "displayName": null,
+      "tier": 2
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/large/water_treatment_plant_1.prefab",
+      "displayName": null,
+      "tier": 2
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/large/launch_site_1.prefab",
+      "displayName": null,
+      "tier": 4
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/large/excavator_1.prefab",
+      "displayName": null,
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/harbor/harbor_1.prefab",
+      "displayName": null,
+      "tier": 3
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/harbor/harbor_2.prefab",
+      "displayName": null,
+      "tier": 3
+    }
+  ]
 }
