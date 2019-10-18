@@ -1,5 +1,5 @@
 {
-  "version": 2194,
+  "version": 2197,
   "AllItemsAvailable": {
     "ammo.grenadelauncher.buckshot": {
       "itemID": 1055319033,
@@ -865,6 +865,15 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
+    "cratecostume": {
+      "itemID": 1189981699,
+      "shortname": "cratecostume",
+      "displayName": "Crate Costume",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
     "crossbow": {
       "itemID": 1965232394,
       "shortname": "crossbow",
@@ -1639,19 +1648,19 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "halloween.lootbag": {
-      "itemID": -295117143,
-      "shortname": "halloween.lootbag",
-      "displayName": "Halloween Loot Bag",
-      "category": 10,
-      "categoryName": "Misc",
+    "halloween.mummysuit": {
+      "itemID": 277730763,
+      "shortname": "halloween.mummysuit",
+      "displayName": "Mummy Suit",
+      "category": 4,
+      "categoryName": "Attire",
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
     "scarecrow.suit": {
       "itemID": 273951840,
       "shortname": "scarecrow.suit",
-      "displayName": "WIP",
+      "displayName": "Scarecrow Suit",
       "category": 4,
       "categoryName": "Attire",
       "availableAsBluePrint": false,
@@ -1663,6 +1672,15 @@
       "displayName": "Scarecrow Wrap",
       "category": 4,
       "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    "halloween.candy": {
+      "itemID": -888153050,
+      "shortname": "halloween.candy",
+      "displayName": "Halloween Candy",
+      "category": 10,
+      "categoryName": "Misc",
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
@@ -2285,6 +2303,33 @@
       "category": 0,
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
+      "defaultBlueprint": false
+    },
+    "halloween.lootbag.large": {
+      "itemID": 479292118,
+      "shortname": "halloween.lootbag.large",
+      "displayName": "Large Loot Bag",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    "halloween.lootbag.medium": {
+      "itemID": 1899610628,
+      "shortname": "halloween.lootbag.medium",
+      "displayName": "Medium Loot Bag",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    "halloween.lootbag.small": {
+      "itemID": 1319617282,
+      "shortname": "halloween.lootbag.small",
+      "displayName": "Small Loot Bag",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
     "rifle.lr300": {
@@ -3007,6 +3052,15 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
+    "pumpkinbasket": {
+      "itemID": 1346158228,
+      "shortname": "pumpkinbasket",
+      "displayName": "Pumpkin Bucket",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
     "clone.pumpkin": {
       "itemID": 1898094925,
       "shortname": "clone.pumpkin",
@@ -3646,6 +3700,15 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
+    "skulldoorknocker": {
+      "itemID": -216116642,
+      "shortname": "skulldoorknocker",
+      "displayName": "Skull Door Knocker",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
     "skull_fire_pit": {
       "itemID": 553887414,
       "shortname": "skull_fire_pit",
@@ -3976,6 +4039,15 @@
       "displayName": "Supply Signal",
       "category": 5,
       "categoryName": "Tool",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    "halloween.surgeonsuit": {
+      "itemID": -1785231475,
+      "shortname": "halloween.surgeonsuit",
+      "displayName": "Surgeon Scrubs",
+      "category": 4,
+      "categoryName": "Attire",
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
