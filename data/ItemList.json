@@ -1,7 +1,7 @@
 {
-  "version": 2208,
-  "AllItemsAvailable": {
-    "hat.wolf": {
+  "version": 2210,
+  "AllItemsAvailable": [
+    {
       "itemID": -1478212975,
       "shortname": "hat.wolf",
       "displayName": "Wolf Headdress",
@@ -10,7 +10,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "fogmachine": {
+    {
       "itemID": -1973785141,
       "shortname": "fogmachine",
       "displayName": "Fogger-3000",
@@ -19,7 +19,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "strobelight": {
+    {
       "itemID": 2104517339,
       "shortname": "strobelight",
       "displayName": "Strobe Light",
@@ -28,7 +28,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "minihelicopter.repair": {
+    {
       "itemID": 1426574435,
       "shortname": "minihelicopter.repair",
       "displayName": "MC repair",
@@ -37,7 +37,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "scraptransportheli.repair": {
+    {
       "itemID": -1884328185,
       "shortname": "scraptransportheli.repair",
       "displayName": "ScrapTransportHeliRepair",
@@ -46,7 +46,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "ammo.grenadelauncher.buckshot": {
+    {
       "itemID": 1055319033,
       "shortname": "ammo.grenadelauncher.buckshot",
       "displayName": "40mm Shotgun Round",
@@ -55,7 +55,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "ammo.grenadelauncher.he": {
+    {
       "itemID": 349762871,
       "shortname": "ammo.grenadelauncher.he",
       "displayName": "40mm HE Grenade",
@@ -64,7 +64,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "ammo.grenadelauncher.smoke": {
+    {
       "itemID": 915408809,
       "shortname": "ammo.grenadelauncher.smoke",
       "displayName": "40mm Smoke Grenade",
@@ -73,7 +73,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "arrow.hv": {
+    {
       "itemID": -1023065463,
       "shortname": "arrow.hv",
       "displayName": "High Velocity Arrow",
@@ -82,7 +82,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "arrow.wooden": {
+    {
       "itemID": -1234735557,
       "shortname": "arrow.wooden",
       "displayName": "Wooden Arrow",
@@ -91,7 +91,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "arrow.bone": {
+    {
       "itemID": 215754713,
       "shortname": "arrow.bone",
       "displayName": "Bone Arrow",
@@ -100,7 +100,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "arrow.fire": {
+    {
       "itemID": 14241751,
       "shortname": "arrow.fire",
       "displayName": "Fire Arrow",
@@ -109,7 +109,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ammo.handmade.shell": {
+    {
       "itemID": 588596902,
       "shortname": "ammo.handmade.shell",
       "displayName": "Handmade Shell",
@@ -118,7 +118,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "ammo.nailgun.nails": {
+    {
       "itemID": -2097376851,
       "shortname": "ammo.nailgun.nails",
       "displayName": "Nailgun Nails",
@@ -127,7 +127,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "ammo.pistol": {
+    {
       "itemID": 785728077,
       "shortname": "ammo.pistol",
       "displayName": "Pistol Bullet",
@@ -136,7 +136,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ammo.pistol.fire": {
+    {
       "itemID": 51984655,
       "shortname": "ammo.pistol.fire",
       "displayName": "Incendiary Pistol Bullet",
@@ -145,7 +145,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ammo.pistol.hv": {
+    {
       "itemID": -1691396643,
       "shortname": "ammo.pistol.hv",
       "displayName": "HV Pistol Ammo",
@@ -154,7 +154,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ammo.rifle": {
+    {
       "itemID": -1211166256,
       "shortname": "ammo.rifle",
       "displayName": "5.56 Rifle Ammo",
@@ -163,7 +163,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ammo.rifle.explosive": {
+    {
       "itemID": -1321651331,
       "shortname": "ammo.rifle.explosive",
       "displayName": "Explosive 5.56 Rifle Ammo",
@@ -172,7 +172,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ammo.rifle.incendiary": {
+    {
       "itemID": 605467368,
       "shortname": "ammo.rifle.incendiary",
       "displayName": "Incendiary 5.56 Rifle Ammo",
@@ -181,7 +181,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ammo.rifle.hv": {
+    {
       "itemID": 1712070256,
       "shortname": "ammo.rifle.hv",
       "displayName": "HV 5.56 Rifle Ammo",
@@ -190,7 +190,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ammo.rocket.basic": {
+    {
       "itemID": -742865266,
       "shortname": "ammo.rocket.basic",
       "displayName": "Rocket",
@@ -199,7 +199,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ammo.rocket.fire": {
+    {
       "itemID": 1638322904,
       "shortname": "ammo.rocket.fire",
       "displayName": "Incendiary Rocket",
@@ -208,7 +208,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ammo.rocket.hv": {
+    {
       "itemID": -1841918730,
       "shortname": "ammo.rocket.hv",
       "displayName": "High Velocity Rocket",
@@ -217,7 +217,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ammo.rocket.smoke": {
+    {
       "itemID": -17123659,
       "shortname": "ammo.rocket.smoke",
       "displayName": "Smoke Rocket WIP!!!!",
@@ -226,7 +226,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "ammo.shotgun": {
+    {
       "itemID": -1685290200,
       "shortname": "ammo.shotgun",
       "displayName": "12 Gauge Buckshot",
@@ -235,7 +235,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ammo.shotgun.fire": {
+    {
       "itemID": -1036635990,
       "shortname": "ammo.shotgun.fire",
       "displayName": "12 Gauge Incendiary Shell",
@@ -244,7 +244,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ammo.shotgun.slug": {
+    {
       "itemID": -727717969,
       "shortname": "ammo.shotgun.slug",
       "displayName": "12 Gauge Slug",
@@ -253,7 +253,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "door.double.hinged.metal": {
+    {
       "itemID": 1390353317,
       "shortname": "door.double.hinged.metal",
       "displayName": "Sheet Metal Double Door",
@@ -262,7 +262,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "door.double.hinged.toptier": {
+    {
       "itemID": 1221063409,
       "shortname": "door.double.hinged.toptier",
       "displayName": "Armored Double Door",
@@ -271,7 +271,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "door.double.hinged.wood": {
+    {
       "itemID": -1336109173,
       "shortname": "door.double.hinged.wood",
       "displayName": "Wood Double Door",
@@ -280,7 +280,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "door.hinged.metal": {
+    {
       "itemID": -2067472972,
       "shortname": "door.hinged.metal",
       "displayName": "Sheet Metal Door",
@@ -289,7 +289,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "door.hinged.toptier": {
+    {
       "itemID": 1353298668,
       "shortname": "door.hinged.toptier",
       "displayName": "Armored Door",
@@ -298,7 +298,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "door.hinged.wood": {
+    {
       "itemID": 1729120840,
       "shortname": "door.hinged.wood",
       "displayName": "Wooden Door",
@@ -307,7 +307,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "floor.grill": {
+    {
       "itemID": 936496778,
       "shortname": "floor.grill",
       "displayName": "Floor grill",
@@ -316,7 +316,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "floor.ladder.hatch": {
+    {
       "itemID": 1948067030,
       "shortname": "floor.ladder.hatch",
       "displayName": "Ladder Hatch",
@@ -325,7 +325,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "gates.external.high.stone": {
+    {
       "itemID": -691113464,
       "shortname": "gates.external.high.stone",
       "displayName": "High External Stone Gate",
@@ -334,7 +334,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "gates.external.high.wood": {
+    {
       "itemID": -335089230,
       "shortname": "gates.external.high.wood",
       "displayName": "High External Wooden Gate",
@@ -343,7 +343,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "ladder.wooden.wall": {
+    {
       "itemID": -316250604,
       "shortname": "ladder.wooden.wall",
       "displayName": "Wooden Ladder",
@@ -352,7 +352,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wall.external.high.stone": {
+    {
       "itemID": -967648160,
       "shortname": "wall.external.high.stone",
       "displayName": "High External Stone Wall",
@@ -361,7 +361,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wall.external.high": {
+    {
       "itemID": 99588025,
       "shortname": "wall.external.high",
       "displayName": "High External Wooden Wall",
@@ -370,7 +370,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wall.frame.cell.gate": {
+    {
       "itemID": -956706906,
       "shortname": "wall.frame.cell.gate",
       "displayName": "Prison Cell Gate",
@@ -379,7 +379,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wall.frame.cell": {
+    {
       "itemID": -1429456799,
       "shortname": "wall.frame.cell",
       "displayName": "Prison Cell Wall",
@@ -388,7 +388,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wall.frame.fence.gate": {
+    {
       "itemID": 1451568081,
       "shortname": "wall.frame.fence.gate",
       "displayName": "Chainlink Fence Gate",
@@ -397,7 +397,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wall.frame.fence": {
+    {
       "itemID": -1117626326,
       "shortname": "wall.frame.fence",
       "displayName": "Chainlink Fence",
@@ -406,7 +406,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wall.frame.garagedoor": {
+    {
       "itemID": -148794216,
       "shortname": "wall.frame.garagedoor",
       "displayName": "Garage Door",
@@ -415,7 +415,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wall.frame.netting": {
+    {
       "itemID": 1516985844,
       "shortname": "wall.frame.netting",
       "displayName": "Netting",
@@ -424,7 +424,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "wall.frame.shopfront": {
+    {
       "itemID": -796583652,
       "shortname": "wall.frame.shopfront",
       "displayName": "Shop Front",
@@ -433,7 +433,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "wall.frame.shopfront.metal": {
+    {
       "itemID": -148229307,
       "shortname": "wall.frame.shopfront.metal",
       "displayName": "Metal Shop Front",
@@ -442,7 +442,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "wall.window.bars.metal": {
+    {
       "itemID": -819720157,
       "shortname": "wall.window.bars.metal",
       "displayName": "Metal Window Bars",
@@ -451,7 +451,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wall.window.bars.toptier": {
+    {
       "itemID": 671706427,
       "shortname": "wall.window.bars.toptier",
       "displayName": "Reinforced Window Bars",
@@ -460,7 +460,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wall.window.bars.wood": {
+    {
       "itemID": -1183726687,
       "shortname": "wall.window.bars.wood",
       "displayName": "Wooden Window Bars",
@@ -469,7 +469,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "shutter.metal.embrasure.a": {
+    {
       "itemID": -1199897169,
       "shortname": "shutter.metal.embrasure.a",
       "displayName": "Metal horizontal embrasure",
@@ -478,7 +478,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "shutter.metal.embrasure.b": {
+    {
       "itemID": -1199897172,
       "shortname": "shutter.metal.embrasure.b",
       "displayName": "Metal Vertical embrasure",
@@ -487,7 +487,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wall.window.glass.reinforced": {
+    {
       "itemID": -1614955425,
       "shortname": "wall.window.glass.reinforced",
       "displayName": "Reinforced Glass Window",
@@ -496,7 +496,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "shutter.wood.a": {
+    {
       "itemID": -1023374709,
       "shortname": "shutter.wood.a",
       "displayName": "Wood Shutters",
@@ -505,7 +505,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "watchtower.wood": {
+    {
       "itemID": -463122489,
       "shortname": "watchtower.wood",
       "displayName": "Watch Tower",
@@ -514,7 +514,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "diving.fins": {
+    {
       "itemID": 296519935,
       "shortname": "diving.fins",
       "displayName": "Diving Fins",
@@ -523,7 +523,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "diving.mask": {
+    {
       "itemID": -113413047,
       "shortname": "diving.mask",
       "displayName": "Diving Mask",
@@ -532,7 +532,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "diving.tank": {
+    {
       "itemID": -2022172587,
       "shortname": "diving.tank",
       "displayName": "Diving Tank",
@@ -541,7 +541,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "diving.wetsuit": {
+    {
       "itemID": -1101924344,
       "shortname": "diving.wetsuit",
       "displayName": "Wetsuit",
@@ -550,7 +550,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "boots.frog": {
+    {
       "itemID": -1000573653,
       "shortname": "boots.frog",
       "displayName": "Frog Boots",
@@ -559,7 +559,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "barrelcostume": {
+    {
       "itemID": -1215166612,
       "shortname": "barrelcostume",
       "displayName": "A Barrel Costume",
@@ -568,7 +568,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "cratecostume": {
+    {
       "itemID": 1189981699,
       "shortname": "cratecostume",
       "displayName": "Crate Costume",
@@ -577,7 +577,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "burlap.gloves.new": {
+    {
       "itemID": 21402876,
       "shortname": "burlap.gloves.new",
       "displayName": "Burlap Gloves",
@@ -586,7 +586,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "burlap.gloves": {
+    {
       "itemID": 1366282552,
       "shortname": "burlap.gloves",
       "displayName": "Leather Gloves",
@@ -595,7 +595,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "roadsign.gloves": {
+    {
       "itemID": -699558439,
       "shortname": "roadsign.gloves",
       "displayName": "Roadsign Gloves",
@@ -604,7 +604,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "tactical.gloves": {
+    {
       "itemID": -1108136649,
       "shortname": "tactical.gloves",
       "displayName": "Tactical Gloves",
@@ -613,7 +613,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "femalearmpithair.style01": {
+    {
       "itemID": 274502203,
       "shortname": "femalearmpithair.style01",
       "displayName": "f-armpit01",
@@ -622,7 +622,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "malearmpithair.style01": {
+    {
       "itemID": 181590376,
       "shortname": "malearmpithair.style01",
       "displayName": "m-armpit01",
@@ -631,7 +631,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "femaleeyebrow.style01": {
+    {
       "itemID": -1065444793,
       "shortname": "femaleeyebrow.style01",
       "displayName": "f-eyebrow01",
@@ -640,7 +640,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "maleeyebrow.style01": {
+    {
       "itemID": -874975042,
       "shortname": "maleeyebrow.style01",
       "displayName": "m-eyebrow01",
@@ -649,7 +649,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "facialhair.style01": {
+    {
       "itemID": 798638114,
       "shortname": "facialhair.style01",
       "displayName": "m-facialhair01",
@@ -658,7 +658,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "male.facialhair.style02": {
+    {
       "itemID": -163828118,
       "shortname": "male.facialhair.style02",
       "displayName": "m-facialhair02",
@@ -667,7 +667,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "male.facialhair.style03": {
+    {
       "itemID": -163828117,
       "shortname": "male.facialhair.style03",
       "displayName": "m-facialhair03",
@@ -676,7 +676,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "male.facialhair.style04": {
+    {
       "itemID": -163828112,
       "shortname": "male.facialhair.style04",
       "displayName": "m-facialhair04",
@@ -685,7 +685,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "female_hairstyle_01": {
+    {
       "itemID": 649305914,
       "shortname": "female_hairstyle_01",
       "displayName": "f-hairstyle-1",
@@ -694,7 +694,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "male_hairstyle_01": {
+    {
       "itemID": 1070894649,
       "shortname": "male_hairstyle_01",
       "displayName": "m-hairstyle-1",
@@ -703,7 +703,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "female_hairstyle_02": {
+    {
       "itemID": 649305917,
       "shortname": "female_hairstyle_02",
       "displayName": "f-hairstyle-2",
@@ -712,7 +712,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "male_hairstyle_02": {
+    {
       "itemID": 1070894648,
       "shortname": "male_hairstyle_02",
       "displayName": "m-hairstyle-2",
@@ -721,7 +721,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "female_hairstyle_03": {
+    {
       "itemID": 649305916,
       "shortname": "female_hairstyle_03",
       "displayName": "f-hairstyle-3",
@@ -730,7 +730,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "male_hairstyle_03": {
+    {
       "itemID": 1070894647,
       "shortname": "male_hairstyle_03",
       "displayName": "m-hairstyle-3",
@@ -739,7 +739,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "male_hairstyle_04": {
+    {
       "itemID": 1070894646,
       "shortname": "male_hairstyle_04",
       "displayName": "m-hairstyle-4",
@@ -748,7 +748,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "female_hairstyle_05": {
+    {
       "itemID": 649305918,
       "shortname": "female_hairstyle_05",
       "displayName": "f-hairstyle-5",
@@ -757,7 +757,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "male_hairstyle_05": {
+    {
       "itemID": 1070894645,
       "shortname": "male_hairstyle_05",
       "displayName": "m-hairstyle-5",
@@ -766,7 +766,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "femalepubichair.style01": {
+    {
       "itemID": 16333305,
       "shortname": "femalepubichair.style01",
       "displayName": "f-pubic01",
@@ -775,7 +775,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "malepubichair.style01": {
+    {
       "itemID": -1190096326,
       "shortname": "malepubichair.style01",
       "displayName": "m-pubic01",
@@ -784,7 +784,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "halloween.mummysuit": {
+    {
       "itemID": 277730763,
       "shortname": "halloween.mummysuit",
       "displayName": "Mummy Suit",
@@ -793,7 +793,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "scarecrow.suit": {
+    {
       "itemID": 273951840,
       "shortname": "scarecrow.suit",
       "displayName": "Scarecrow Suit",
@@ -802,7 +802,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "scarecrowhead": {
+    {
       "itemID": 809942731,
       "shortname": "scarecrowhead",
       "displayName": "Scarecrow Wrap",
@@ -811,7 +811,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "attire.hide.helterneck": {
+    {
       "itemID": 3222790,
       "shortname": "attire.hide.helterneck",
       "displayName": "Hide Halterneck",
@@ -820,7 +820,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "hat.beenie": {
+    {
       "itemID": 1675639563,
       "shortname": "hat.beenie",
       "displayName": "Beenie Hat",
@@ -829,7 +829,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "hat.boonie": {
+    {
       "itemID": -23994173,
       "shortname": "hat.boonie",
       "displayName": "Boonie Hat",
@@ -838,7 +838,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "bucket.helmet": {
+    {
       "itemID": 850280505,
       "shortname": "bucket.helmet",
       "displayName": "Bucket Helmet",
@@ -847,7 +847,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "burlap.headwrap": {
+    {
       "itemID": 1877339384,
       "shortname": "burlap.headwrap",
       "displayName": "Burlap Headwrap",
@@ -856,7 +856,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "hat.candle": {
+    {
       "itemID": 1714496074,
       "shortname": "hat.candle",
       "displayName": "Candle Hat",
@@ -865,7 +865,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "hat.cap": {
+    {
       "itemID": -1022661119,
       "shortname": "hat.cap",
       "displayName": "Baseball Cap",
@@ -874,7 +874,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "clatter.helmet": {
+    {
       "itemID": 968019378,
       "shortname": "clatter.helmet",
       "displayName": "Clatter Helmet",
@@ -883,7 +883,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "coffeecan.helmet": {
+    {
       "itemID": -803263829,
       "shortname": "coffeecan.helmet",
       "displayName": "Coffee Can Helmet",
@@ -892,7 +892,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "deer.skull.mask": {
+    {
       "itemID": -1903165497,
       "shortname": "deer.skull.mask",
       "displayName": "Bone Helmet",
@@ -901,7 +901,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "heavy.plate.helmet": {
+    {
       "itemID": 1181207482,
       "shortname": "heavy.plate.helmet",
       "displayName": "Heavy Plate Helmet",
@@ -910,7 +910,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "hat.miner": {
+    {
       "itemID": -1539025626,
       "shortname": "hat.miner",
       "displayName": "Miners Hat",
@@ -919,7 +919,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "partyhat": {
+    {
       "itemID": -575744869,
       "shortname": "partyhat",
       "displayName": "Party Hat",
@@ -928,7 +928,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "riot.helmet": {
+    {
       "itemID": 671063303,
       "shortname": "riot.helmet",
       "displayName": "Riot Helmet",
@@ -937,7 +937,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wood.armor.helmet": {
+    {
       "itemID": -2094954543,
       "shortname": "wood.armor.helmet",
       "displayName": "Wood Armor Helmet",
@@ -946,7 +946,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "hoodie": {
+    {
       "itemID": 1751045826,
       "shortname": "hoodie",
       "displayName": "Hoodie",
@@ -955,7 +955,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "bone.armor.suit": {
+    {
       "itemID": 1746956556,
       "shortname": "bone.armor.suit",
       "displayName": "Bone Armor",
@@ -964,7 +964,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "heavy.plate.jacket": {
+    {
       "itemID": -1102429027,
       "shortname": "heavy.plate.jacket",
       "displayName": "Heavy Plate Jacket",
@@ -973,7 +973,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "jacket.snow": {
+    {
       "itemID": -48090175,
       "shortname": "jacket.snow",
       "displayName": "Snow Jacket",
@@ -982,7 +982,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "jacket": {
+    {
       "itemID": -1163532624,
       "shortname": "jacket",
       "displayName": "Jacket",
@@ -991,7 +991,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wood.armor.jacket": {
+    {
       "itemID": 418081930,
       "shortname": "wood.armor.jacket",
       "displayName": "Wood Chestplate",
@@ -1000,7 +1000,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "mask.balaclava": {
+    {
       "itemID": -2012470695,
       "shortname": "mask.balaclava",
       "displayName": "Improvised Balaclava",
@@ -1009,7 +1009,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "mask.bandana": {
+    {
       "itemID": -702051347,
       "shortname": "mask.bandana",
       "displayName": "Bandana Mask",
@@ -1018,7 +1018,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "metal.facemask": {
+    {
       "itemID": -194953424,
       "shortname": "metal.facemask",
       "displayName": "Metal Facemask",
@@ -1027,7 +1027,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "burlap.trousers": {
+    {
       "itemID": 1992974553,
       "shortname": "burlap.trousers",
       "displayName": "Burlap Trousers",
@@ -1036,7 +1036,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "heavy.plate.pants": {
+    {
       "itemID": -1778159885,
       "shortname": "heavy.plate.pants",
       "displayName": "Heavy Plate Pants",
@@ -1045,7 +1045,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "attire.hide.pants": {
+    {
       "itemID": 1722154847,
       "shortname": "attire.hide.pants",
       "displayName": "Hide Pants",
@@ -1054,7 +1054,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "roadsign.kilt": {
+    {
       "itemID": 1850456855,
       "shortname": "roadsign.kilt",
       "displayName": "Road Sign Kilt",
@@ -1063,7 +1063,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "pants.shorts": {
+    {
       "itemID": -1695367501,
       "shortname": "pants.shorts",
       "displayName": "Shorts",
@@ -1072,7 +1072,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wood.armor.pants": {
+    {
       "itemID": 832133926,
       "shortname": "wood.armor.pants",
       "displayName": "Wood Armor Pants",
@@ -1081,7 +1081,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "pants": {
+    {
       "itemID": 237239288,
       "shortname": "pants",
       "displayName": "Pants",
@@ -1090,7 +1090,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "attire.hide.poncho": {
+    {
       "itemID": 980333378,
       "shortname": "attire.hide.poncho",
       "displayName": "Hide Poncho",
@@ -1099,7 +1099,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "burlap.shirt": {
+    {
       "itemID": 602741290,
       "shortname": "burlap.shirt",
       "displayName": "Burlap Shirt",
@@ -1108,7 +1108,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "shirt.collared": {
+    {
       "itemID": -2025184684,
       "shortname": "shirt.collared",
       "displayName": "Shirt",
@@ -1117,7 +1117,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "attire.hide.vest": {
+    {
       "itemID": 196700171,
       "shortname": "attire.hide.vest",
       "displayName": "Hide Vest",
@@ -1126,7 +1126,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "shirt.tanktop": {
+    {
       "itemID": 1608640313,
       "shortname": "shirt.tanktop",
       "displayName": "Tank Top",
@@ -1135,7 +1135,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "shoes.boots": {
+    {
       "itemID": -1549739227,
       "shortname": "shoes.boots",
       "displayName": "Boots",
@@ -1144,7 +1144,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "burlap.shoes": {
+    {
       "itemID": -761829530,
       "shortname": "burlap.shoes",
       "displayName": "Burlap Shoes",
@@ -1153,7 +1153,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "attire.hide.boots": {
+    {
       "itemID": 794356786,
       "shortname": "attire.hide.boots",
       "displayName": "Hide Boots",
@@ -1162,7 +1162,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "attire.hide.skirt": {
+    {
       "itemID": -1773144852,
       "shortname": "attire.hide.skirt",
       "displayName": "Hide Skirt",
@@ -1171,7 +1171,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "hazmatsuit": {
+    {
       "itemID": 1266491000,
       "shortname": "hazmatsuit",
       "displayName": "Hazmat Suit",
@@ -1180,7 +1180,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "hazmatsuit_scientist": {
+    {
       "itemID": -253079493,
       "shortname": "hazmatsuit_scientist",
       "displayName": "Scientist Suit",
@@ -1189,7 +1189,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "hazmatsuit_scientist_peacekeeper": {
+    {
       "itemID": -1958316066,
       "shortname": "hazmatsuit_scientist_peacekeeper",
       "displayName": "Scientist Suit",
@@ -1198,7 +1198,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "scientistsuit_heavy": {
+    {
       "itemID": -1772746857,
       "shortname": "scientistsuit_heavy",
       "displayName": "Heavy Scientist Suit",
@@ -1207,7 +1207,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "tshirt.long": {
+    {
       "itemID": 935692442,
       "shortname": "tshirt.long",
       "displayName": "Longsleeve T-Shirt",
@@ -1216,7 +1216,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "tshirt": {
+    {
       "itemID": 223891266,
       "shortname": "tshirt",
       "displayName": "T-Shirt",
@@ -1225,7 +1225,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "metal.plate.torso": {
+    {
       "itemID": 1110385766,
       "shortname": "metal.plate.torso",
       "displayName": "Metal Chest Plate",
@@ -1234,7 +1234,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "roadsign.jacket": {
+    {
       "itemID": -2002277461,
       "shortname": "roadsign.jacket",
       "displayName": "Road Sign Jacket",
@@ -1243,7 +1243,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "bleach": {
+    {
       "itemID": 1553078977,
       "shortname": "bleach",
       "displayName": "Bleach",
@@ -1252,7 +1252,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "ducttape": {
+    {
       "itemID": 1401987718,
       "shortname": "ducttape",
       "displayName": "Duct Tape",
@@ -1261,7 +1261,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "fuse": {
+    {
       "itemID": -629028935,
       "shortname": "fuse",
       "displayName": "Electric Fuse",
@@ -1270,7 +1270,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "gears": {
+    {
       "itemID": 479143914,
       "shortname": "gears",
       "displayName": "Gears",
@@ -1279,7 +1279,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "glue": {
+    {
       "itemID": -1899491405,
       "shortname": "glue",
       "displayName": "Glue",
@@ -1288,7 +1288,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "metalblade": {
+    {
       "itemID": 1882709339,
       "shortname": "metalblade",
       "displayName": "Metal Blade",
@@ -1297,7 +1297,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "metalpipe": {
+    {
       "itemID": 95950017,
       "shortname": "metalpipe",
       "displayName": "Metal Pipe",
@@ -1306,7 +1306,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "propanetank": {
+    {
       "itemID": -1673693549,
       "shortname": "propanetank",
       "displayName": "Empty Propane Tank",
@@ -1315,7 +1315,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "roadsigns": {
+    {
       "itemID": 1199391518,
       "shortname": "roadsigns",
       "displayName": "Road Signs",
@@ -1324,7 +1324,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "rope": {
+    {
       "itemID": 1414245522,
       "shortname": "rope",
       "displayName": "Rope",
@@ -1333,7 +1333,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sewingkit": {
+    {
       "itemID": 1234880403,
       "shortname": "sewingkit",
       "displayName": "Sewing Kit",
@@ -1342,7 +1342,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "sheetmetal": {
+    {
       "itemID": -1994909036,
       "shortname": "sheetmetal",
       "displayName": "Sheet Metal",
@@ -1351,7 +1351,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "metalspring": {
+    {
       "itemID": -1021495308,
       "shortname": "metalspring",
       "displayName": "Metal Spring",
@@ -1360,7 +1360,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "sticks": {
+    {
       "itemID": 642482233,
       "shortname": "sticks",
       "displayName": "Sticks",
@@ -1369,7 +1369,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "tarp": {
+    {
       "itemID": 2019042823,
       "shortname": "tarp",
       "displayName": "Tarp",
@@ -1378,7 +1378,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "techparts": {
+    {
       "itemID": 73681876,
       "shortname": "techparts",
       "displayName": "Tech Trash",
@@ -1387,7 +1387,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "riflebody": {
+    {
       "itemID": 176787552,
       "shortname": "riflebody",
       "displayName": "Rifle Body",
@@ -1396,7 +1396,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "semibody": {
+    {
       "itemID": 573926264,
       "shortname": "semibody",
       "displayName": "Semi Automatic Body",
@@ -1405,7 +1405,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "smgbody": {
+    {
       "itemID": 1230323789,
       "shortname": "smgbody",
       "displayName": "SMG Body",
@@ -1414,7 +1414,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "barricade.concrete": {
+    {
       "itemID": -1950721390,
       "shortname": "barricade.concrete",
       "displayName": "Concrete Barricade",
@@ -1423,7 +1423,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "barricade.metal": {
+    {
       "itemID": 1655650836,
       "shortname": "barricade.metal",
       "displayName": "Metal Barricade",
@@ -1432,7 +1432,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "barricade.sandbags": {
+    {
       "itemID": -559599960,
       "shortname": "barricade.sandbags",
       "displayName": "Sandbag Barricade",
@@ -1441,7 +1441,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "barricade.stone": {
+    {
       "itemID": 15388698,
       "shortname": "barricade.stone",
       "displayName": "Stone Barricade",
@@ -1450,7 +1450,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "barricade.wood": {
+    {
       "itemID": 866889860,
       "shortname": "barricade.wood",
       "displayName": "Wooden Barricade",
@@ -1459,7 +1459,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "barricade.woodwire": {
+    {
       "itemID": 1382263453,
       "shortname": "barricade.woodwire",
       "displayName": "Barbed Wooden Barricade",
@@ -1468,7 +1468,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "bbq": {
+    {
       "itemID": 1099314009,
       "shortname": "bbq",
       "displayName": "Barbeque",
@@ -1477,7 +1477,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "trap.bear": {
+    {
       "itemID": -582782051,
       "shortname": "trap.bear",
       "displayName": "Snap Trap",
@@ -1486,7 +1486,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "bed": {
+    {
       "itemID": -1273339005,
       "shortname": "bed",
       "displayName": "Bed",
@@ -1495,7 +1495,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "campfire": {
+    {
       "itemID": 1946219319,
       "shortname": "campfire",
       "displayName": "Camp Fire",
@@ -1504,16 +1504,16 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "ceilinglight": {
+    {
       "itemID": 1142993169,
       "shortname": "ceilinglight",
       "displayName": "Ceiling Light",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "chair": {
+    {
       "itemID": 1534542921,
       "shortname": "chair",
       "displayName": "Chair",
@@ -1522,7 +1522,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "dropbox": {
+    {
       "itemID": -1519126340,
       "shortname": "dropbox",
       "displayName": "Drop Box",
@@ -1531,7 +1531,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "fireplace.stone": {
+    {
       "itemID": -1535621066,
       "shortname": "fireplace.stone",
       "displayName": "Stone Fireplace",
@@ -1540,7 +1540,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "spikes.floor": {
+    {
       "itemID": -92759291,
       "shortname": "spikes.floor",
       "displayName": "Wooden Floor Spikes",
@@ -1549,7 +1549,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "fridge": {
+    {
       "itemID": 1413014235,
       "shortname": "fridge",
       "displayName": "Fridge",
@@ -1558,7 +1558,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "furnace.large": {
+    {
       "itemID": -1992717673,
       "shortname": "furnace.large",
       "displayName": "Large Furnace",
@@ -1567,7 +1567,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "furnace": {
+    {
       "itemID": -1999722522,
       "shortname": "furnace",
       "displayName": "Furnace",
@@ -1576,7 +1576,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "hitchtroughcombo": {
+    {
       "itemID": 1160881421,
       "shortname": "hitchtroughcombo",
       "displayName": "Hitch & Trough",
@@ -1585,7 +1585,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "habrepair": {
+    {
       "itemID": -1759188988,
       "shortname": "habrepair",
       "displayName": "Hab Repair",
@@ -1594,7 +1594,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "jackolantern.angry": {
+    {
       "itemID": 1242482355,
       "shortname": "jackolantern.angry",
       "displayName": "Jack O Lantern Angry",
@@ -1603,7 +1603,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "jackolantern.happy": {
+    {
       "itemID": -1824943010,
       "shortname": "jackolantern.happy",
       "displayName": "Jack O Lantern Happy",
@@ -1612,7 +1612,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "trap.landmine": {
+    {
       "itemID": -1663759755,
       "shortname": "trap.landmine",
       "displayName": "Land Mine",
@@ -1621,7 +1621,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "lantern": {
+    {
       "itemID": 1658229558,
       "shortname": "lantern",
       "displayName": "Lantern",
@@ -1630,7 +1630,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "box.wooden.large": {
+    {
       "itemID": 833533164,
       "shortname": "box.wooden.large",
       "displayName": "Large Wood Box",
@@ -1639,7 +1639,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "water.barrel": {
+    {
       "itemID": -1863559151,
       "shortname": "water.barrel",
       "displayName": "Water Barrel",
@@ -1648,7 +1648,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "locker": {
+    {
       "itemID": -110921842,
       "shortname": "locker",
       "displayName": "Locker",
@@ -1657,7 +1657,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "mailbox": {
+    {
       "itemID": -586784898,
       "shortname": "mailbox",
       "displayName": "Mail Box",
@@ -1666,7 +1666,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "mining.pumpjack": {
+    {
       "itemID": -1130709577,
       "shortname": "mining.pumpjack",
       "displayName": "Pump Jack",
@@ -1675,7 +1675,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "small.oil.refinery": {
+    {
       "itemID": -1293296287,
       "shortname": "small.oil.refinery",
       "displayName": "Small Oil Refinery",
@@ -1684,7 +1684,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "planter.large": {
+    {
       "itemID": 1581210395,
       "shortname": "planter.large",
       "displayName": "Large Planter Box",
@@ -1693,7 +1693,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "planter.small": {
+    {
       "itemID": 1903654061,
       "shortname": "planter.small",
       "displayName": "Small Planter Box",
@@ -1702,277 +1702,277 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.audioalarm": {
+    {
       "itemID": 2100007442,
       "shortname": "electric.audioalarm",
       "displayName": "Audio Alarm",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.battery.rechargable.large": {
+    {
       "itemID": 553270375,
       "shortname": "electric.battery.rechargable.large",
       "displayName": "Large Rechargable Battery",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.battery.rechargable.medium": {
+    {
       "itemID": 2023888403,
       "shortname": "electric.battery.rechargable.medium",
       "displayName": "Medium Rechargable Battery",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.battery.rechargable.small": {
+    {
       "itemID": -692338819,
       "shortname": "electric.battery.rechargable.small",
       "displayName": "Small Rechargable Battery",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.counter": {
+    {
       "itemID": -216999575,
       "shortname": "electric.counter",
       "displayName": "Counter",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.hbhfsensor": {
+    {
       "itemID": -1507239837,
       "shortname": "electric.hbhfsensor",
       "displayName": "HBHF Sensor",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.laserdetector": {
+    {
       "itemID": -798293154,
       "shortname": "electric.laserdetector",
       "displayName": "Laser Detector",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.pressurepad": {
+    {
       "itemID": -2049214035,
       "shortname": "electric.pressurepad",
       "displayName": "Pressure Pad",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.doorcontroller": {
+    {
       "itemID": -502177121,
       "shortname": "electric.doorcontroller",
       "displayName": "Door Controller",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.andswitch": {
+    {
       "itemID": 1171735914,
       "shortname": "electric.andswitch",
       "displayName": "AND Switch",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.blocker": {
+    {
       "itemID": -690968985,
       "shortname": "electric.blocker",
       "displayName": "Blocker",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electrical.branch": {
+    {
       "itemID": -1448252298,
       "shortname": "electrical.branch",
       "displayName": "Electrical Branch",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electrical.combiner": {
+    {
       "itemID": -458565393,
       "shortname": "electrical.combiner",
       "displayName": "Root Combiner",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electrical.memorycell": {
+    {
       "itemID": -746647361,
       "shortname": "electrical.memorycell",
       "displayName": "Memory Cell",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.orswitch": {
+    {
       "itemID": -1286302544,
       "shortname": "electric.orswitch",
       "displayName": "OR Switch",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.random.switch": {
+    {
       "itemID": 492357192,
       "shortname": "electric.random.switch",
       "displayName": "RAND Switch",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.rf.broadcaster": {
+    {
       "itemID": -1044468317,
       "shortname": "electric.rf.broadcaster",
       "displayName": "RF Broadcaster",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.rf.receiver": {
+    {
       "itemID": 888415708,
       "shortname": "electric.rf.receiver",
       "displayName": "RF Receiver",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.xorswitch": {
+    {
       "itemID": 1293102274,
       "shortname": "electric.xorswitch",
       "displayName": "XOR Switch",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.fuelgenerator.small": {
+    {
       "itemID": 1849887541,
       "shortname": "electric.fuelgenerator.small",
       "displayName": "Small Generator",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.generator.small": {
+    {
       "itemID": -295829489,
       "shortname": "electric.generator.small",
       "displayName": "Test Generator",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "electric.solarpanel.large": {
+    {
       "itemID": 2090395347,
       "shortname": "electric.solarpanel.large",
       "displayName": "Large Solar Panel",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.flasherlight": {
+    {
       "itemID": -939424778,
       "shortname": "electric.flasherlight",
       "displayName": "Flasher Light",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.simplelight": {
+    {
       "itemID": -282113991,
       "shortname": "electric.simplelight",
       "displayName": "Simple Light",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "electric.sirenlight": {
+    {
       "itemID": 762289806,
       "shortname": "electric.sirenlight",
       "displayName": "Siren Light",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.switch": {
+    {
       "itemID": 1951603367,
       "shortname": "electric.switch",
       "displayName": "Switch",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.splitter": {
+    {
       "itemID": -563624462,
       "shortname": "electric.splitter",
       "displayName": "Splitter",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.teslacoil": {
+    {
       "itemID": 1371909803,
       "shortname": "electric.teslacoil",
       "displayName": "Tesla Coil",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.timer": {
+    {
       "itemID": 665332906,
       "shortname": "electric.timer",
       "displayName": "Timer",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "electric.cabletunnel": {
+    {
       "itemID": 1835946060,
       "shortname": "electric.cabletunnel",
       "displayName": "Cable Tunnel",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "mining.quarry": {
+    {
       "itemID": 1052926200,
       "shortname": "mining.quarry",
       "displayName": "Mining Quarry",
@@ -1981,7 +1981,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "target.reactive": {
+    {
       "itemID": -1736356576,
       "shortname": "target.reactive",
       "displayName": "Reactive Target",
@@ -1990,7 +1990,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "box.repair.bench": {
+    {
       "itemID": 803222026,
       "shortname": "box.repair.bench",
       "displayName": "Repair Bench",
@@ -1999,7 +1999,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "research.table": {
+    {
       "itemID": -1861522751,
       "shortname": "research.table",
       "displayName": "Research Table",
@@ -2008,7 +2008,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "rug.bear": {
+    {
       "itemID": -1104881824,
       "shortname": "rug.bear",
       "displayName": "Rug Bear Skin",
@@ -2017,7 +2017,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "rug": {
+    {
       "itemID": -1985799200,
       "shortname": "rug",
       "displayName": "Rug",
@@ -2026,7 +2026,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "searchlight": {
+    {
       "itemID": 2087678962,
       "shortname": "searchlight",
       "displayName": "Search Light",
@@ -2035,7 +2035,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "shelves": {
+    {
       "itemID": 1950721418,
       "shortname": "shelves",
       "displayName": "Salvaged Shelves",
@@ -2044,7 +2044,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "sign.hanging.banner.large": {
+    {
       "itemID": 23352662,
       "shortname": "sign.hanging.banner.large",
       "displayName": "Large Banner Hanging",
@@ -2053,7 +2053,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sign.hanging": {
+    {
       "itemID": 1205607945,
       "shortname": "sign.hanging",
       "displayName": "Two Sided Hanging Sign",
@@ -2062,7 +2062,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sign.hanging.ornate": {
+    {
       "itemID": -1647846966,
       "shortname": "sign.hanging.ornate",
       "displayName": "Two Sided Ornate Hanging Sign",
@@ -2071,7 +2071,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sign.pictureframe.landscape": {
+    {
       "itemID": -845557339,
       "shortname": "sign.pictureframe.landscape",
       "displayName": "Landscape Picture Frame",
@@ -2080,7 +2080,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sign.pictureframe.portrait": {
+    {
       "itemID": -1370759135,
       "shortname": "sign.pictureframe.portrait",
       "displayName": "Portrait Picture Frame",
@@ -2089,7 +2089,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sign.pictureframe.tall": {
+    {
       "itemID": 121049755,
       "shortname": "sign.pictureframe.tall",
       "displayName": "Tall Picture Frame",
@@ -2098,7 +2098,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sign.pictureframe.xl": {
+    {
       "itemID": -996185386,
       "shortname": "sign.pictureframe.xl",
       "displayName": "XL Picture Frame",
@@ -2107,7 +2107,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sign.pictureframe.xxl": {
+    {
       "itemID": 98508942,
       "shortname": "sign.pictureframe.xxl",
       "displayName": "XXL Picture Frame",
@@ -2116,7 +2116,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sign.pole.banner.large": {
+    {
       "itemID": 2070189026,
       "shortname": "sign.pole.banner.large",
       "displayName": "Large Banner on pole",
@@ -2125,7 +2125,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sign.post.double": {
+    {
       "itemID": 1521286012,
       "shortname": "sign.post.double",
       "displayName": "Double Sign Post",
@@ -2134,7 +2134,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sign.post.single": {
+    {
       "itemID": 1542290441,
       "shortname": "sign.post.single",
       "displayName": "Single Sign Post",
@@ -2143,7 +2143,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sign.post.town": {
+    {
       "itemID": -1832422579,
       "shortname": "sign.post.town",
       "displayName": "One Sided Town Sign Post",
@@ -2152,7 +2152,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sign.post.town.roof": {
+    {
       "itemID": 826309791,
       "shortname": "sign.post.town.roof",
       "displayName": "Two Sided Town Sign Post",
@@ -2161,7 +2161,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sign.wooden.huge": {
+    {
       "itemID": -143132326,
       "shortname": "sign.wooden.huge",
       "displayName": "Huge Wooden Sign",
@@ -2170,7 +2170,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "sign.wooden.large": {
+    {
       "itemID": 1153652756,
       "shortname": "sign.wooden.large",
       "displayName": "Large Wooden Sign",
@@ -2179,7 +2179,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "sign.wooden.medium": {
+    {
       "itemID": -1819233322,
       "shortname": "sign.wooden.medium",
       "displayName": "Wooden Sign",
@@ -2188,7 +2188,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "sign.wooden.small": {
+    {
       "itemID": -1138208076,
       "shortname": "sign.wooden.small",
       "displayName": "Small Wooden Sign",
@@ -2197,7 +2197,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "guntrap": {
+    {
       "itemID": 352499047,
       "shortname": "guntrap",
       "displayName": "Shotgun Trap",
@@ -2206,7 +2206,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "sleepingbag": {
+    {
       "itemID": -1754948969,
       "shortname": "sleepingbag",
       "displayName": "Sleeping Bag",
@@ -2215,7 +2215,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "stash.small": {
+    {
       "itemID": -369760990,
       "shortname": "stash.small",
       "displayName": "Small Stash",
@@ -2224,7 +2224,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "spinner.wheel": {
+    {
       "itemID": -1100422738,
       "shortname": "spinner.wheel",
       "displayName": "Spinning wheel",
@@ -2233,7 +2233,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "fishtrap.small": {
+    {
       "itemID": 559147458,
       "shortname": "fishtrap.small",
       "displayName": "Survival Fish Trap",
@@ -2242,7 +2242,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "table": {
+    {
       "itemID": 593465182,
       "shortname": "table",
       "displayName": "Table",
@@ -2251,7 +2251,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "workbench1": {
+    {
       "itemID": 1524187186,
       "shortname": "workbench1",
       "displayName": "Work Bench Level 1",
@@ -2260,7 +2260,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "workbench2": {
+    {
       "itemID": -41896755,
       "shortname": "workbench2",
       "displayName": "Work Bench Level 2",
@@ -2269,7 +2269,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "workbench3": {
+    {
       "itemID": -1607980696,
       "shortname": "workbench3",
       "displayName": "Work Bench Level 3",
@@ -2278,7 +2278,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "cupboard.tool": {
+    {
       "itemID": -97956382,
       "shortname": "cupboard.tool",
       "displayName": "Tool Cupboard",
@@ -2287,7 +2287,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "tunalight": {
+    {
       "itemID": -1478445584,
       "shortname": "tunalight",
       "displayName": "Tuna Can Lamp",
@@ -2296,7 +2296,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "vending.machine": {
+    {
       "itemID": 198438816,
       "shortname": "vending.machine",
       "displayName": "Vending Machine",
@@ -2305,7 +2305,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "water.catcher.large": {
+    {
       "itemID": -1100168350,
       "shortname": "water.catcher.large",
       "displayName": "Large Water Catcher",
@@ -2314,7 +2314,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "water.catcher.small": {
+    {
       "itemID": -132247350,
       "shortname": "water.catcher.small",
       "displayName": "Small Water Catcher",
@@ -2323,7 +2323,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "water.purifier": {
+    {
       "itemID": 2114754781,
       "shortname": "water.purifier",
       "displayName": "Water Purifier",
@@ -2332,16 +2332,16 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "generator.wind.scrap": {
+    {
       "itemID": -1819763926,
       "shortname": "generator.wind.scrap",
       "displayName": "Wind Turbine",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "box.wooden": {
+    {
       "itemID": -180129657,
       "shortname": "box.wooden",
       "displayName": "Wood Storage Box",
@@ -2350,7 +2350,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "apple": {
+    {
       "itemID": 1548091822,
       "shortname": "apple",
       "displayName": "Apple",
@@ -2359,7 +2359,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "apple.spoiled": {
+    {
       "itemID": 352130972,
       "shortname": "apple.spoiled",
       "displayName": "Rotten Apple",
@@ -2368,7 +2368,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "black.raspberries": {
+    {
       "itemID": 1931713481,
       "shortname": "black.raspberries",
       "displayName": "Black Raspberries",
@@ -2377,7 +2377,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "blueberries": {
+    {
       "itemID": -586342290,
       "shortname": "blueberries",
       "displayName": "Blueberries",
@@ -2386,7 +2386,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "botabag": {
+    {
       "itemID": 613961768,
       "shortname": "botabag",
       "displayName": "Bota Bag",
@@ -2395,7 +2395,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "cactusflesh": {
+    {
       "itemID": 1783512007,
       "shortname": "cactusflesh",
       "displayName": "Cactus Flesh",
@@ -2404,7 +2404,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "can.beans": {
+    {
       "itemID": -700591459,
       "shortname": "can.beans",
       "displayName": "Can of Beans",
@@ -2413,7 +2413,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "can.tuna": {
+    {
       "itemID": -1941646328,
       "shortname": "can.tuna",
       "displayName": "Can of Tuna",
@@ -2422,7 +2422,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "chocholate": {
+    {
       "itemID": 363467698,
       "shortname": "chocholate",
       "displayName": "Chocolate Bar",
@@ -2431,7 +2431,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "fish.cooked": {
+    {
       "itemID": 1668129151,
       "shortname": "fish.cooked",
       "displayName": "Cooked Fish",
@@ -2440,7 +2440,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "fish.raw": {
+    {
       "itemID": 989925924,
       "shortname": "fish.raw",
       "displayName": "Raw Fish",
@@ -2449,7 +2449,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "fish.minnows": {
+    {
       "itemID": -542577259,
       "shortname": "fish.minnows",
       "displayName": "Minnows",
@@ -2458,7 +2458,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "fish.troutsmall": {
+    {
       "itemID": -1878764039,
       "shortname": "fish.troutsmall",
       "displayName": "Small Trout",
@@ -2467,7 +2467,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "granolabar": {
+    {
       "itemID": -746030907,
       "shortname": "granolabar",
       "displayName": "Granola Bar",
@@ -2476,7 +2476,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "chicken.burned": {
+    {
       "itemID": 1973684065,
       "shortname": "chicken.burned",
       "displayName": "Burnt Chicken",
@@ -2485,7 +2485,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "chicken.cooked": {
+    {
       "itemID": -1848736516,
       "shortname": "chicken.cooked",
       "displayName": "Cooked Chicken",
@@ -2494,7 +2494,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "chicken.raw": {
+    {
       "itemID": -1440987069,
       "shortname": "chicken.raw",
       "displayName": "Raw Chicken Breast",
@@ -2503,7 +2503,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "chicken.spoiled": {
+    {
       "itemID": -751151717,
       "shortname": "chicken.spoiled",
       "displayName": "Spoiled Chicken",
@@ -2512,7 +2512,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "deermeat.burned": {
+    {
       "itemID": -78533081,
       "shortname": "deermeat.burned",
       "displayName": "Burnt Deer Meat",
@@ -2521,7 +2521,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "deermeat.cooked": {
+    {
       "itemID": -1509851560,
       "shortname": "deermeat.cooked",
       "displayName": "Cooked Deer Meat",
@@ -2530,7 +2530,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "deermeat.raw": {
+    {
       "itemID": 1422530437,
       "shortname": "deermeat.raw",
       "displayName": "Raw Deer Meat",
@@ -2539,7 +2539,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "horsemeat.burned": {
+    {
       "itemID": 1917703890,
       "shortname": "horsemeat.burned",
       "displayName": "Burnt Horse Meat",
@@ -2548,7 +2548,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "horsemeat.cooked": {
+    {
       "itemID": -1162759543,
       "shortname": "horsemeat.cooked",
       "displayName": "Cooked Horse Meat",
@@ -2557,7 +2557,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "horsemeat.raw": {
+    {
       "itemID": -1130350864,
       "shortname": "horsemeat.raw",
       "displayName": "Raw Horse Meat",
@@ -2566,7 +2566,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "humanmeat.burned": {
+    {
       "itemID": -682687162,
       "shortname": "humanmeat.burned",
       "displayName": "Burnt Human Meat",
@@ -2575,7 +2575,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "humanmeat.cooked": {
+    {
       "itemID": 1536610005,
       "shortname": "humanmeat.cooked",
       "displayName": "Cooked Human Meat",
@@ -2584,7 +2584,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "humanmeat.raw": {
+    {
       "itemID": -1709878924,
       "shortname": "humanmeat.raw",
       "displayName": "Raw Human Meat",
@@ -2593,7 +2593,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "humanmeat.spoiled": {
+    {
       "itemID": 1272768630,
       "shortname": "humanmeat.spoiled",
       "displayName": "Spoiled Human Meat",
@@ -2602,7 +2602,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "bearmeat.burned": {
+    {
       "itemID": -989755543,
       "shortname": "bearmeat.burned",
       "displayName": "Burnt Bear Meat",
@@ -2611,7 +2611,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "bearmeat.cooked": {
+    {
       "itemID": 1873897110,
       "shortname": "bearmeat.cooked",
       "displayName": "Cooked Bear Meat",
@@ -2620,7 +2620,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "bearmeat": {
+    {
       "itemID": -1520560807,
       "shortname": "bearmeat",
       "displayName": "Raw Bear Meat",
@@ -2629,7 +2629,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "wolfmeat.burned": {
+    {
       "itemID": 1827479659,
       "shortname": "wolfmeat.burned",
       "displayName": "Burnt Wolf Meat",
@@ -2638,7 +2638,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "wolfmeat.cooked": {
+    {
       "itemID": 813023040,
       "shortname": "wolfmeat.cooked",
       "displayName": "Cooked Wolf Meat",
@@ -2647,7 +2647,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "wolfmeat.raw": {
+    {
       "itemID": -395377963,
       "shortname": "wolfmeat.raw",
       "displayName": "Raw Wolf Meat",
@@ -2656,7 +2656,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "wolfmeat.spoiled": {
+    {
       "itemID": -1167031859,
       "shortname": "wolfmeat.spoiled",
       "displayName": "Spoiled Wolf Meat",
@@ -2665,7 +2665,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "meat.pork.burned": {
+    {
       "itemID": 1391703481,
       "shortname": "meat.pork.burned",
       "displayName": "Burnt Pork",
@@ -2674,7 +2674,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "meat.pork.cooked": {
+    {
       "itemID": -242084766,
       "shortname": "meat.pork.cooked",
       "displayName": "Cooked Pork",
@@ -2683,7 +2683,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "meat.boar": {
+    {
       "itemID": 621915341,
       "shortname": "meat.boar",
       "displayName": "Raw Pork",
@@ -2692,7 +2692,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "mushroom": {
+    {
       "itemID": -1962971928,
       "shortname": "mushroom",
       "displayName": "Mushroom",
@@ -2701,7 +2701,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "jar.pickle": {
+    {
       "itemID": 286193827,
       "shortname": "jar.pickle",
       "displayName": "Pickles",
@@ -2710,7 +2710,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "smallwaterbottle": {
+    {
       "itemID": -1039528932,
       "shortname": "smallwaterbottle",
       "displayName": "Small Water Bottle",
@@ -2719,7 +2719,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "waterjug": {
+    {
       "itemID": -119235651,
       "shortname": "waterjug",
       "displayName": "Water Jug",
@@ -2728,7 +2728,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "fun.bass": {
+    {
       "itemID": -2107018088,
       "shortname": "fun.bass",
       "displayName": "Shovel Bass",
@@ -2737,7 +2737,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "fun.cowbell": {
+    {
       "itemID": -1049881973,
       "shortname": "fun.cowbell",
       "displayName": "Cowbell",
@@ -2746,7 +2746,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "drumkit": {
+    {
       "itemID": -1330640246,
       "shortname": "drumkit",
       "displayName": "Junkyard Drum Kit",
@@ -2755,7 +2755,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "fun.flute": {
+    {
       "itemID": -2040817543,
       "shortname": "fun.flute",
       "displayName": "Pan Flute",
@@ -2764,7 +2764,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "fun.guitar": {
+    {
       "itemID": -2124352573,
       "shortname": "fun.guitar",
       "displayName": "Acoustic Guitar",
@@ -2773,7 +2773,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "fun.jerrycanguitar": {
+    {
       "itemID": -979951147,
       "shortname": "fun.jerrycanguitar",
       "displayName": "Jerry Can Guitar",
@@ -2782,7 +2782,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "piano": {
+    {
       "itemID": 1272430949,
       "shortname": "piano",
       "displayName": "Wheelbarrow Piano",
@@ -2791,7 +2791,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "fun.tambourine": {
+    {
       "itemID": -1379036069,
       "shortname": "fun.tambourine",
       "displayName": "Canbourine",
@@ -2800,7 +2800,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "fun.trumpet": {
+    {
       "itemID": 273172220,
       "shortname": "fun.trumpet",
       "displayName": "Plumber's Trumpet",
@@ -2809,7 +2809,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "fun.tuba": {
+    {
       "itemID": 1784406797,
       "shortname": "fun.tuba",
       "displayName": "Sousaphone",
@@ -2818,7 +2818,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "xylophone": {
+    {
       "itemID": -211235948,
       "shortname": "xylophone",
       "displayName": "Xlyobone",
@@ -2827,7 +2827,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "door.key": {
+    {
       "itemID": -1112793865,
       "shortname": "door.key",
       "displayName": "Door Key",
@@ -2836,7 +2836,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "lock.key": {
+    {
       "itemID": -850982208,
       "shortname": "lock.key",
       "displayName": "Key Lock",
@@ -2845,7 +2845,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "lock.code": {
+    {
       "itemID": 1159991980,
       "shortname": "lock.code",
       "displayName": "Code Lock",
@@ -2854,7 +2854,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "blueprintbase": {
+    {
       "itemID": -996920608,
       "shortname": "blueprintbase",
       "displayName": "Blueprint",
@@ -2863,7 +2863,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "chineselantern": {
+    {
       "itemID": -1916473915,
       "shortname": "chineselantern",
       "displayName": "Chinese Lantern",
@@ -2872,7 +2872,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "dragondoorknocker": {
+    {
       "itemID": -854270928,
       "shortname": "dragondoorknocker",
       "displayName": "Dragon Door Knocker",
@@ -2881,7 +2881,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "hat.dragonmask": {
+    {
       "itemID": -22883916,
       "shortname": "hat.dragonmask",
       "displayName": "Dragon Mask",
@@ -2890,7 +2890,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "arcade.machine.chippy": {
+    {
       "itemID": 359723196,
       "shortname": "arcade.machine.chippy",
       "displayName": "Chippy Arcade Game",
@@ -2899,7 +2899,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "door.closer": {
+    {
       "itemID": 1409529282,
       "shortname": "door.closer",
       "displayName": "Door Closer",
@@ -2908,7 +2908,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "attire.bunnyears": {
+    {
       "itemID": -1004426654,
       "shortname": "attire.bunnyears",
       "displayName": "Bunny Ears",
@@ -2917,7 +2917,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "attire.bunny.onesie": {
+    {
       "itemID": -1266045928,
       "shortname": "attire.bunny.onesie",
       "displayName": "Bunny Onesie",
@@ -2926,7 +2926,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "easterdoorwreath": {
+    {
       "itemID": -979302481,
       "shortname": "easterdoorwreath",
       "displayName": "Easter Door Wreath",
@@ -2935,7 +2935,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "easterbasket": {
+    {
       "itemID": 1856217390,
       "shortname": "easterbasket",
       "displayName": "Egg Basket",
@@ -2944,7 +2944,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "rustige_egg_a": {
+    {
       "itemID": -173268129,
       "shortname": "rustige_egg_a",
       "displayName": "Rustigé Egg - Red",
@@ -2953,7 +2953,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "rustige_egg_b": {
+    {
       "itemID": -173268132,
       "shortname": "rustige_egg_b",
       "displayName": "Rustigé Egg - Blue",
@@ -2962,7 +2962,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "easter.bronzeegg": {
+    {
       "itemID": 844440409,
       "shortname": "easter.bronzeegg",
       "displayName": "Bronze Egg",
@@ -2971,7 +2971,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "easter.goldegg": {
+    {
       "itemID": -1002156085,
       "shortname": "easter.goldegg",
       "displayName": "Gold Egg",
@@ -2980,7 +2980,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "easter.paintedeggs": {
+    {
       "itemID": -126305173,
       "shortname": "easter.paintedeggs",
       "displayName": "Painted Egg",
@@ -2989,7 +2989,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "easter.silveregg": {
+    {
       "itemID": 1757265204,
       "shortname": "easter.silveregg",
       "displayName": "Silver Egg",
@@ -2998,7 +2998,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "halloween.candy": {
+    {
       "itemID": -888153050,
       "shortname": "halloween.candy",
       "displayName": "Halloween Candy",
@@ -3007,7 +3007,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "largecandles": {
+    {
       "itemID": -489848205,
       "shortname": "largecandles",
       "displayName": "Large Candle Set",
@@ -3016,7 +3016,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "smallcandles": {
+    {
       "itemID": -2058362263,
       "shortname": "smallcandles",
       "displayName": "Small Candle Set",
@@ -3025,7 +3025,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "coffin.storage": {
+    {
       "itemID": 573676040,
       "shortname": "coffin.storage",
       "displayName": "Coffin",
@@ -3034,7 +3034,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "cursedcauldron": {
+    {
       "itemID": 1242522330,
       "shortname": "cursedcauldron",
       "displayName": "Cursed Cauldron",
@@ -3043,7 +3043,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "gravestone": {
+    {
       "itemID": 809199956,
       "shortname": "gravestone",
       "displayName": "Gravestone",
@@ -3052,7 +3052,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "woodcross": {
+    {
       "itemID": 699075597,
       "shortname": "woodcross",
       "displayName": "Wooden Cross",
@@ -3061,7 +3061,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "wall.graveyard.fence": {
+    {
       "itemID": -1679267738,
       "shortname": "wall.graveyard.fence",
       "displayName": "Graveyard Fence",
@@ -3070,7 +3070,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "halloween.lootbag.large": {
+    {
       "itemID": 479292118,
       "shortname": "halloween.lootbag.large",
       "displayName": "Large Loot Bag",
@@ -3079,7 +3079,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "halloween.lootbag.medium": {
+    {
       "itemID": 1899610628,
       "shortname": "halloween.lootbag.medium",
       "displayName": "Medium Loot Bag",
@@ -3088,7 +3088,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "halloween.lootbag.small": {
+    {
       "itemID": 1319617282,
       "shortname": "halloween.lootbag.small",
       "displayName": "Small Loot Bag",
@@ -3097,7 +3097,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "pumpkinbasket": {
+    {
       "itemID": 1346158228,
       "shortname": "pumpkinbasket",
       "displayName": "Pumpkin Bucket",
@@ -3106,7 +3106,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "scarecrow": {
+    {
       "itemID": 177226991,
       "shortname": "scarecrow",
       "displayName": "Scarecrow",
@@ -3115,7 +3115,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "skulldoorknocker": {
+    {
       "itemID": -216116642,
       "shortname": "skulldoorknocker",
       "displayName": "Skull Door Knocker",
@@ -3124,7 +3124,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "skull_fire_pit": {
+    {
       "itemID": 553887414,
       "shortname": "skull_fire_pit",
       "displayName": "Skull Fire Pit",
@@ -3133,7 +3133,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "spiderweb": {
+    {
       "itemID": 882559853,
       "shortname": "spiderweb",
       "displayName": "Spider Webs",
@@ -3142,7 +3142,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "spookyspeaker": {
+    {
       "itemID": 1885488976,
       "shortname": "spookyspeaker",
       "displayName": "Spooky Speaker",
@@ -3151,7 +3151,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "halloween.surgeonsuit": {
+    {
       "itemID": -1785231475,
       "shortname": "halloween.surgeonsuit",
       "displayName": "Surgeon Scrubs",
@@ -3160,7 +3160,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "note": {
+    {
       "itemID": 1414245162,
       "shortname": "note",
       "displayName": "Note",
@@ -3169,7 +3169,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "skull.human": {
+    {
       "itemID": 996293980,
       "shortname": "skull.human",
       "displayName": "Human Skull",
@@ -3178,7 +3178,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "candycaneclub": {
+    {
       "itemID": 1789825282,
       "shortname": "candycaneclub",
       "displayName": "Candy Cane Club",
@@ -3187,7 +3187,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.lightstring": {
+    {
       "itemID": 1058261682,
       "shortname": "xmas.lightstring",
       "displayName": "Christmas Lights",
@@ -3196,7 +3196,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.door.garland": {
+    {
       "itemID": 674734128,
       "shortname": "xmas.door.garland",
       "displayName": "Festive Doorway Garland",
@@ -3205,7 +3205,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "candycane": {
+    {
       "itemID": 1121925526,
       "shortname": "candycane",
       "displayName": "Candy Cane",
@@ -3214,7 +3214,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "giantcandycanedecor": {
+    {
       "itemID": -695124222,
       "shortname": "giantcandycanedecor",
       "displayName": "Giant Candy Decor",
@@ -3223,7 +3223,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "giantlollipops": {
+    {
       "itemID": 282103175,
       "shortname": "giantlollipops",
       "displayName": "Giant Lollipop Decor",
@@ -3232,7 +3232,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "pookie.bear": {
+    {
       "itemID": -1651220691,
       "shortname": "pookie.bear",
       "displayName": "Pookie Bear",
@@ -3241,7 +3241,16 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "coal": {
+    {
+      "itemID": -151387974,
+      "shortname": "xmas.lightstring.advanced",
+      "displayName": "Deluxe Christmas Lights",
+      "category": 16,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
       "itemID": 204391461,
       "shortname": "coal",
       "displayName": "Coal :(",
@@ -3250,7 +3259,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.present.large": {
+    {
       "itemID": -1622660759,
       "shortname": "xmas.present.large",
       "displayName": "Large Present",
@@ -3259,7 +3268,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.present.medium": {
+    {
       "itemID": 756517185,
       "shortname": "xmas.present.medium",
       "displayName": "Medium Present",
@@ -3268,7 +3277,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.present.small": {
+    {
       "itemID": -722241321,
       "shortname": "xmas.present.small",
       "displayName": "Small Present",
@@ -3277,7 +3286,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "snowmachine": {
+    {
       "itemID": 1358643074,
       "shortname": "snowmachine",
       "displayName": "Snow Machine",
@@ -3286,7 +3295,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "snowball": {
+    {
       "itemID": -363689972,
       "shortname": "snowball",
       "displayName": "Snowball",
@@ -3295,7 +3304,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "snowman": {
+    {
       "itemID": 1629293099,
       "shortname": "snowman",
       "displayName": "Snowman",
@@ -3304,7 +3313,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "stocking.large": {
+    {
       "itemID": -465682601,
       "shortname": "stocking.large",
       "displayName": "SUPER Stocking",
@@ -3313,7 +3322,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "stocking.small": {
+    {
       "itemID": 1668858301,
       "shortname": "stocking.small",
       "displayName": "Small Stocking",
@@ -3322,7 +3331,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "attire.reindeer.headband": {
+    {
       "itemID": -324675402,
       "shortname": "attire.reindeer.headband",
       "displayName": "Reindeer Antlers",
@@ -3331,7 +3340,16 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "santahat": {
+    {
+      "itemID": 2126889441,
+      "shortname": "santabeard",
+      "displayName": "Santa Beard",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
       "itemID": -575483084,
       "shortname": "santahat",
       "displayName": "Santa Hat",
@@ -3340,7 +3358,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.window.garland": {
+    {
       "itemID": -1379835144,
       "shortname": "xmas.window.garland",
       "displayName": "Festive Window Garland",
@@ -3349,7 +3367,25 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmasdoorwreath": {
+    {
+      "itemID": 204970153,
+      "shortname": "wrappedgift",
+      "displayName": "Wrapped Gift",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": 1094293920,
+      "shortname": "wrappingpaper",
+      "displayName": "Wrapping Paper",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
       "itemID": 2009734114,
       "shortname": "xmasdoorwreath",
       "displayName": "Christmas Door Wreath",
@@ -3358,7 +3394,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.decoration.baubels": {
+    {
       "itemID": -1667224349,
       "shortname": "xmas.decoration.baubels",
       "displayName": "Decorative Baubels",
@@ -3367,7 +3403,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.decoration.candycanes": {
+    {
       "itemID": -209869746,
       "shortname": "xmas.decoration.candycanes",
       "displayName": "Decorative Plastic Candy Canes",
@@ -3376,7 +3412,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.decoration.gingerbreadmen": {
+    {
       "itemID": 1686524871,
       "shortname": "xmas.decoration.gingerbreadmen",
       "displayName": "Decorative Gingerbread Men",
@@ -3385,7 +3421,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.decoration.lights": {
+    {
       "itemID": 1723747470,
       "shortname": "xmas.decoration.lights",
       "displayName": "Tree Lights",
@@ -3394,7 +3430,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.decoration.pinecone": {
+    {
       "itemID": -129230242,
       "shortname": "xmas.decoration.pinecone",
       "displayName": "Decorative Pinecones",
@@ -3403,7 +3439,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.decoration.star": {
+    {
       "itemID": -1331212963,
       "shortname": "xmas.decoration.star",
       "displayName": "Star Tree Topper",
@@ -3412,7 +3448,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.decoration.tinsel": {
+    {
       "itemID": 2106561762,
       "shortname": "xmas.decoration.tinsel",
       "displayName": "Decorative Tinsel",
@@ -3421,7 +3457,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "xmas.tree": {
+    {
       "itemID": 794443127,
       "shortname": "xmas.tree",
       "displayName": "Christmas Tree",
@@ -3430,16 +3466,16 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "autoturret": {
+    {
       "itemID": -2139580305,
       "shortname": "autoturret",
       "displayName": "Auto Turret",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "flameturret": {
+    {
       "itemID": 528668503,
       "shortname": "flameturret",
       "displayName": "Flame Turret",
@@ -3448,7 +3484,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "gloweyes": {
+    {
       "itemID": -690276911,
       "shortname": "gloweyes",
       "displayName": "Glowing Eyes",
@@ -3457,7 +3493,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "ammo.rocket.sam": {
+    {
       "itemID": -384243979,
       "shortname": "ammo.rocket.sam",
       "displayName": "SAM Ammo",
@@ -3466,7 +3502,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "samsite": {
+    {
       "itemID": -1009359066,
       "shortname": "samsite",
       "displayName": "SAM Site",
@@ -3475,7 +3511,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "corn": {
+    {
       "itemID": 1367190888,
       "shortname": "corn",
       "displayName": "Corn",
@@ -3484,7 +3520,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "clone.corn": {
+    {
       "itemID": -778875547,
       "shortname": "clone.corn",
       "displayName": "Corn Clone",
@@ -3493,7 +3529,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "seed.corn": {
+    {
       "itemID": 998894949,
       "shortname": "seed.corn",
       "displayName": "Corn Seed",
@@ -3502,7 +3538,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "clone.hemp": {
+    {
       "itemID": -886280491,
       "shortname": "clone.hemp",
       "displayName": "Hemp Clone",
@@ -3511,7 +3547,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "seed.hemp": {
+    {
       "itemID": -237809779,
       "shortname": "seed.hemp",
       "displayName": "Hemp Seed",
@@ -3520,7 +3556,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "pumpkin": {
+    {
       "itemID": -567909622,
       "shortname": "pumpkin",
       "displayName": "Pumpkin",
@@ -3529,7 +3565,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "clone.pumpkin": {
+    {
       "itemID": 1898094925,
       "shortname": "clone.pumpkin",
       "displayName": "Pumpkin Plant Clone",
@@ -3538,7 +3574,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "seed.pumpkin": {
+    {
       "itemID": -1511285251,
       "shortname": "seed.pumpkin",
       "displayName": "Pumpkin Seed",
@@ -3547,7 +3583,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "fat.animal": {
+    {
       "itemID": -1018587433,
       "shortname": "fat.animal",
       "displayName": "Animal Fat",
@@ -3556,7 +3592,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "battery.small": {
+    {
       "itemID": 609049394,
       "shortname": "battery.small",
       "displayName": "Battery - Small",
@@ -3565,7 +3601,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "blood": {
+    {
       "itemID": 1776460938,
       "shortname": "blood",
       "displayName": "Blood",
@@ -3574,7 +3610,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "bone.fragments": {
+    {
       "itemID": 1719978075,
       "shortname": "bone.fragments",
       "displayName": "Bone Fragments",
@@ -3583,7 +3619,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "cctv.camera": {
+    {
       "itemID": 634478325,
       "shortname": "cctv.camera",
       "displayName": "CCTV Camera",
@@ -3592,7 +3628,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "charcoal": {
+    {
       "itemID": -1938052175,
       "shortname": "charcoal",
       "displayName": "Charcoal",
@@ -3601,7 +3637,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "cloth": {
+    {
       "itemID": -858312878,
       "shortname": "cloth",
       "displayName": "Cloth",
@@ -3610,7 +3646,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "crude.oil": {
+    {
       "itemID": -321733511,
       "shortname": "crude.oil",
       "displayName": "Crude Oil",
@@ -3619,7 +3655,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "diesel_barrel": {
+    {
       "itemID": 1568388703,
       "shortname": "diesel_barrel",
       "displayName": "Diesel Fuel",
@@ -3628,7 +3664,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "can.beans.empty": {
+    {
       "itemID": 1655979682,
       "shortname": "can.beans.empty",
       "displayName": "Empty Can Of Beans",
@@ -3637,7 +3673,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "can.tuna.empty": {
+    {
       "itemID": -1557377697,
       "shortname": "can.tuna.empty",
       "displayName": "Empty Tuna Can",
@@ -3646,7 +3682,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "explosives": {
+    {
       "itemID": -592016202,
       "shortname": "explosives",
       "displayName": "Explosives",
@@ -3655,7 +3691,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "gunpowder": {
+    {
       "itemID": -265876753,
       "shortname": "gunpowder",
       "displayName": "Gun Powder",
@@ -3664,7 +3700,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "hq.metal.ore": {
+    {
       "itemID": -1982036270,
       "shortname": "hq.metal.ore",
       "displayName": "High Quality Metal Ore",
@@ -3673,7 +3709,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "metal.refined": {
+    {
       "itemID": 317398316,
       "shortname": "metal.refined",
       "displayName": "High Quality Metal",
@@ -3682,7 +3718,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "leather": {
+    {
       "itemID": 1381010055,
       "shortname": "leather",
       "displayName": "Leather",
@@ -3691,7 +3727,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "lowgradefuel": {
+    {
       "itemID": -946369541,
       "shortname": "lowgradefuel",
       "displayName": "Low Grade Fuel",
@@ -3700,7 +3736,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "metal.fragments": {
+    {
       "itemID": 69511070,
       "shortname": "metal.fragments",
       "displayName": "Metal Fragments",
@@ -3709,7 +3745,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "metal.ore": {
+    {
       "itemID": -4031221,
       "shortname": "metal.ore",
       "displayName": "Metal Ore",
@@ -3718,7 +3754,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "paper": {
+    {
       "itemID": -1779183908,
       "shortname": "paper",
       "displayName": "Paper",
@@ -3727,7 +3763,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "researchpaper": {
+    {
       "itemID": -544317637,
       "shortname": "researchpaper",
       "displayName": "Research Paper",
@@ -3736,7 +3772,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "water.salt": {
+    {
       "itemID": -277057363,
       "shortname": "water.salt",
       "displayName": "Salt Water",
@@ -3745,7 +3781,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "scrap": {
+    {
       "itemID": -932201673,
       "shortname": "scrap",
       "displayName": "Scrap",
@@ -3754,7 +3790,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "stones": {
+    {
       "itemID": -2099697608,
       "shortname": "stones",
       "displayName": "Stones",
@@ -3763,7 +3799,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sulfur.ore": {
+    {
       "itemID": -1157596551,
       "shortname": "sulfur.ore",
       "displayName": "Sulfur Ore",
@@ -3772,7 +3808,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sulfur": {
+    {
       "itemID": -1581843485,
       "shortname": "sulfur",
       "displayName": "Sulfur",
@@ -3781,7 +3817,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "targeting.computer": {
+    {
       "itemID": 1523195708,
       "shortname": "targeting.computer",
       "displayName": "Targeting Computer",
@@ -3790,7 +3826,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "water": {
+    {
       "itemID": -1779180711,
       "shortname": "water",
       "displayName": "Water",
@@ -3799,7 +3835,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "skull.wolf": {
+    {
       "itemID": 2048317869,
       "shortname": "skull.wolf",
       "displayName": "Wolf Skull",
@@ -3808,7 +3844,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "wood": {
+    {
       "itemID": -151838493,
       "shortname": "wood",
       "displayName": "Wood",
@@ -3817,7 +3853,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "antiradpills": {
+    {
       "itemID": -1432674913,
       "shortname": "antiradpills",
       "displayName": "Anti-Radiation Pills",
@@ -3826,7 +3862,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "tool.binoculars": {
+    {
       "itemID": -1262185308,
       "shortname": "tool.binoculars",
       "displayName": "Binoculars",
@@ -3835,7 +3871,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "explosive.timed": {
+    {
       "itemID": 1248356124,
       "shortname": "explosive.timed",
       "displayName": "Timed Explosive Charge",
@@ -3844,7 +3880,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "tool.camera": {
+    {
       "itemID": -1316706473,
       "shortname": "tool.camera",
       "displayName": "Camera",
@@ -3853,7 +3889,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "rf.detonator": {
+    {
       "itemID": 596469572,
       "shortname": "rf.detonator",
       "displayName": "RF Transmitter",
@@ -3862,7 +3898,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "fishingrod.handmade": {
+    {
       "itemID": 1569882109,
       "shortname": "fishingrod.handmade",
       "displayName": "Handmade Fishing Rod",
@@ -3871,7 +3907,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "flare": {
+    {
       "itemID": 304481038,
       "shortname": "flare",
       "displayName": "Flare",
@@ -3880,7 +3916,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "flashlight.held": {
+    {
       "itemID": -196667575,
       "shortname": "flashlight.held",
       "displayName": "Flashlight",
@@ -3889,7 +3925,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "geiger.counter": {
+    {
       "itemID": 999690781,
       "shortname": "geiger.counter",
       "displayName": "Geiger Counter",
@@ -3898,7 +3934,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "jackhammer": {
+    {
       "itemID": 1488979457,
       "shortname": "jackhammer",
       "displayName": "Jackhammer",
@@ -3907,7 +3943,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "keycard_blue": {
+    {
       "itemID": -484206264,
       "shortname": "keycard_blue",
       "displayName": "Blue Keycard",
@@ -3916,7 +3952,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "keycard_green": {
+    {
       "itemID": 37122747,
       "shortname": "keycard_green",
       "displayName": "Green Keycard",
@@ -3925,7 +3961,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "keycard_red": {
+    {
       "itemID": -1880870149,
       "shortname": "keycard_red",
       "displayName": "Red Keycard",
@@ -3934,7 +3970,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "largemedkit": {
+    {
       "itemID": 254522515,
       "shortname": "largemedkit",
       "displayName": "Large Medkit",
@@ -3943,7 +3979,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "map": {
+    {
       "itemID": 696029452,
       "shortname": "map",
       "displayName": "Paper Map",
@@ -3952,7 +3988,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "syringe.medical": {
+    {
       "itemID": 1079279582,
       "shortname": "syringe.medical",
       "displayName": "Medical Syringe",
@@ -3961,16 +3997,16 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "rf_pager": {
+    {
       "itemID": -566907190,
       "shortname": "rf_pager",
       "displayName": "RF Pager",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "building.planner": {
+    {
       "itemID": 1525520776,
       "shortname": "building.planner",
       "displayName": "Building Plan",
@@ -3979,7 +4015,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "grenade.smoke": {
+    {
       "itemID": 1263920163,
       "shortname": "grenade.smoke",
       "displayName": "Smoke Grenade",
@@ -3988,7 +4024,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "supply.signal": {
+    {
       "itemID": 1397052267,
       "shortname": "supply.signal",
       "displayName": "Supply Signal",
@@ -3997,7 +4033,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "surveycharge": {
+    {
       "itemID": 1975934948,
       "shortname": "surveycharge",
       "displayName": "Survey Charge",
@@ -4006,16 +4042,16 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "wiretool": {
+    {
       "itemID": -144417939,
       "shortname": "wiretool",
       "displayName": "Wire Tool",
       "category": 16,
-      "categoryName": "Electrical",
+      "categoryName": "",
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "weapon.mod.8x.scope": {
+    {
       "itemID": 174866732,
       "shortname": "weapon.mod.8x.scope",
       "displayName": "16x Zoom Scope",
@@ -4024,7 +4060,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "weapon.mod.flashlight": {
+    {
       "itemID": 952603248,
       "shortname": "weapon.mod.flashlight",
       "displayName": "Weapon flashlight",
@@ -4033,7 +4069,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "weapon.mod.holosight": {
+    {
       "itemID": 442289265,
       "shortname": "weapon.mod.holosight",
       "displayName": "Holosight",
@@ -4042,7 +4078,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "weapon.mod.lasersight": {
+    {
       "itemID": -132516482,
       "shortname": "weapon.mod.lasersight",
       "displayName": "Weapon Lasersight",
@@ -4051,7 +4087,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "weapon.mod.muzzleboost": {
+    {
       "itemID": -1405508498,
       "shortname": "weapon.mod.muzzleboost",
       "displayName": "Muzzle Boost",
@@ -4060,7 +4096,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "weapon.mod.muzzlebrake": {
+    {
       "itemID": 1478091698,
       "shortname": "weapon.mod.muzzlebrake",
       "displayName": "Muzzle Brake",
@@ -4069,7 +4105,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "weapon.mod.simplesight": {
+    {
       "itemID": -855748505,
       "shortname": "weapon.mod.simplesight",
       "displayName": "Simple Handmade Sight",
@@ -4078,7 +4114,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "weapon.mod.silencer": {
+    {
       "itemID": -1850571427,
       "shortname": "weapon.mod.silencer",
       "displayName": "Silencer",
@@ -4087,7 +4123,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "weapon.mod.small.scope": {
+    {
       "itemID": 567235583,
       "shortname": "weapon.mod.small.scope",
       "displayName": "8x Zoom Scope",
@@ -4096,7 +4132,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "rifle.ak": {
+    {
       "itemID": 1545779598,
       "shortname": "rifle.ak",
       "displayName": "Assault Rifle",
@@ -4105,7 +4141,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "bandage": {
+    {
       "itemID": -2072273936,
       "shortname": "bandage",
       "displayName": "Bandage",
@@ -4114,7 +4150,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "grenade.beancan": {
+    {
       "itemID": 1840822026,
       "shortname": "grenade.beancan",
       "displayName": "Beancan Grenade",
@@ -4123,7 +4159,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "rifle.bolt": {
+    {
       "itemID": 1588298435,
       "shortname": "rifle.bolt",
       "displayName": "Bolt Action Rifle",
@@ -4132,7 +4168,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "bone.club": {
+    {
       "itemID": 1711033574,
       "shortname": "bone.club",
       "displayName": "Bone Club",
@@ -4141,7 +4177,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "knife.bone": {
+    {
       "itemID": 1814288539,
       "shortname": "knife.bone",
       "displayName": "Bone Knife",
@@ -4150,7 +4186,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "bow.hunting": {
+    {
       "itemID": 1443579727,
       "shortname": "bow.hunting",
       "displayName": "Hunting Bow",
@@ -4159,7 +4195,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "cakefiveyear": {
+    {
       "itemID": 1973165031,
       "shortname": "cakefiveyear",
       "displayName": "Birthday Cake",
@@ -4168,7 +4204,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "chainsaw": {
+    {
       "itemID": 1104520648,
       "shortname": "chainsaw",
       "displayName": "Chainsaw",
@@ -4177,7 +4213,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "salvaged.cleaver": {
+    {
       "itemID": -1978999529,
       "shortname": "salvaged.cleaver",
       "displayName": "Salvaged Cleaver",
@@ -4186,7 +4222,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "bow.compound": {
+    {
       "itemID": 884424049,
       "shortname": "bow.compound",
       "displayName": "Compound Bow",
@@ -4195,7 +4231,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "crossbow": {
+    {
       "itemID": 1965232394,
       "shortname": "crossbow",
       "displayName": "Crossbow",
@@ -4204,7 +4240,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "shotgun.double": {
+    {
       "itemID": -765183617,
       "shortname": "shotgun.double",
       "displayName": "Double Barrel Shotgun",
@@ -4213,7 +4249,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "pistol.eoka": {
+    {
       "itemID": -75944661,
       "shortname": "pistol.eoka",
       "displayName": "Eoka Pistol",
@@ -4222,7 +4258,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "grenade.f1": {
+    {
       "itemID": 143803535,
       "shortname": "grenade.f1",
       "displayName": "F1 Grenade",
@@ -4231,7 +4267,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "flamethrower": {
+    {
       "itemID": -1215753368,
       "shortname": "flamethrower",
       "displayName": "Flame Thrower",
@@ -4240,7 +4276,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "multiplegrenadelauncher": {
+    {
       "itemID": -1123473824,
       "shortname": "multiplegrenadelauncher",
       "displayName": "Multiple Grenade Launcher",
@@ -4249,7 +4285,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "knife.butcher": {
+    {
       "itemID": -194509282,
       "shortname": "knife.butcher",
       "displayName": "Butcher Knife",
@@ -4258,7 +4294,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "pitchfork": {
+    {
       "itemID": 1090916276,
       "shortname": "pitchfork",
       "displayName": "Pitchfork",
@@ -4267,7 +4303,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "sickle": {
+    {
       "itemID": -1368584029,
       "shortname": "sickle",
       "displayName": "Sickle",
@@ -4276,7 +4312,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "hammer": {
+    {
       "itemID": 200773292,
       "shortname": "hammer",
       "displayName": "Hammer",
@@ -4285,7 +4321,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "hatchet": {
+    {
       "itemID": -1252059217,
       "shortname": "hatchet",
       "displayName": "Hatchet",
@@ -4294,7 +4330,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "knife.combat": {
+    {
       "itemID": 2040726127,
       "shortname": "knife.combat",
       "displayName": "Combat Knife",
@@ -4303,7 +4339,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "rifle.l96": {
+    {
       "itemID": -778367295,
       "shortname": "rifle.l96",
       "displayName": "L96 Rifle",
@@ -4312,7 +4348,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "rifle.lr300": {
+    {
       "itemID": -1812555177,
       "shortname": "rifle.lr300",
       "displayName": "LR-300 Assault Rifle",
@@ -4321,7 +4357,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "lmg.m249": {
+    {
       "itemID": -2069578888,
       "shortname": "lmg.m249",
       "displayName": "M249",
@@ -4330,7 +4366,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "rifle.m39": {
+    {
       "itemID": 28201841,
       "shortname": "rifle.m39",
       "displayName": "M39 Rifle",
@@ -4339,7 +4375,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "pistol.m92": {
+    {
       "itemID": -852563019,
       "shortname": "pistol.m92",
       "displayName": "M92 Pistol",
@@ -4348,7 +4384,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "mace": {
+    {
       "itemID": -1966748496,
       "shortname": "mace",
       "displayName": "Mace",
@@ -4357,7 +4393,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "machete": {
+    {
       "itemID": -1137865085,
       "shortname": "machete",
       "displayName": "Machete",
@@ -4366,7 +4402,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "smg.mp5": {
+    {
       "itemID": 1318558775,
       "shortname": "smg.mp5",
       "displayName": "MP5A4",
@@ -4375,7 +4411,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "pistol.nailgun": {
+    {
       "itemID": 1953903201,
       "shortname": "pistol.nailgun",
       "displayName": "Nailgun",
@@ -4384,7 +4420,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "pickaxe": {
+    {
       "itemID": -1302129395,
       "shortname": "pickaxe",
       "displayName": "Pickaxe",
@@ -4393,7 +4429,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "shotgun.waterpipe": {
+    {
       "itemID": -1367281941,
       "shortname": "shotgun.waterpipe",
       "displayName": "Waterpipe Shotgun",
@@ -4402,7 +4438,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "pistol.python": {
+    {
       "itemID": 1373971859,
       "shortname": "pistol.python",
       "displayName": "Python Revolver",
@@ -4411,7 +4447,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "pistol.revolver": {
+    {
       "itemID": 649912614,
       "shortname": "pistol.revolver",
       "displayName": "Revolver",
@@ -4420,7 +4456,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "rock": {
+    {
       "itemID": 963906841,
       "shortname": "rock",
       "displayName": "Rock",
@@ -4429,7 +4465,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "rocket.launcher": {
+    {
       "itemID": 442886268,
       "shortname": "rocket.launcher",
       "displayName": "Rocket Launcher",
@@ -4438,7 +4474,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "axe.salvaged": {
+    {
       "itemID": -262590403,
       "shortname": "axe.salvaged",
       "displayName": "Salvaged Axe",
@@ -4447,7 +4483,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "hammer.salvaged": {
+    {
       "itemID": -1506397857,
       "shortname": "hammer.salvaged",
       "displayName": "Salvaged Hammer",
@@ -4456,7 +4492,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "icepick.salvaged": {
+    {
       "itemID": -1780802565,
       "shortname": "icepick.salvaged",
       "displayName": "Salvaged Icepick",
@@ -4465,7 +4501,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "explosive.satchel": {
+    {
       "itemID": -1878475007,
       "shortname": "explosive.satchel",
       "displayName": "Satchel Charge",
@@ -4474,7 +4510,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "shotgun.pump": {
+    {
       "itemID": 795371088,
       "shortname": "shotgun.pump",
       "displayName": "Pump Shotgun",
@@ -4483,7 +4519,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "pistol.semiauto": {
+    {
       "itemID": 818877484,
       "shortname": "pistol.semiauto",
       "displayName": "Semi-Automatic Pistol",
@@ -4492,7 +4528,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "rifle.semiauto": {
+    {
       "itemID": -904863145,
       "shortname": "rifle.semiauto",
       "displayName": "Semi-Automatic Rifle",
@@ -4501,7 +4537,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "smg.2": {
+    {
       "itemID": 1796682209,
       "shortname": "smg.2",
       "displayName": "Custom SMG",
@@ -4510,7 +4546,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "shotgun.spas12": {
+    {
       "itemID": -41440462,
       "shortname": "shotgun.spas12",
       "displayName": "Spas-12 Shotgun",
@@ -4519,7 +4555,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "stonehatchet": {
+    {
       "itemID": -1583967946,
       "shortname": "stonehatchet",
       "displayName": "Stone Hatchet",
@@ -4528,7 +4564,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "stone.pickaxe": {
+    {
       "itemID": 171931394,
       "shortname": "stone.pickaxe",
       "displayName": "Stone Pickaxe",
@@ -4537,7 +4573,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "spear.stone": {
+    {
       "itemID": 1602646136,
       "shortname": "spear.stone",
       "displayName": "Stone Spear",
@@ -4546,7 +4582,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "longsword": {
+    {
       "itemID": -1469578201,
       "shortname": "longsword",
       "displayName": "Longsword",
@@ -4555,7 +4591,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "salvaged.sword": {
+    {
       "itemID": 1326180354,
       "shortname": "salvaged.sword",
       "displayName": "Salvaged Sword",
@@ -4564,7 +4600,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "smg.thompson": {
+    {
       "itemID": -1758372725,
       "shortname": "smg.thompson",
       "displayName": "Thompson",
@@ -4573,16 +4609,16 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "toolgun": {
+    {
       "itemID": 1803831286,
       "shortname": "toolgun",
-      "displayName": "Garry's Mod Toolgun",
+      "displayName": "Garry's Mod Tool Gun",
       "category": 5,
       "categoryName": "Tool",
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
-    "torch": {
+    {
       "itemID": 795236088,
       "shortname": "torch",
       "displayName": "Torch",
@@ -4591,7 +4627,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "bucket.water": {
+    {
       "itemID": 1424075905,
       "shortname": "bucket.water",
       "displayName": "Water Bucket",
@@ -4600,7 +4636,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "spear.wooden": {
+    {
       "itemID": 1540934679,
       "shortname": "spear.wooden",
       "displayName": "Wooden Spear",
@@ -4609,7 +4645,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "horse.armor.roadsign": {
+    {
       "itemID": 60528587,
       "shortname": "horse.armor.roadsign",
       "displayName": "Roadsign Horse Armor",
@@ -4618,7 +4654,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "horse.armor.wood": {
+    {
       "itemID": 1659447559,
       "shortname": "horse.armor.wood",
       "displayName": "Wooden Horse Armor",
@@ -4627,7 +4663,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": true
     },
-    "horse.saddlebag": {
+    {
       "itemID": 1400460850,
       "shortname": "horse.saddlebag",
       "displayName": "Saddle bag",
@@ -4636,7 +4672,7 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     },
-    "horse.shoes.advanced": {
+    {
       "itemID": 1989785143,
       "shortname": "horse.shoes.advanced",
       "displayName": "High Quality Horse Shoes",
@@ -4645,7 +4681,7 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
-    "horse.shoes.basic": {
+    {
       "itemID": -1211268013,
       "shortname": "horse.shoes.basic",
       "displayName": "Basic Horse Shoes",
@@ -4654,6 +4690,5 @@
       "availableAsBluePrint": false,
       "defaultBlueprint": true
     }
-  },
-  "AllMonumentsAvailable": []
+  ]
 }
