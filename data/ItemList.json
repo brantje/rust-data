@@ -1,5 +1,5 @@
 {
-  "version": 2210,
+  "version": 2211,
   "AllItemsAvailable": [
     {
       "itemID": -1478212975,
@@ -1541,6 +1541,123 @@
       "defaultBlueprint": false
     },
     {
+      "itemID": 1744298439,
+      "shortname": "firework.boomer.blue",
+      "displayName": "Blue Boomer",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": 1324203999,
+      "shortname": "firework.boomer.champagne",
+      "displayName": "Champagne Boomer",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": -656349006,
+      "shortname": "firework.boomer.green",
+      "displayName": "Green Boomer",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": -7270019,
+      "shortname": "firework.boomer.orange",
+      "displayName": "Orange Boomer",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": -1553999294,
+      "shortname": "firework.boomer.red",
+      "displayName": "Red Boomer",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": -280223496,
+      "shortname": "firework.boomer.violet",
+      "displayName": "Violet Boomer",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": -515830359,
+      "shortname": "firework.romancandle.blue",
+      "displayName": "Blue Roman Candle",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": -1306288356,
+      "shortname": "firework.romancandle.green",
+      "displayName": "Green Roman Candle",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": -1486461488,
+      "shortname": "firework.romancandle.red",
+      "displayName": "Red Roman Candle",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": -99886070,
+      "shortname": "firework.romancandle.violet",
+      "displayName": "Violet Roman Candle",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": 261913429,
+      "shortname": "firework.volcano",
+      "displayName": "White Volcano Firework",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": -454370658,
+      "shortname": "firework.volcano.red",
+      "displayName": "Red Volcano Firework",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": -1538109120,
+      "shortname": "firework.volcano.violet",
+      "displayName": "Violet Volcano Firework",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
       "itemID": -92759291,
       "shortname": "spikes.floor",
       "displayName": "Wooden Floor Spikes",
@@ -1895,6 +2012,15 @@
       "itemID": 2090395347,
       "shortname": "electric.solarpanel.large",
       "displayName": "Large Solar Panel",
+      "category": 16,
+      "categoryName": "",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": -44876289,
+      "shortname": "electric.igniter",
+      "displayName": "Igniter",
       "category": 16,
       "categoryName": "",
       "availableAsBluePrint": true,
@@ -2889,6 +3015,33 @@
       "categoryName": "Attire",
       "availableAsBluePrint": false,
       "defaultBlueprint": false
+    },
+    {
+      "itemID": -961457160,
+      "shortname": "newyeargong",
+      "displayName": "New Year Gong",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": 271048478,
+      "shortname": "hat.ratmask",
+      "displayName": "Rat Mask",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    {
+      "itemID": -1961560162,
+      "shortname": "lunar.firecrackers",
+      "displayName": "Firecracker String",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true
     },
     {
       "itemID": 359723196,
