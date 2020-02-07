@@ -1,5 +1,5 @@
 {
-  "version": 2211,
+  "version": 2215,
   "AllItemsAvailable": [
     {
       "itemID": -1478212975,
@@ -608,177 +608,6 @@
       "itemID": -1108136649,
       "shortname": "tactical.gloves",
       "displayName": "Tactical Gloves",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": 274502203,
-      "shortname": "femalearmpithair.style01",
-      "displayName": "f-armpit01",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": 181590376,
-      "shortname": "malearmpithair.style01",
-      "displayName": "m-armpit01",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": -1065444793,
-      "shortname": "femaleeyebrow.style01",
-      "displayName": "f-eyebrow01",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": -874975042,
-      "shortname": "maleeyebrow.style01",
-      "displayName": "m-eyebrow01",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": 798638114,
-      "shortname": "facialhair.style01",
-      "displayName": "m-facialhair01",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": -163828118,
-      "shortname": "male.facialhair.style02",
-      "displayName": "m-facialhair02",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": -163828117,
-      "shortname": "male.facialhair.style03",
-      "displayName": "m-facialhair03",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": -163828112,
-      "shortname": "male.facialhair.style04",
-      "displayName": "m-facialhair04",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": 649305914,
-      "shortname": "female_hairstyle_01",
-      "displayName": "f-hairstyle-1",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": 1070894649,
-      "shortname": "male_hairstyle_01",
-      "displayName": "m-hairstyle-1",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": 649305917,
-      "shortname": "female_hairstyle_02",
-      "displayName": "f-hairstyle-2",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": 1070894648,
-      "shortname": "male_hairstyle_02",
-      "displayName": "m-hairstyle-2",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": 649305916,
-      "shortname": "female_hairstyle_03",
-      "displayName": "f-hairstyle-3",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": 1070894647,
-      "shortname": "male_hairstyle_03",
-      "displayName": "m-hairstyle-3",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": 1070894646,
-      "shortname": "male_hairstyle_04",
-      "displayName": "m-hairstyle-4",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": 649305918,
-      "shortname": "female_hairstyle_05",
-      "displayName": "f-hairstyle-5",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": 1070894645,
-      "shortname": "male_hairstyle_05",
-      "displayName": "m-hairstyle-5",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": 16333305,
-      "shortname": "femalepubichair.style01",
-      "displayName": "f-pubic01",
-      "category": 4,
-      "categoryName": "Attire",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false
-    },
-    {
-      "itemID": -1190096326,
-      "shortname": "malepubichair.style01",
-      "displayName": "m-pubic01",
       "category": 4,
       "categoryName": "Attire",
       "availableAsBluePrint": false,
@@ -2947,7 +2776,7 @@
     {
       "itemID": -211235948,
       "shortname": "xylophone",
-      "displayName": "Xlyobone",
+      "displayName": "Xylobone",
       "category": 17,
       "categoryName": "",
       "availableAsBluePrint": false,
@@ -3041,7 +2870,7 @@
       "category": 17,
       "categoryName": "",
       "availableAsBluePrint": false,
-      "defaultBlueprint": true
+      "defaultBlueprint": false
     },
     {
       "itemID": 359723196,
