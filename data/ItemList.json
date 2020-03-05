@@ -1,5 +1,5 @@
 {
-  "version": 2215,
+  "version": 2218,
   "AllItemsAvailable": [
     {
       "itemID": -1478212975,
@@ -1352,6 +1352,15 @@
       "defaultBlueprint": false
     },
     {
+      "itemID": -1588628467,
+      "shortname": "computerstation",
+      "displayName": "Computer Station",
+      "category": 16,
+      "categoryName": "",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false
+    },
+    {
       "itemID": -1519126340,
       "shortname": "dropbox",
       "displayName": "Drop Box",
@@ -2137,7 +2146,7 @@
     {
       "itemID": -1819233322,
       "shortname": "sign.wooden.medium",
-      "displayName": "Wooden Sign",
+      "displayName": "Medium Wooden Sign",
       "category": 2,
       "categoryName": "Items",
       "availableAsBluePrint": true,
