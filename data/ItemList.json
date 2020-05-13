@@ -1,5 +1,5 @@
 {
-  "version": 2219,
+  "version": 2223,
   "AllItemsAvailable": {
     "hat.wolf": {
       "itemID": -1478212975,
@@ -856,6 +856,15 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
+    "nightvisiongoggles": {
+      "itemID": -1518883088,
+      "shortname": "nightvisiongoggles",
+      "displayName": "Night Vision Goggles",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false
+    },
     "burlap.trousers": {
       "itemID": 1992974553,
       "shortname": "burlap.trousers",
@@ -1675,6 +1684,24 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
+    "smart.alarm": {
+      "itemID": -695978112,
+      "shortname": "smart.alarm",
+      "displayName": "Smart Alarm",
+      "category": 16,
+      "categoryName": "Electrical",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    "smart.switch": {
+      "itemID": 988652725,
+      "shortname": "smart.switch",
+      "displayName": "Smart Switch",
+      "category": 16,
+      "categoryName": "Electrical",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
     "electric.battery.rechargable.large": {
       "itemID": 553270375,
       "shortname": "electric.battery.rechargable.large",
@@ -1742,6 +1769,24 @@
       "itemID": -502177121,
       "shortname": "electric.doorcontroller",
       "displayName": "Door Controller",
+      "category": 16,
+      "categoryName": "Electrical",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false
+    },
+    "electric.heater": {
+      "itemID": -784870360,
+      "shortname": "electric.heater",
+      "displayName": "Electric Heater",
+      "category": 16,
+      "categoryName": "Electrical",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false
+    },
+    "fluid.combiner": {
+      "itemID": -265292885,
+      "shortname": "fluid.combiner",
+      "displayName": "Fluid Combiner",
       "category": 16,
       "categoryName": "Electrical",
       "availableAsBluePrint": true,
@@ -1918,6 +1963,15 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
+    "powered.water.purifier": {
+      "itemID": -365097295,
+      "shortname": "powered.water.purifier",
+      "displayName": "Powered Water Purifier",
+      "category": 16,
+      "categoryName": "Electrical",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false
+    },
     "electric.switch": {
       "itemID": 1951603367,
       "shortname": "electric.switch",
@@ -1970,6 +2024,15 @@
       "category": 16,
       "categoryName": "Electrical",
       "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    "waterpump": {
+      "itemID": -1284169891,
+      "shortname": "waterpump",
+      "displayName": "Water Pump",
+      "category": 16,
+      "categoryName": "Electrical",
+      "availableAsBluePrint": true,
       "defaultBlueprint": false
     },
     "mining.quarry": {
@@ -2986,6 +3049,33 @@
       "displayName": "Rustigé Egg - Blue",
       "category": 10,
       "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    "rustige_egg_c": {
+      "itemID": -173268131,
+      "shortname": "rustige_egg_c",
+      "displayName": "Rustigé Egg - Purple",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    "rustige_egg_d": {
+      "itemID": -173268126,
+      "shortname": "rustige_egg_d",
+      "displayName": "Rustigé Egg - Ivory",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false
+    },
+    "attire.nesthat": {
+      "itemID": 1081315464,
+      "shortname": "attire.nesthat",
+      "displayName": "Nest Hat",
+      "category": 4,
+      "categoryName": "Attire",
       "availableAsBluePrint": false,
       "defaultBlueprint": false
     },
