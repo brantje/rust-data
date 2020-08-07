@@ -1,5 +1,5 @@
 {
-  "version": 2223,
+  "version": 2252,
   "AllItemsAvailable": {
     "hat.wolf": {
       "itemID": -1478212975,
@@ -289,7 +289,7 @@
       "categoryName": "Construction",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "door.double.hinged.toptier": {
       "itemID": 1221063409,
@@ -299,7 +299,7 @@
       "categoryName": "Construction",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "door.double.hinged.wood": {
       "itemID": -1336109173,
@@ -309,7 +309,7 @@
       "categoryName": "Construction",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "door.hinged.metal": {
       "itemID": -2067472972,
@@ -319,7 +319,7 @@
       "categoryName": "Construction",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "door.hinged.toptier": {
       "itemID": 1353298668,
@@ -329,7 +329,7 @@
       "categoryName": "Construction",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "door.hinged.wood": {
       "itemID": 1729120840,
@@ -339,7 +339,7 @@
       "categoryName": "Construction",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "floor.grill": {
       "itemID": 936496778,
@@ -355,6 +355,26 @@
       "itemID": 1948067030,
       "shortname": "floor.ladder.hatch",
       "displayName": "Ladder Hatch",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "floor.triangle.grill": {
+      "itemID": 1983621560,
+      "shortname": "floor.triangle.grill",
+      "displayName": "Floor triangle grill",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "floor.triangle.ladder.hatch": {
+      "itemID": 2041899972,
+      "shortname": "floor.triangle.ladder.hatch",
+      "displayName": "Triangle Ladder Hatch",
       "category": 1,
       "categoryName": "Construction",
       "availableAsBluePrint": true,
@@ -459,7 +479,7 @@
       "categoryName": "Construction",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "wall.frame.netting": {
       "itemID": 1516985844,
@@ -719,7 +739,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "hat.beenie": {
       "itemID": 1675639563,
@@ -759,7 +779,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "hat.candle": {
       "itemID": 1714496074,
@@ -799,7 +819,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "deer.skull.mask": {
       "itemID": -1903165497,
@@ -809,7 +829,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "heavy.plate.helmet": {
       "itemID": 1181207482,
@@ -829,7 +849,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "partyhat": {
       "itemID": -575744869,
@@ -849,7 +869,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "wood.armor.helmet": {
       "itemID": -2094954543,
@@ -949,7 +969,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "nightvisiongoggles": {
       "itemID": -1518883088,
@@ -969,7 +989,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "heavy.plate.pants": {
       "itemID": -1778159885,
@@ -989,7 +1009,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "roadsign.kilt": {
       "itemID": 1850456855,
@@ -999,7 +1019,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "pants.shorts": {
       "itemID": -1695367501,
@@ -1009,7 +1029,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "wood.armor.pants": {
       "itemID": 832133926,
@@ -1039,7 +1059,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "burlap.shirt": {
       "itemID": 602741290,
@@ -1059,7 +1079,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "attire.hide.vest": {
       "itemID": 196700171,
@@ -1069,7 +1089,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "shirt.tanktop": {
       "itemID": 1608640313,
@@ -1079,7 +1099,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "shoes.boots": {
       "itemID": -1549739227,
@@ -1099,7 +1119,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "attire.hide.boots": {
       "itemID": 794356786,
@@ -1109,7 +1129,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "attire.hide.skirt": {
       "itemID": -1773144852,
@@ -1119,7 +1139,17 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
+    },
+    "attire.banditguard": {
+      "itemID": -1622110948,
+      "shortname": "attire.banditguard",
+      "displayName": "Bandit Guard Gear",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
     },
     "hazmatsuit": {
       "itemID": 1266491000,
@@ -1189,7 +1219,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "roadsign.jacket": {
       "itemID": -2002277461,
@@ -1199,7 +1229,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "bleach": {
       "itemID": 1553078977,
@@ -1218,6 +1248,156 @@
       "category": 13,
       "categoryName": "Component",
       "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "carburetor1": {
+      "itemID": 656371028,
+      "shortname": "carburetor1",
+      "displayName": "Low Quality Carburetor",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "carburetor2": {
+      "itemID": 656371027,
+      "shortname": "carburetor2",
+      "displayName": "Medium Quality Carburetor",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "carburetor3": {
+      "itemID": 656371026,
+      "shortname": "carburetor3",
+      "displayName": "High Quality Carburetor",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "crankshaft1": {
+      "itemID": 1158340334,
+      "shortname": "crankshaft1",
+      "displayName": "Low Quality Crankshaft",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "crankshaft2": {
+      "itemID": 1158340331,
+      "shortname": "crankshaft2",
+      "displayName": "Medium Quality Crankshaft",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "crankshaft3": {
+      "itemID": 1158340332,
+      "shortname": "crankshaft3",
+      "displayName": "High Quality Crankshaft",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "piston1": {
+      "itemID": 1883981798,
+      "shortname": "piston1",
+      "displayName": "Low Quality Pistons",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "piston2": {
+      "itemID": 1883981801,
+      "shortname": "piston2",
+      "displayName": "Medium Quality Pistons",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "piston3": {
+      "itemID": 1883981800,
+      "shortname": "piston3",
+      "displayName": "High Quality Pistons",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "sparkplug1": {
+      "itemID": -89874794,
+      "shortname": "sparkplug1",
+      "displayName": "Low Quality Spark Plugs",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "sparkplug2": {
+      "itemID": -493159321,
+      "shortname": "sparkplug2",
+      "displayName": "Medium Quality Spark Plugs",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "sparkplug3": {
+      "itemID": 1072924620,
+      "shortname": "sparkplug3",
+      "displayName": "High Quality Spark Plugs",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "valve1": {
+      "itemID": 1330084809,
+      "shortname": "valve1",
+      "displayName": "Low Quality Valves",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "valve2": {
+      "itemID": 926800282,
+      "shortname": "valve2",
+      "displayName": "Medium Quality Valves",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "valve3": {
+      "itemID": -1802083073,
+      "shortname": "valve3",
+      "displayName": "High Quality Valves",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
     },
@@ -1399,7 +1579,17 @@
       "categoryName": "Construction",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
+    },
+    "barricade.wood.cover": {
+      "itemID": 1373240771,
+      "shortname": "barricade.wood.cover",
+      "displayName": "Wooden Barricade Cover",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
     },
     "barricade.metal": {
       "itemID": 1655650836,
@@ -1419,7 +1609,7 @@
       "categoryName": "Construction",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "barricade.stone": {
       "itemID": 15388698,
@@ -1509,7 +1699,7 @@
       "categoryName": "Items",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "composter": {
       "itemID": -1488398114,
@@ -1699,7 +1889,7 @@
       "categoryName": "Items",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "furnace.large": {
       "itemID": -1992717673,
@@ -1719,7 +1909,7 @@
       "categoryName": "Items",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "hitchtroughcombo": {
       "itemID": 1160881421,
@@ -1809,7 +1999,7 @@
       "categoryName": "Items",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "mailbox": {
       "itemID": -586784898,
@@ -1817,6 +2007,26 @@
       "displayName": "Mail Box",
       "category": 2,
       "categoryName": "Items",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "mixingtable": {
+      "itemID": 1259919256,
+      "shortname": "mixingtable",
+      "displayName": "Mixing Table",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "modularcarlift": {
+      "itemID": 1696050067,
+      "shortname": "modularcarlift",
+      "displayName": "Modular Car Lift",
+      "category": 16,
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
@@ -1877,7 +2087,7 @@
       "displayName": "Smart Alarm",
       "category": 16,
       "categoryName": "Electrical",
-      "availableAsBluePrint": false,
+      "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
     },
@@ -1887,7 +2097,7 @@
       "displayName": "Smart Switch",
       "category": 16,
       "categoryName": "Electrical",
-      "availableAsBluePrint": false,
+      "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
     },
@@ -1915,6 +2125,16 @@
       "itemID": -692338819,
       "shortname": "electric.battery.rechargable.small",
       "displayName": "Small Rechargable Battery",
+      "category": 16,
+      "categoryName": "Electrical",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "electric.button": {
+      "itemID": -1778897469,
+      "shortname": "electric.button",
+      "displayName": "Button",
       "category": 16,
       "categoryName": "Electrical",
       "availableAsBluePrint": true,
@@ -2279,7 +2499,7 @@
       "categoryName": "Items",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "box.repair.bench": {
       "itemID": 803222026,
@@ -2309,7 +2529,7 @@
       "categoryName": "Items",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "rug": {
       "itemID": -1985799200,
@@ -2319,7 +2539,7 @@
       "categoryName": "Items",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "searchlight": {
       "itemID": 2087678962,
@@ -2569,7 +2789,7 @@
       "categoryName": "Items",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "workbench1": {
       "itemID": 1524187186,
@@ -2629,7 +2849,7 @@
       "categoryName": "Items",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "water.catcher.large": {
       "itemID": -1100168350,
@@ -2659,7 +2879,7 @@
       "categoryName": "Items",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "generator.wind.scrap": {
       "itemID": -1819763926,
@@ -2679,7 +2899,7 @@
       "categoryName": "Items",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "apple": {
       "itemID": 1548091822,
@@ -3149,7 +3369,7 @@
       "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "fun.jerrycanguitar": {
       "itemID": -979951147,
@@ -3209,6 +3429,16 @@
       "categoryName": "",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
+      "skinable": false
+    },
+    "car.key": {
+      "itemID": 946662961,
+      "shortname": "car.key",
+      "displayName": "Car Key",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
       "skinable": false
     },
     "door.key": {
@@ -3661,6 +3891,246 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "abovegroundpool": {
+      "itemID": 1840570710,
+      "shortname": "abovegroundpool",
+      "displayName": "Above Ground Pool",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "beachchair": {
+      "itemID": -321431890,
+      "shortname": "beachchair",
+      "displayName": "Beach Chair",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": true
+    },
+    "beachparasol": {
+      "itemID": -1621539785,
+      "shortname": "beachparasol",
+      "displayName": "Beach Parasol",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": true
+    },
+    "beachtable": {
+      "itemID": 657352755,
+      "shortname": "beachtable",
+      "displayName": "Beach Table",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "beachtowel": {
+      "itemID": -8312704,
+      "shortname": "beachtowel",
+      "displayName": "Beach Towel",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": true
+    },
+    "boogieboard": {
+      "itemID": -1478094705,
+      "shortname": "boogieboard",
+      "displayName": "Boogie Board",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": true
+    },
+    "innertube": {
+      "itemID": -697981032,
+      "shortname": "innertube",
+      "displayName": "Inner Tube",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": true
+    },
+    "innertube.horse": {
+      "itemID": 185586769,
+      "shortname": "innertube.horse",
+      "displayName": "Inner Tube",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "innertube.unicorn": {
+      "itemID": 2052270186,
+      "shortname": "innertube.unicorn",
+      "displayName": "Inner Tube",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "tool.instant_camera": {
+      "itemID": -2001260025,
+      "shortname": "tool.instant_camera",
+      "displayName": "Instant Camera",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "paddlingpool": {
+      "itemID": -733625651,
+      "shortname": "paddlingpool",
+      "displayName": "Paddling Pool",
+      "category": 17,
+      "categoryName": "",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": true
+    },
+    "photo": {
+      "itemID": 62577426,
+      "shortname": "photo",
+      "displayName": "Photograph",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "photoframe.landscape": {
+      "itemID": 1697996440,
+      "shortname": "photoframe.landscape",
+      "displayName": "Landscape Photo Frame",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "photoframe.large": {
+      "itemID": 1205084994,
+      "shortname": "photoframe.large",
+      "displayName": "Large Photo Frame",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "photoframe.portrait": {
+      "itemID": 1729712564,
+      "shortname": "photoframe.portrait",
+      "displayName": "Portrait Photo Frame",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "sunglasses02black": {
+      "itemID": 1258768145,
+      "shortname": "sunglasses02black",
+      "displayName": "Sunglasses",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "sunglasses02camo": {
+      "itemID": -2103694546,
+      "shortname": "sunglasses02camo",
+      "displayName": "Sunglasses",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "sunglasses02red": {
+      "itemID": 1557173737,
+      "shortname": "sunglasses02red",
+      "displayName": "Sunglasses",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "sunglasses03black": {
+      "itemID": -176608084,
+      "shortname": "sunglasses03black",
+      "displayName": "Sunglasses",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "sunglasses03chrome": {
+      "itemID": -1997698639,
+      "shortname": "sunglasses03chrome",
+      "displayName": "Sunglasses",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "sunglasses03gold": {
+      "itemID": -1408336705,
+      "shortname": "sunglasses03gold",
+      "displayName": "Sunglasses",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "sunglasses": {
+      "itemID": 352321488,
+      "shortname": "sunglasses",
+      "displayName": "Sunglasses",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": true
+    },
+    "gun.water": {
+      "itemID": 722955039,
+      "shortname": "gun.water",
+      "displayName": "Water Gun",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": true
+    },
+    "pistol.water": {
+      "itemID": -1815301988,
+      "shortname": "pistol.water",
+      "displayName": "Water Pistol",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
     "candycaneclub": {
       "itemID": 1789825282,
       "shortname": "candycaneclub",
@@ -4027,6 +4497,186 @@
       "displayName": "SAM Site",
       "category": 9,
       "categoryName": "Traps",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "black.berry": {
+      "itemID": 1771755747,
+      "shortname": "black.berry",
+      "displayName": "Black Berry",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "clone.black.berry": {
+      "itemID": 122783240,
+      "shortname": "clone.black.berry",
+      "displayName": "Black Berry Clone",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "seed.black.berry": {
+      "itemID": 1911552868,
+      "shortname": "seed.black.berry",
+      "displayName": "Black Berry Seed",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "blue.berry": {
+      "itemID": 1112162468,
+      "shortname": "blue.berry",
+      "displayName": "Blue Berry",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "clone.blue.berry": {
+      "itemID": 838831151,
+      "shortname": "clone.blue.berry",
+      "displayName": "Blue Berry Clone",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "seed.blue.berry": {
+      "itemID": 803954639,
+      "shortname": "seed.blue.berry",
+      "displayName": "Blue Berry Seed",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "green.berry": {
+      "itemID": 858486327,
+      "shortname": "green.berry",
+      "displayName": "Green Berry",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "clone.green.berry": {
+      "itemID": -1305326964,
+      "shortname": "clone.green.berry",
+      "displayName": "Green Berry Clone",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "seed.green.berry": {
+      "itemID": -1776128552,
+      "shortname": "seed.green.berry",
+      "displayName": "Green Berry Seed",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "red.berry": {
+      "itemID": 1272194103,
+      "shortname": "red.berry",
+      "displayName": "Red Berry",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "clone.red.berry": {
+      "itemID": 2133269020,
+      "shortname": "clone.red.berry",
+      "displayName": "Red Berry Clone",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "seed.red.berry": {
+      "itemID": 830839496,
+      "shortname": "seed.red.berry",
+      "displayName": "Red Berry Seed",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "white.berry": {
+      "itemID": 854447607,
+      "shortname": "white.berry",
+      "displayName": "White Berry",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "clone.white.berry": {
+      "itemID": 1533551194,
+      "shortname": "clone.white.berry",
+      "displayName": "White Berry Clone",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "seed.white.berry": {
+      "itemID": -992286106,
+      "shortname": "seed.white.berry",
+      "displayName": "White Berry Seed",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "yellow.berry": {
+      "itemID": 1660145984,
+      "shortname": "yellow.berry",
+      "displayName": "Yellow Berry",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "clone.yellow.berry": {
+      "itemID": 390728933,
+      "shortname": "clone.yellow.berry",
+      "displayName": "Yellow Berry Clone",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "seed.yellow.berry": {
+      "itemID": -520133715,
+      "shortname": "seed.yellow.berry",
+      "displayName": "Yellow Berry Seed",
+      "category": 7,
+      "categoryName": "Food",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -4471,6 +5121,216 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "healingtea.advanced": {
+      "itemID": -2123125470,
+      "shortname": "healingtea.advanced",
+      "displayName": "Advanced Healing Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "healingtea": {
+      "itemID": -929092070,
+      "shortname": "healingtea",
+      "displayName": "Basic Healing Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "healingtea.pure": {
+      "itemID": -1677315902,
+      "shortname": "healingtea.pure",
+      "displayName": "Pure Healing Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "maxhealthtea.advanced": {
+      "itemID": 603811464,
+      "shortname": "maxhealthtea.advanced",
+      "displayName": "Advanced Max Health Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "maxhealthtea": {
+      "itemID": -1184406448,
+      "shortname": "maxhealthtea",
+      "displayName": "Basic Max Health Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "maxhealthtea.pure": {
+      "itemID": 1712261904,
+      "shortname": "maxhealthtea.pure",
+      "displayName": "Pure Max Health Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "oretea.advanced": {
+      "itemID": 2063916636,
+      "shortname": "oretea.advanced",
+      "displayName": "Advanced Ore Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "oretea": {
+      "itemID": 1480022580,
+      "shortname": "oretea",
+      "displayName": "Basic Ore Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "oretea.pure": {
+      "itemID": 1729374708,
+      "shortname": "oretea.pure",
+      "displayName": "Pure Ore Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "radiationremovetea.advanced": {
+      "itemID": 2021351233,
+      "shortname": "radiationremovetea.advanced",
+      "displayName": "Advanced Rad. Removal Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "radiationremovetea": {
+      "itemID": -496584751,
+      "shortname": "radiationremovetea",
+      "displayName": "Rad. Removal Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "radiationremovetea.pure": {
+      "itemID": 1905387657,
+      "shortname": "radiationremovetea.pure",
+      "displayName": "Pure Rad. Removal Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "radiationresisttea.advanced": {
+      "itemID": -1729415579,
+      "shortname": "radiationresisttea.advanced",
+      "displayName": "Adv. Anti-Rad Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "radiationresisttea": {
+      "itemID": -487356515,
+      "shortname": "radiationresisttea",
+      "displayName": "Anti-Rad Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "radiationresisttea.pure": {
+      "itemID": -33009419,
+      "shortname": "radiationresisttea.pure",
+      "displayName": "Pure Anti-Rad Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "scraptea.advanced": {
+      "itemID": 524678627,
+      "shortname": "scraptea.advanced",
+      "displayName": "Advanced Scrap Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "scraptea": {
+      "itemID": 263834859,
+      "shortname": "scraptea",
+      "displayName": "Basic Scrap Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "scraptea.pure": {
+      "itemID": 2024467711,
+      "shortname": "scraptea.pure",
+      "displayName": "Pure Scrap Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "woodtea.advanced": {
+      "itemID": -541206665,
+      "shortname": "woodtea.advanced",
+      "displayName": "Advanced Wood Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "woodtea": {
+      "itemID": -649128577,
+      "shortname": "woodtea",
+      "displayName": "Basic Wood Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "woodtea.pure": {
+      "itemID": -557539629,
+      "shortname": "woodtea.pure",
+      "displayName": "Pure Wood Tea",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "antiradpills": {
       "itemID": -1432674913,
       "shortname": "antiradpills",
@@ -4701,6 +5561,166 @@
       "defaultBlueprint": true,
       "skinable": false
     },
+    "vehicle.chassis.2mod": {
+      "itemID": -44066600,
+      "shortname": "vehicle.chassis.2mod",
+      "displayName": "Small Chassis",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.chassis.3mod": {
+      "itemID": -44066823,
+      "shortname": "vehicle.chassis.3mod",
+      "displayName": "Medium Chassis",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.chassis.4mod": {
+      "itemID": -44066790,
+      "shortname": "vehicle.chassis.4mod",
+      "displayName": "Large Chassis",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.chassis": {
+      "itemID": 1770744540,
+      "shortname": "vehicle.chassis",
+      "displayName": "Generic vehicle chassis",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.1mod.cockpit": {
+      "itemID": -1501451746,
+      "shortname": "vehicle.1mod.cockpit",
+      "displayName": "Cockpit Vehicle Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.1mod.cockpit.armored": {
+      "itemID": 1874610722,
+      "shortname": "vehicle.1mod.cockpit.armored",
+      "displayName": "Armored Cockpit Vehicle Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.1mod.cockpit.with.engine": {
+      "itemID": 170758448,
+      "shortname": "vehicle.1mod.cockpit.with.engine",
+      "displayName": "Cockpit With Engine Vehicle Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.1mod.engine": {
+      "itemID": 1559779253,
+      "shortname": "vehicle.1mod.engine",
+      "displayName": "Engine Vehicle Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.1mod.flatbed": {
+      "itemID": -1880231361,
+      "shortname": "vehicle.1mod.flatbed",
+      "displayName": "Flatbed Vehicle Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.1mod.passengers.armored": {
+      "itemID": -1615281216,
+      "shortname": "vehicle.1mod.passengers.armored",
+      "displayName": "Armored Passenger Vehicle Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.1mod.rear.seats": {
+      "itemID": 1376065505,
+      "shortname": "vehicle.1mod.rear.seats",
+      "displayName": "Rear Seats Vehicle Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.1mod.storage": {
+      "itemID": 268565518,
+      "shortname": "vehicle.1mod.storage",
+      "displayName": "Storage Vehicle Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.2mod.flatbed": {
+      "itemID": -1693832478,
+      "shortname": "vehicle.2mod.flatbed",
+      "displayName": "Large Flatbed Vehicle Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.2mod.fuel.tank": {
+      "itemID": 1186655046,
+      "shortname": "vehicle.2mod.fuel.tank",
+      "displayName": "Fuel Tank Vehicle Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.2mod.passengers": {
+      "itemID": 895374329,
+      "shortname": "vehicle.2mod.passengers",
+      "displayName": "Passenger Vehicle Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "vehicle.module": {
+      "itemID": 878301596,
+      "shortname": "vehicle.module",
+      "displayName": "Generic vehicle module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "weapon.mod.8x.scope": {
       "itemID": 174866732,
       "shortname": "weapon.mod.8x.scope",
@@ -4839,7 +5859,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "knife.bone": {
       "itemID": 1814288539,
@@ -4849,7 +5869,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "bow.hunting": {
       "itemID": 1443579727,
@@ -4859,7 +5879,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "cakefiveyear": {
       "itemID": 1973165031,
@@ -4909,7 +5929,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "shotgun.double": {
       "itemID": -765183617,
@@ -4919,7 +5939,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "pistol.eoka": {
       "itemID": -75944661,
@@ -4929,7 +5949,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "grenade.f1": {
       "itemID": 143803535,
@@ -4939,7 +5959,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "flamethrower": {
       "itemID": -1215753368,
@@ -4999,7 +6019,7 @@
       "categoryName": "Tool",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "hatchet": {
       "itemID": -1252059217,
@@ -5009,7 +6029,7 @@
       "categoryName": "Tool",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "knife.combat": {
       "itemID": 2040726127,
@@ -5019,7 +6039,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "rifle.l96": {
       "itemID": -778367295,
@@ -5039,7 +6059,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "lmg.m249": {
       "itemID": -2069578888,
@@ -5049,7 +6069,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "rifle.m39": {
       "itemID": 28201841,
@@ -5059,7 +6079,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "pistol.m92": {
       "itemID": -852563019,
@@ -5099,7 +6119,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "pistol.nailgun": {
       "itemID": 1953903201,
@@ -5119,7 +6139,7 @@
       "categoryName": "Tool",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "shotgun.waterpipe": {
       "itemID": -1367281941,
@@ -5139,7 +6159,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "pistol.revolver": {
       "itemID": 649912614,
@@ -5159,7 +6179,7 @@
       "categoryName": "Tool",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "rocket.launcher": {
       "itemID": 442886268,
@@ -5169,7 +6189,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "axe.salvaged": {
       "itemID": -262590403,
@@ -5199,7 +6219,7 @@
       "categoryName": "Tool",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "explosive.satchel": {
       "itemID": -1878475007,
@@ -5209,7 +6229,7 @@
       "categoryName": "Tool",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "shotgun.pump": {
       "itemID": 795371088,
@@ -5239,7 +6259,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "smg.2": {
       "itemID": 1796682209,
@@ -5249,7 +6269,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "shotgun.spas12": {
       "itemID": -41440462,
@@ -5269,7 +6289,7 @@
       "categoryName": "Tool",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "stone.pickaxe": {
       "itemID": 171931394,
@@ -5279,7 +6299,7 @@
       "categoryName": "Tool",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": true
+      "skinable": false
     },
     "spear.stone": {
       "itemID": 1602646136,
@@ -5299,7 +6319,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "salvaged.sword": {
       "itemID": 1326180354,
@@ -5309,7 +6329,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "smg.thompson": {
       "itemID": -1758372725,
@@ -5319,7 +6339,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": true
+      "skinable": false
     },
     "toolgun": {
       "itemID": 1803831286,
