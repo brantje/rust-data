@@ -1,5 +1,5 @@
 {
-  "version": 2256,
+  "version": 2260,
   "AllItemsAvailable": {
     "hat.wolf": {
       "itemID": -1478212975,
@@ -1169,7 +1169,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": false
+      "skinable": true
     },
     "hazmatsuit_scientist": {
       "itemID": -253079493,
@@ -1185,6 +1185,16 @@
       "itemID": -1958316066,
       "shortname": "hazmatsuit_scientist_peacekeeper",
       "displayName": "Scientist Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "hazmatsuit.spacesuit": {
+      "itemID": -560304835,
+      "shortname": "hazmatsuit.spacesuit",
+      "displayName": "Space Suit",
       "category": 4,
       "categoryName": "Attire",
       "availableAsBluePrint": false,
@@ -1737,6 +1747,16 @@
       "displayName": "Drop Box",
       "category": 2,
       "categoryName": "Items",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "elevator": {
+      "itemID": 1177596584,
+      "shortname": "elevator",
+      "displayName": "Elevator",
+      "category": 16,
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
@@ -2569,6 +2589,16 @@
       "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
+      "skinable": false
+    },
+    "secretlabchair": {
+      "itemID": 567871954,
+      "shortname": "secretlabchair",
+      "displayName": "Secret Lab Chair",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
       "skinable": false
     },
     "shelves": {
