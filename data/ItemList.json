@@ -1,5 +1,5 @@
 {
-  "version": 2252,
+  "version": 2256,
   "AllItemsAvailable": {
     "hat.wolf": {
       "itemID": -1478212975,
@@ -28,6 +28,16 @@
       "category": 10,
       "categoryName": "Misc",
       "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "kayak": {
+      "itemID": 190184021,
+      "shortname": "kayak",
+      "displayName": "Kayak",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
     },
@@ -2101,6 +2111,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "storage.monitor": {
+      "itemID": 1149964039,
+      "shortname": "storage.monitor",
+      "displayName": "Storage Monitor",
+      "category": 16,
+      "categoryName": "Electrical",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "electric.battery.rechargable.large": {
       "itemID": 553270375,
       "shortname": "electric.battery.rechargable.large",
@@ -2495,8 +2515,8 @@
       "itemID": -1736356576,
       "shortname": "target.reactive",
       "displayName": "Reactive Target",
-      "category": 2,
-      "categoryName": "Items",
+      "category": 16,
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
@@ -2545,8 +2565,8 @@
       "itemID": 2087678962,
       "shortname": "searchlight",
       "displayName": "Search Light",
-      "category": 2,
-      "categoryName": "Items",
+      "category": 16,
+      "categoryName": "Electrical",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
@@ -6129,6 +6149,16 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
+      "skinable": false
+    },
+    "paddle": {
+      "itemID": 1491189398,
+      "shortname": "paddle",
+      "displayName": "Paddle",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
       "skinable": false
     },
     "pickaxe": {
