@@ -37,12 +37,12 @@
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_easy.prefab",
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_medium_medium.prefab",
       "displayName": "",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_medium.prefab",
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_hard.prefab",
       "displayName": "",
       "tier": -1
     },
@@ -57,32 +57,7 @@
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_hard.prefab",
-      "displayName": "",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_medium_medium.prefab",
-      "displayName": "",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_medium_medium.prefab",
-      "displayName": "",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_hard.prefab",
-      "displayName": "",
-      "tier": -1
-    },
-    {
       "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_large_sewers_hard.prefab",
-      "displayName": "",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_large_medium.prefab",
       "displayName": "",
       "tier": -1
     },
@@ -92,32 +67,12 @@
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
+      "name": "assets/bundled/prefabs/autospawn/monument/cave/cave_small_hard.prefab",
       "displayName": "",
       "tier": -1
     },
     {
       "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
-      "displayName": "",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
-      "displayName": "",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
-      "displayName": "",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
-      "displayName": "",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
       "displayName": "",
       "tier": -1
     },
@@ -157,12 +112,7 @@
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
-      "displayName": "",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
       "displayName": "",
       "tier": -1
     },
@@ -187,72 +137,62 @@
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
       "displayName": "",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
       "displayName": "",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
       "displayName": "",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
       "displayName": "",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
       "displayName": "",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
       "displayName": "",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
       "displayName": "",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
       "displayName": "",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
       "displayName": "",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
       "displayName": "",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_2.prefab",
       "displayName": "",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
-      "displayName": "",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
-      "displayName": "",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/big/power_sub_big_1.prefab",
       "displayName": "",
       "tier": -1
     },
@@ -272,12 +212,12 @@
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
       "displayName": "",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
       "displayName": "",
       "tier": -1
     },
@@ -302,6 +242,21 @@
       "tier": -1
     },
     {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "displayName": "",
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_2.prefab",
+      "displayName": "",
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
+      "displayName": "",
+      "tier": -1
+    },
+    {
       "name": "assets/bundled/prefabs/autospawn/power substations/small/power_sub_small_1.prefab",
       "displayName": "",
       "tier": -1
@@ -322,8 +277,48 @@
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/monument/swamp/swamp_c.prefab",
-      "displayName": "Abandoned Cabins",
+      "name": "assets/bundled/prefabs/autospawn/monument/roadside/supermarket_1.prefab",
+      "displayName": "Abandoned Supermarket",
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab",
+      "displayName": "Mining Outpost",
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/roadside/gas_station_1.prefab",
+      "displayName": "Oxum's Gas Station",
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/roadside/supermarket_1.prefab",
+      "displayName": "Abandoned Supermarket",
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab",
+      "displayName": "Mining Outpost",
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/roadside/supermarket_1.prefab",
+      "displayName": "Abandoned Supermarket",
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/roadside/gas_station_1.prefab",
+      "displayName": "Oxum's Gas Station",
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/roadside/warehouse.prefab",
+      "displayName": "Mining Outpost",
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/roadside/gas_station_1.prefab",
+      "displayName": "Oxum's Gas Station",
       "tier": -1
     },
     {
@@ -332,31 +327,36 @@
       "tier": -1
     },
     {
+      "name": "assets/bundled/prefabs/autospawn/monument/swamp/swamp_c.prefab",
+      "displayName": "Abandoned Cabins",
+      "tier": 1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/swamp/swamp_a.prefab",
+      "displayName": "Wild Swamp",
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_c.prefab",
+      "displayName": "Water Well",
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_b.prefab",
+      "displayName": "Water Well",
+      "tier": -1
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_b.prefab",
+      "displayName": "Water Well",
+      "tier": -1
+    },
+    {
       "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_d.prefab",
       "displayName": "Water Well",
       "tier": -1
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_b.prefab",
-      "displayName": "Water Well",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_b.prefab",
-      "displayName": "Water Well",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_b.prefab",
-      "displayName": "Water Well",
-      "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_e.prefab",
-      "displayName": "Water Well",
-      "tier": -1
-    },
-    {
       "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_a.prefab",
       "displayName": "Water Well",
       "tier": -1
@@ -365,41 +365,6 @@
       "name": "assets/bundled/prefabs/autospawn/monument/tiny/water_well_a.prefab",
       "displayName": "Water Well",
       "tier": -1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/small/mining_quarry_a.prefab",
-      "displayName": "Sulfur Quarry",
-      "tier": 4
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/small/warehouse.prefab",
-      "displayName": "Mining Outpost",
-      "tier": 1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/small/supermarket_1.prefab",
-      "displayName": "Abandoned Supermarket",
-      "tier": 1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/small/warehouse.prefab",
-      "displayName": "Mining Outpost",
-      "tier": 1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/small/gas_station_1.prefab",
-      "displayName": "Oxum's Gas Station",
-      "tier": 1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/small/warehouse.prefab",
-      "displayName": "Mining Outpost",
-      "tier": 1
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/small/sphere_tank.prefab",
-      "displayName": "The Dome",
-      "tier": 2
     },
     {
       "name": "assets/bundled/prefabs/autospawn/monument/small/satellite_dish.prefab",
@@ -407,19 +372,19 @@
       "tier": 2
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/monument/small/supermarket_1.prefab",
-      "displayName": "Abandoned Supermarket",
-      "tier": 1
+      "name": "assets/bundled/prefabs/autospawn/monument/small/sphere_tank.prefab",
+      "displayName": "The Dome",
+      "tier": 2
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/small/mining_quarry_a.prefab",
+      "displayName": "Sulfur Quarry",
+      "tier": 4
     },
     {
       "name": "assets/bundled/prefabs/autospawn/monument/small/mining_quarry_b.prefab",
       "displayName": "Stone Quarry",
       "tier": 4
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/small/gas_station_1.prefab",
-      "displayName": "Oxum's Gas Station",
-      "tier": 1
     },
     {
       "name": "assets/bundled/prefabs/autospawn/monument/small/mining_quarry_c.prefab",
@@ -432,9 +397,14 @@
       "tier": 2
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/monument/medium/bandit_town.prefab",
-      "displayName": "Bandit Camp\n",
-      "tier": 2
+      "name": "assets/bundled/prefabs/autospawn/monument/medium/stables_b.prefab",
+      "displayName": "Large Barn",
+      "tier": 3
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/medium/stables_a.prefab",
+      "displayName": "Ranch",
+      "tier": 3
     },
     {
       "name": "assets/bundled/prefabs/autospawn/monument/medium/compound.prefab",
@@ -442,14 +412,29 @@
       "tier": 2
     },
     {
+      "name": "assets/bundled/prefabs/autospawn/monument/medium/bandit_town.prefab",
+      "displayName": "Bandit Camp\n",
+      "tier": 2
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/large/powerplant_1.prefab",
+      "displayName": "Power Plant",
+      "tier": 4
+    },
+    {
       "name": "assets/bundled/prefabs/autospawn/monument/large/airfield_1.prefab",
       "displayName": "Airfield",
       "tier": 2
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/monument/large/trainyard_1.prefab",
-      "displayName": "Train Yard",
+      "name": "assets/bundled/prefabs/autospawn/monument/large/water_treatment_plant_1.prefab",
+      "displayName": "Water Treatment Plant",
       "tier": 2
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/large/junkyard_1.prefab",
+      "displayName": "Junkyard",
+      "tier": 3
     },
     {
       "name": "assets/bundled/prefabs/autospawn/monument/large/military_tunnel_1.prefab",
@@ -457,13 +442,8 @@
       "tier": 4
     },
     {
-      "name": "assets/bundled/prefabs/autospawn/monument/large/junkyard_1.prefab",
-      "displayName": "Junkyard",
-      "tier": 2
-    },
-    {
-      "name": "assets/bundled/prefabs/autospawn/monument/large/water_treatment_plant_1.prefab",
-      "displayName": "Water Treatment Plant",
+      "name": "assets/bundled/prefabs/autospawn/monument/large/trainyard_1.prefab",
+      "displayName": "Train Yard",
       "tier": 2
     },
     {
@@ -477,9 +457,24 @@
       "tier": -1
     },
     {
+      "name": "assets/bundled/prefabs/autospawn/monument/harbor/fishing_village_b.prefab",
+      "displayName": "Fishing Village",
+      "tier": 3
+    },
+    {
       "name": "assets/bundled/prefabs/autospawn/monument/harbor/harbor_1.prefab",
       "displayName": "Harbor",
       "tier": 3
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/harbor/fishing_village_c.prefab",
+      "displayName": "Fishing Village",
+      "tier": 3
+    },
+    {
+      "name": "assets/bundled/prefabs/autospawn/monument/harbor/fishing_village_a.prefab",
+      "displayName": "Large Fishing Village",
+      "tier": -1
     },
     {
       "name": "assets/bundled/prefabs/autospawn/monument/harbor/harbor_2.prefab",
