@@ -1,5 +1,5 @@
 {
-  "version": 2261,
+  "version": 2267,
   "AllItemsAvailable": {
     "hat.wolf": {
       "itemID": -1478212975,
@@ -1307,7 +1307,7 @@
       "displayName": "High Quality Carburetor",
       "category": 13,
       "categoryName": "Component",
-      "availableAsBluePrint": false,
+      "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
     },
@@ -1337,7 +1337,7 @@
       "displayName": "High Quality Crankshaft",
       "category": 13,
       "categoryName": "Component",
-      "availableAsBluePrint": false,
+      "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
     },
@@ -1367,7 +1367,7 @@
       "displayName": "High Quality Pistons",
       "category": 13,
       "categoryName": "Component",
-      "availableAsBluePrint": false,
+      "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
     },
@@ -1397,7 +1397,7 @@
       "displayName": "High Quality Spark Plugs",
       "category": 13,
       "categoryName": "Component",
-      "availableAsBluePrint": false,
+      "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
     },
@@ -1427,7 +1427,7 @@
       "displayName": "High Quality Valves",
       "category": 13,
       "categoryName": "Component",
-      "availableAsBluePrint": false,
+      "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
     },
@@ -4001,6 +4001,26 @@
       "defaultBlueprint": false,
       "skinable": true
     },
+    "movembermoustachecard": {
+      "itemID": 3380160,
+      "shortname": "movembermoustachecard",
+      "displayName": "Card Movember Moustache",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "movembermoustache": {
+      "itemID": -2047081330,
+      "shortname": "movembermoustache",
+      "displayName": "Movember Moustache",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "note": {
       "itemID": 1414245162,
       "shortname": "note",
@@ -5811,6 +5831,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "vehicle.1mod.taxi": {
+      "itemID": -626174997,
+      "shortname": "vehicle.1mod.taxi",
+      "displayName": "Taxi Vehicle Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "vehicle.2mod.flatbed": {
       "itemID": -1693832478,
       "shortname": "vehicle.2mod.flatbed",
@@ -5847,6 +5877,16 @@
       "displayName": "Generic vehicle module",
       "category": 13,
       "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "telephone": {
+      "itemID": 1234878710,
+      "shortname": "telephone",
+      "displayName": "Telephone",
+      "category": 17,
+      "categoryName": "",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
@@ -6539,6 +6579,16 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
+      "skinable": false
+    },
+    "horse.saddle": {
+      "itemID": -1997543660,
+      "shortname": "horse.saddle",
+      "displayName": "Horse Saddle",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
       "skinable": false
     },
     "horse.saddlebag": {
