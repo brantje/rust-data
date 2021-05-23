@@ -1,5 +1,5 @@
 {
-  "version": 2274,
+  "version": 2301,
   "AllItemsAvailable": {
     "hat.wolf": {
       "itemID": -1478212975,
@@ -55,6 +55,16 @@
       "itemID": -1884328185,
       "shortname": "scraptransportheli.repair",
       "displayName": "ScrapTransportHeliRepair",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "workcart": {
+      "itemID": -810326667,
+      "shortname": "workcart",
+      "displayName": "Work Cart",
       "category": 10,
       "categoryName": "Misc",
       "availableAsBluePrint": false,
@@ -329,7 +339,7 @@
       "categoryName": "Construction",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": false
+      "skinable": true
     },
     "door.hinged.toptier": {
       "itemID": 1353298668,
@@ -508,7 +518,7 @@
       "category": 1,
       "categoryName": "Construction",
       "availableAsBluePrint": false,
-      "defaultBlueprint": false,
+      "defaultBlueprint": true,
       "skinable": false
     },
     "wall.frame.shopfront.metal": {
@@ -665,6 +675,16 @@
       "itemID": 1189981699,
       "shortname": "cratecostume",
       "displayName": "Crate Costume",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "hat.gas.mask": {
+      "itemID": 1659114910,
+      "shortname": "hat.gas.mask",
+      "displayName": "Gas Mask",
       "category": 4,
       "categoryName": "Attire",
       "availableAsBluePrint": false,
@@ -1001,6 +1021,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "attire.ninja.suit": {
+      "itemID": -1506417026,
+      "shortname": "attire.ninja.suit",
+      "displayName": "Ninja Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "burlap.trousers": {
       "itemID": 1992974553,
       "shortname": "burlap.trousers",
@@ -1215,6 +1245,16 @@
       "itemID": -1772746857,
       "shortname": "scientistsuit_heavy",
       "displayName": "Heavy Scientist Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "jumpsuit.suit": {
+      "itemID": -97459906,
+      "shortname": "jumpsuit.suit",
+      "displayName": "Jumpsuit",
       "category": 4,
       "categoryName": "Attire",
       "availableAsBluePrint": false,
@@ -1711,6 +1751,16 @@
       "defaultBlueprint": true,
       "skinable": false
     },
+    "cardtable": {
+      "itemID": 1081921512,
+      "shortname": "cardtable",
+      "displayName": "Card Table",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "ceilinglight": {
       "itemID": 1142993169,
       "shortname": "ceilinglight",
@@ -1748,6 +1798,16 @@
       "category": 16,
       "categoryName": "Electrical",
       "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "drone": {
+      "itemID": 1588492232,
+      "shortname": "drone",
+      "displayName": "Drone",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
     },
@@ -2154,7 +2214,7 @@
     "electric.battery.rechargable.large": {
       "itemID": 553270375,
       "shortname": "electric.battery.rechargable.large",
-      "displayName": "Large Rechargable Battery",
+      "displayName": "Large Rechargeable Battery",
       "category": 16,
       "categoryName": "Electrical",
       "availableAsBluePrint": true,
@@ -2164,7 +2224,7 @@
     "electric.battery.rechargable.medium": {
       "itemID": 2023888403,
       "shortname": "electric.battery.rechargable.medium",
-      "displayName": "Medium Rechargable Battery",
+      "displayName": "Medium Rechargeable Battery",
       "category": 16,
       "categoryName": "Electrical",
       "availableAsBluePrint": true,
@@ -2174,7 +2234,7 @@
     "electric.battery.rechargable.small": {
       "itemID": -692338819,
       "shortname": "electric.battery.rechargable.small",
-      "displayName": "Small Rechargable Battery",
+      "displayName": "Small Rechargeable Battery",
       "category": 16,
       "categoryName": "Electrical",
       "availableAsBluePrint": true,
@@ -2819,6 +2879,16 @@
       "categoryName": "Items",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
+      "skinable": false
+    },
+    "sofa": {
+      "itemID": -555122905,
+      "shortname": "sofa",
+      "displayName": "Sofa",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
       "skinable": false
     },
     "spinner.wheel": {
@@ -3581,6 +3651,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "hat.oxmask": {
+      "itemID": 1315082560,
+      "shortname": "hat.oxmask",
+      "displayName": "Ox Mask",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "hat.ratmask": {
       "itemID": 271048478,
       "shortname": "hat.ratmask",
@@ -3641,6 +3721,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "hat.bunnyhat": {
+      "itemID": 23391694,
+      "shortname": "hat.bunnyhat",
+      "displayName": "Bunny Hat",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "easterdoorwreath": {
       "itemID": -979302481,
       "shortname": "easterdoorwreath",
@@ -3695,6 +3785,16 @@
       "itemID": -173268126,
       "shortname": "rustige_egg_d",
       "displayName": "Rustigé Egg - Ivory",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "rustige_egg_e": {
+      "itemID": -173268125,
+      "shortname": "rustige_egg_e",
+      "displayName": "Rustigé Egg - Green",
       "category": 10,
       "categoryName": "Misc",
       "availableAsBluePrint": false,
@@ -4301,6 +4401,26 @@
       "defaultBlueprint": true,
       "skinable": true
     },
+    "hobobarrel": {
+      "itemID": -1442559428,
+      "shortname": "hobobarrel",
+      "displayName": "Hobo Barrel",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "door.hinged.industrial.a": {
+      "itemID": 818733919,
+      "shortname": "door.hinged.industrial.a",
+      "displayName": "Industrial Door",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "candycaneclub": {
       "itemID": 1789825282,
       "shortname": "candycaneclub",
@@ -4358,7 +4478,7 @@
       "category": 1,
       "categoryName": "Construction",
       "availableAsBluePrint": false,
-      "defaultBlueprint": true,
+      "defaultBlueprint": false,
       "skinable": false
     },
     "wall.external.high.ice": {
@@ -4368,7 +4488,7 @@
       "category": 1,
       "categoryName": "Construction",
       "availableAsBluePrint": false,
-      "defaultBlueprint": true,
+      "defaultBlueprint": false,
       "skinable": false
     },
     "giantlollipops": {
@@ -4728,7 +4848,7 @@
       "category": 2,
       "categoryName": "Items",
       "availableAsBluePrint": false,
-      "defaultBlueprint": true,
+      "defaultBlueprint": false,
       "skinable": false
     },
     "autoturret": {
