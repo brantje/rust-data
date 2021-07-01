@@ -1,5 +1,5 @@
 {
-  "version": 2301,
+  "version": 2303,
   "AllItemsAvailable": {
     "hat.wolf": {
       "itemID": -1478212975,
@@ -1846,7 +1846,7 @@
       "shortname": "firework.boomer.blue",
       "displayName": "Blue Boomer",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -1856,7 +1856,7 @@
       "shortname": "firework.boomer.champagne",
       "displayName": "Champagne Boomer",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -1866,7 +1866,7 @@
       "shortname": "firework.boomer.green",
       "displayName": "Green Boomer",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -1876,7 +1876,7 @@
       "shortname": "firework.boomer.orange",
       "displayName": "Orange Boomer",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -1886,7 +1886,7 @@
       "shortname": "firework.boomer.red",
       "displayName": "Red Boomer",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -1896,7 +1896,7 @@
       "shortname": "firework.boomer.violet",
       "displayName": "Violet Boomer",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -1906,7 +1906,7 @@
       "shortname": "firework.romancandle.blue",
       "displayName": "Blue Roman Candle",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -1916,7 +1916,7 @@
       "shortname": "firework.romancandle.green",
       "displayName": "Green Roman Candle",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -1926,7 +1926,7 @@
       "shortname": "firework.romancandle.red",
       "displayName": "Red Roman Candle",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -1936,7 +1936,7 @@
       "shortname": "firework.romancandle.violet",
       "displayName": "Violet Roman Candle",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -1946,7 +1946,7 @@
       "shortname": "firework.volcano",
       "displayName": "White Volcano Firework",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -1956,7 +1956,7 @@
       "shortname": "firework.volcano.red",
       "displayName": "Red Volcano Firework",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -1966,7 +1966,7 @@
       "shortname": "firework.volcano.violet",
       "displayName": "Violet Volcano Firework",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -3456,7 +3456,7 @@
       "shortname": "fun.bass",
       "displayName": "Shovel Bass",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": false
@@ -3466,7 +3466,7 @@
       "shortname": "fun.cowbell",
       "displayName": "Cowbell",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": false
@@ -3476,7 +3476,7 @@
       "shortname": "drumkit",
       "displayName": "Junkyard Drum Kit",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": false
@@ -3486,7 +3486,7 @@
       "shortname": "fun.flute",
       "displayName": "Pan Flute",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": false
@@ -3496,7 +3496,7 @@
       "shortname": "fun.guitar",
       "displayName": "Acoustic Guitar",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
@@ -3506,7 +3506,7 @@
       "shortname": "fun.jerrycanguitar",
       "displayName": "Jerry Can Guitar",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": false
@@ -3516,7 +3516,7 @@
       "shortname": "piano",
       "displayName": "Wheelbarrow Piano",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": false
@@ -3526,7 +3526,7 @@
       "shortname": "fun.tambourine",
       "displayName": "Canbourine",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": false
@@ -3536,7 +3536,7 @@
       "shortname": "fun.trumpet",
       "displayName": "Plumber's Trumpet",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": false
@@ -3546,7 +3546,7 @@
       "shortname": "fun.tuba",
       "displayName": "Sousaphone",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": false
@@ -3556,7 +3556,7 @@
       "shortname": "xylophone",
       "displayName": "Xylobone",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": false
@@ -3646,7 +3646,7 @@
       "shortname": "newyeargong",
       "displayName": "New Year Gong",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -3676,7 +3676,7 @@
       "shortname": "lunar.firecrackers",
       "displayName": "Firecracker String",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -3986,7 +3986,7 @@
       "shortname": "skullspikes.candles",
       "displayName": "Skull Spikes",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -3996,7 +3996,7 @@
       "shortname": "skullspikes.pumpkin",
       "displayName": "Skull Spikes",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -4006,7 +4006,7 @@
       "shortname": "skullspikes",
       "displayName": "Skull Spikes",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": true
@@ -4066,7 +4066,7 @@
       "shortname": "skull.trophy.jar",
       "displayName": "Skull Trophy",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -4076,7 +4076,7 @@
       "shortname": "skull.trophy.jar2",
       "displayName": "Skull Trophy",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -4086,7 +4086,7 @@
       "shortname": "skull.trophy.table",
       "displayName": "Skull Trophy",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -4096,7 +4096,7 @@
       "shortname": "skull.trophy",
       "displayName": "Skull Trophy",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": true
@@ -4146,7 +4146,7 @@
       "shortname": "abovegroundpool",
       "displayName": "Above Ground Pool",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": false
@@ -4156,7 +4156,7 @@
       "shortname": "beachchair",
       "displayName": "Beach Chair",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": true
@@ -4166,7 +4166,7 @@
       "shortname": "beachparasol",
       "displayName": "Beach Parasol",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": true
@@ -4176,7 +4176,7 @@
       "shortname": "beachtable",
       "displayName": "Beach Table",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -4186,7 +4186,7 @@
       "shortname": "beachtowel",
       "displayName": "Beach Towel",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": true
@@ -4196,7 +4196,7 @@
       "shortname": "boogieboard",
       "displayName": "Boogie Board",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": true
@@ -4206,7 +4206,7 @@
       "shortname": "innertube",
       "displayName": "Inner Tube",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": true
@@ -4216,7 +4216,7 @@
       "shortname": "innertube.horse",
       "displayName": "Inner Tube",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -4226,7 +4226,7 @@
       "shortname": "innertube.unicorn",
       "displayName": "Inner Tube",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -4246,7 +4246,7 @@
       "shortname": "paddlingpool",
       "displayName": "Paddling Pool",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": true
@@ -4616,7 +4616,7 @@
       "shortname": "sled.xmas",
       "displayName": "Sled",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -4626,7 +4626,7 @@
       "shortname": "sled",
       "displayName": "Sled",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": true
@@ -4746,7 +4746,7 @@
       "shortname": "wrappedgift",
       "displayName": "Wrapped Gift",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -4756,7 +4756,7 @@
       "shortname": "wrappingpaper",
       "displayName": "Wrapping Paper",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -6136,7 +6136,7 @@
       "shortname": "telephone",
       "displayName": "Telephone",
       "category": 17,
-      "categoryName": "",
+      "categoryName": "Fun",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
