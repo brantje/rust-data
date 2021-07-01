@@ -1,5 +1,5 @@
 {
-  "version": 2303,
+  "version": 2306,
   "AllItemsAvailable": {
     "hat.wolf": {
       "itemID": -1478212975,
@@ -6129,6 +6129,156 @@
       "categoryName": "Component",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
+      "skinable": false
+    },
+    "boombox": {
+      "itemID": -1113501606,
+      "shortname": "boombox",
+      "displayName": "Boom Box",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "fun.boomboxportable": {
+      "itemID": 576509618,
+      "shortname": "fun.boomboxportable",
+      "displayName": "Portable Boom Box",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "cassette": {
+      "itemID": 476066818,
+      "shortname": "cassette",
+      "displayName": "Cassette - Long",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "cassette.medium": {
+      "itemID": -912398867,
+      "shortname": "cassette.medium",
+      "displayName": "Cassette - Medium",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "cassette.short": {
+      "itemID": 1523403414,
+      "shortname": "cassette.short",
+      "displayName": "Cassette - Short",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "fun.casetterecorder": {
+      "itemID": -1530414568,
+      "shortname": "fun.casetterecorder",
+      "displayName": "Cassette Recorder",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "discoball": {
+      "itemID": 1895235349,
+      "shortname": "discoball",
+      "displayName": "Disco Ball",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "discofloor": {
+      "itemID": 286648290,
+      "shortname": "discofloor",
+      "displayName": "Disco Floor",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": true
+    },
+    "discofloor.largetiles": {
+      "itemID": 1735402444,
+      "shortname": "discofloor.largetiles",
+      "displayName": "Disco Floor",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "connected.speaker": {
+      "itemID": 968421290,
+      "shortname": "connected.speaker",
+      "displayName": "Connected Speaker",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "laserlight": {
+      "itemID": 853471967,
+      "shortname": "laserlight",
+      "displayName": "Laser Light",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "megaphone": {
+      "itemID": -583379016,
+      "shortname": "megaphone",
+      "displayName": "Megaphone",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "microphonestand": {
+      "itemID": 39600618,
+      "shortname": "microphonestand",
+      "displayName": "Microphone Stand",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "mobilephone": {
+      "itemID": -20045316,
+      "shortname": "mobilephone",
+      "displayName": "Mobile Phone",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "soundlight": {
+      "itemID": -343857907,
+      "shortname": "soundlight",
+      "displayName": "Sound Light",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
       "skinable": false
     },
     "telephone": {
