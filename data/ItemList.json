@@ -1,5 +1,5 @@
 {
-  "version": 2306,
+  "version": 2311,
   "AllItemsAvailable": {
     "hat.wolf": {
       "itemID": -1478212975,
@@ -55,6 +55,26 @@
       "itemID": -1884328185,
       "shortname": "scraptransportheli.repair",
       "displayName": "ScrapTransportHeliRepair",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "submarineduo": {
+      "itemID": 1015352446,
+      "shortname": "submarineduo",
+      "displayName": "Duo Submarine",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "submarinesolo": {
+      "itemID": -187031121,
+      "shortname": "submarinesolo",
+      "displayName": "Solo Submarine",
       "category": 10,
       "categoryName": "Misc",
       "availableAsBluePrint": false,
@@ -295,6 +315,36 @@
       "itemID": -727717969,
       "shortname": "ammo.shotgun.slug",
       "displayName": "12 Gauge Slug",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "speargun.spear": {
+      "itemID": -1800345240,
+      "shortname": "speargun.spear",
+      "displayName": "Speargun Spear",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "submarine.torpedo.rising": {
+      "itemID": -239306133,
+      "shortname": "submarine.torpedo.rising",
+      "displayName": "Surface torpedo",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "submarine.torpedo.straight": {
+      "itemID": -1671551935,
+      "shortname": "submarine.torpedo.straight",
+      "displayName": "Direct Torpedo",
       "category": 8,
       "categoryName": "Ammunition",
       "availableAsBluePrint": true,
@@ -1245,6 +1295,16 @@
       "itemID": -1772746857,
       "shortname": "scientistsuit_heavy",
       "displayName": "Heavy Scientist Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "jumpsuit.suit.blue": {
+      "itemID": 1601468620,
+      "shortname": "jumpsuit.suit.blue",
+      "displayName": "Blue Jumpsuit",
       "category": 4,
       "categoryName": "Attire",
       "availableAsBluePrint": false,
@@ -3081,6 +3141,26 @@
       "defaultBlueprint": true,
       "skinable": false
     },
+    "grub": {
+      "itemID": -568419968,
+      "shortname": "grub",
+      "displayName": "Grub",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "worm": {
+      "itemID": 1770475779,
+      "shortname": "worm",
+      "displayName": "Worm",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "cactusflesh": {
       "itemID": 1783512007,
       "shortname": "cactusflesh",
@@ -3121,6 +3201,26 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "fish.anchovy": {
+      "itemID": 342438846,
+      "shortname": "fish.anchovy",
+      "displayName": "Anchovy",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "fish.catfish": {
+      "itemID": -587989372,
+      "shortname": "fish.catfish",
+      "displayName": "Catfish",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "fish.cooked": {
       "itemID": 1668129151,
       "shortname": "fish.cooked",
@@ -3141,6 +3241,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "fish.herring": {
+      "itemID": -1698937385,
+      "shortname": "fish.herring",
+      "displayName": "Herring",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "fish.minnows": {
       "itemID": -542577259,
       "shortname": "fish.minnows",
@@ -3151,10 +3261,60 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "fish.orangeroughy": {
+      "itemID": -1904821376,
+      "shortname": "fish.orangeroughy",
+      "displayName": "Orange Roughy",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "fish.salmon": {
+      "itemID": -851988960,
+      "shortname": "fish.salmon",
+      "displayName": "Salmon",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "fish.sardine": {
+      "itemID": -1654233406,
+      "shortname": "fish.sardine",
+      "displayName": "Sardine",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "fish.smallshark": {
+      "itemID": -1768880890,
+      "shortname": "fish.smallshark",
+      "displayName": "Small Shark",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "fish.troutsmall": {
       "itemID": -1878764039,
       "shortname": "fish.troutsmall",
       "displayName": "Small Trout",
+      "category": 7,
+      "categoryName": "Food",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "fish.yellowperch": {
+      "itemID": 680234026,
+      "shortname": "fish.yellowperch",
+      "displayName": "Yellow Perch",
       "category": 7,
       "categoryName": "Food",
       "availableAsBluePrint": false,
@@ -5785,10 +5945,10 @@
       "itemID": 1569882109,
       "shortname": "fishingrod.handmade",
       "displayName": "Handmade Fishing Rod",
-      "category": 0,
-      "categoryName": "Weapon",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false,
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": true,
       "skinable": false
     },
     "flare": {
@@ -6858,6 +7018,16 @@
       "category": 0,
       "categoryName": "Weapon",
       "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "speargun": {
+      "itemID": -1517740219,
+      "shortname": "speargun",
+      "displayName": "Speargun",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
     },
