@@ -1,5 +1,5 @@
 {
-  "version": 2311,
+  "version": 2320,
   "AllItemsAvailable": {
     "hat.wolf": {
       "itemID": -1478212975,
@@ -331,20 +331,10 @@
       "defaultBlueprint": false,
       "skinable": false
     },
-    "submarine.torpedo.rising": {
-      "itemID": -239306133,
-      "shortname": "submarine.torpedo.rising",
-      "displayName": "Surface torpedo",
-      "category": 8,
-      "categoryName": "Ammunition",
-      "availableAsBluePrint": true,
-      "defaultBlueprint": false,
-      "skinable": false
-    },
     "submarine.torpedo.straight": {
       "itemID": -1671551935,
       "shortname": "submarine.torpedo.straight",
-      "displayName": "Direct Torpedo",
+      "displayName": "Torpedo",
       "category": 8,
       "categoryName": "Ammunition",
       "availableAsBluePrint": true,
@@ -1029,6 +1019,16 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
+      "skinable": false
+    },
+    "lumberjack hoodie": {
+      "itemID": -763071910,
+      "shortname": "lumberjack hoodie",
+      "displayName": "Lumberjack Hoodie",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
       "skinable": false
     },
     "mask.balaclava": {
@@ -2041,6 +2041,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "frankensteintable": {
+      "itemID": 1575635062,
+      "shortname": "frankensteintable",
+      "displayName": "Frankenstein Table",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
     "fridge": {
       "itemID": 1413014235,
       "shortname": "fridge",
@@ -2984,7 +2994,7 @@
     "workbench1": {
       "itemID": 1524187186,
       "shortname": "workbench1",
-      "displayName": "Work Bench Level 1",
+      "displayName": "Workbench Level 1",
       "category": 2,
       "categoryName": "Items",
       "availableAsBluePrint": false,
@@ -2994,7 +3004,7 @@
     "workbench2": {
       "itemID": -41896755,
       "shortname": "workbench2",
-      "displayName": "Work Bench Level 2",
+      "displayName": "Workbench Level 2",
       "category": 2,
       "categoryName": "Items",
       "availableAsBluePrint": false,
@@ -3004,7 +3014,7 @@
     "workbench3": {
       "itemID": -1607980696,
       "shortname": "workbench3",
-      "displayName": "Work Bench Level 3",
+      "displayName": "Workbench Level 3",
       "category": 2,
       "categoryName": "Items",
       "availableAsBluePrint": false,
@@ -4041,6 +4051,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "carvable.pumpkin": {
+      "itemID": 1524980732,
+      "shortname": "carvable.pumpkin",
+      "displayName": "Carvable Pumpkin",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "coffin.storage": {
       "itemID": 573676040,
       "shortname": "coffin.storage",
@@ -4077,6 +4097,96 @@
       "displayName": "Wooden Cross",
       "category": 10,
       "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "frankensteins.monster.01.head": {
+      "itemID": -134959124,
+      "shortname": "frankensteins.monster.01.head",
+      "displayName": "Light Frankenstein Head",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "frankensteins.monster.01.legs": {
+      "itemID": 106959911,
+      "shortname": "frankensteins.monster.01.legs",
+      "displayName": "Light Frankenstein Legs",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "frankensteins.monster.01.torso": {
+      "itemID": -1624770297,
+      "shortname": "frankensteins.monster.01.torso",
+      "displayName": "Light Frankenstein Torso",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "frankensteins.monster.02.head": {
+      "itemID": -1732475823,
+      "shortname": "frankensteins.monster.02.head",
+      "displayName": "Medium Frankenstein Head",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "frankensteins.monster.02.legs": {
+      "itemID": 835042040,
+      "shortname": "frankensteins.monster.02.legs",
+      "displayName": "Medium Frankenstein Legs",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "frankensteins.monster.02.torso": {
+      "itemID": 1491753484,
+      "shortname": "frankensteins.monster.02.torso",
+      "displayName": "Medium Frankenstein Torso",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "frankensteins.monster.03.head": {
+      "itemID": -297099594,
+      "shortname": "frankensteins.monster.03.head",
+      "displayName": "Heavy Frankenstein Head",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "frankensteins.monster.03.legs": {
+      "itemID": -2024549027,
+      "shortname": "frankensteins.monster.03.legs",
+      "displayName": "Heavy Frankenstein Legs",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "frankensteins.monster.03.torso": {
+      "itemID": 1614528785,
+      "shortname": "frankensteins.monster.03.torso",
+      "displayName": "Heavy Frankenstein Torso",
+      "category": 4,
+      "categoryName": "Attire",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -5007,6 +5117,36 @@
       "displayName": "Christmas Tree",
       "category": 2,
       "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "captainslog": {
+      "itemID": 1230691307,
+      "shortname": "captainslog",
+      "displayName": "Captain's Log",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "fishing.tackle": {
+      "itemID": -1707425764,
+      "shortname": "fishing.tackle",
+      "displayName": "Fishing Tackle",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "bottle.vodka": {
+      "itemID": 755224797,
+      "shortname": "bottle.vodka",
+      "displayName": "Vodka Bottle",
+      "category": 7,
+      "categoryName": "Food",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -6251,6 +6391,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "vehicle.2mod.camper": {
+      "itemID": -1040518150,
+      "shortname": "vehicle.2mod.camper",
+      "displayName": "Camper Vehicle Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "vehicle.2mod.flatbed": {
       "itemID": -1693832478,
       "shortname": "vehicle.2mod.flatbed",
@@ -6741,6 +6891,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "skull": {
+      "itemID": 1312843609,
+      "shortname": "skull",
+      "displayName": "Skull",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "hammer": {
       "itemID": 200773292,
       "shortname": "hammer",
@@ -6919,7 +7079,7 @@
       "categoryName": "Tool",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": false
+      "skinable": true
     },
     "rocket.launcher": {
       "itemID": 442886268,
