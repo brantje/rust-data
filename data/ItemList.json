@@ -1,5 +1,5 @@
 {
-  "version": 2320,
+  "version": 2360,
   "AllItemsAvailable": {
     "hat.wolf": {
       "itemID": -1478212975,
@@ -41,6 +41,36 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "rhib": {
+      "itemID": 1394042569,
+      "shortname": "rhib",
+      "displayName": "RHIB",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "rowboat": {
+      "itemID": 1878053256,
+      "shortname": "rowboat",
+      "displayName": "Rowboat",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "locomotive": {
+      "itemID": -2027988285,
+      "shortname": "locomotive",
+      "displayName": "Locomotive",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "minihelicopter.repair": {
       "itemID": 1426574435,
       "shortname": "minihelicopter.repair",
@@ -51,10 +81,60 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "aiming.module.mlrs": {
+      "itemID": 343045591,
+      "shortname": "aiming.module.mlrs",
+      "displayName": "MLRS Aiming Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "mlrs": {
+      "itemID": -1449152644,
+      "shortname": "mlrs",
+      "displayName": "MLRS",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "ammo.rocket.mlrs": {
+      "itemID": -1843426638,
+      "shortname": "ammo.rocket.mlrs",
+      "displayName": "MLRS Rocket",
+      "category": 8,
+      "categoryName": "Ammunition",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "scraptransportheli.repair": {
       "itemID": -1884328185,
       "shortname": "scraptransportheli.repair",
       "displayName": "ScrapTransportHeliRepair",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "snowmobile": {
+      "itemID": -1364246987,
+      "shortname": "snowmobile",
+      "displayName": "Snowmobile",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": true
+    },
+    "snowmobiletomaha": {
+      "itemID": 1768112091,
+      "shortname": "snowmobiletomaha",
+      "displayName": "Tomaha Snowmobile",
       "category": 10,
       "categoryName": "Misc",
       "availableAsBluePrint": false,
@@ -75,6 +155,16 @@
       "itemID": -187031121,
       "shortname": "submarinesolo",
       "displayName": "Solo Submarine",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "wagon": {
+      "itemID": 996757362,
+      "shortname": "wagon",
+      "displayName": "Wagon",
       "category": 10,
       "categoryName": "Misc",
       "availableAsBluePrint": false,
@@ -811,6 +901,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "metal.facemask.hockey": {
+      "itemID": -1334569149,
+      "shortname": "metal.facemask.hockey",
+      "displayName": "Hockey Mask",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "attire.hide.helterneck": {
       "itemID": 3222790,
       "shortname": "attire.hide.helterneck",
@@ -1059,7 +1159,7 @@
       "categoryName": "Attire",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": false
+      "skinable": true
     },
     "nightvisiongoggles": {
       "itemID": -1518883088,
@@ -1251,6 +1351,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "hazmatsuit.arcticsuit": {
+      "itemID": -470439097,
+      "shortname": "hazmatsuit.arcticsuit",
+      "displayName": "Arctic Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "hazmatsuit": {
       "itemID": 1266491000,
       "shortname": "hazmatsuit",
@@ -1261,10 +1371,40 @@
       "defaultBlueprint": false,
       "skinable": true
     },
+    "hazmatsuit.lumberjack": {
+      "itemID": 861513346,
+      "shortname": "hazmatsuit.lumberjack",
+      "displayName": "Lumberjack Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "hazmatsuit.nomadsuit": {
+      "itemID": 491263800,
+      "shortname": "hazmatsuit.nomadsuit",
+      "displayName": "Nomad Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "hazmatsuit_scientist": {
       "itemID": -253079493,
       "shortname": "hazmatsuit_scientist",
       "displayName": "Scientist Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "hazmatsuit_scientist_arctic": {
+      "itemID": 1107575710,
+      "shortname": "hazmatsuit_scientist_arctic",
+      "displayName": "Arctic Scientist Suit",
       "category": 4,
       "categoryName": "Attire",
       "availableAsBluePrint": false,
@@ -1941,6 +2081,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "firework.boomer.pattern": {
+      "itemID": -379734527,
+      "shortname": "firework.boomer.pattern",
+      "displayName": "Pattern Boomer",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "firework.boomer.red": {
       "itemID": -1553999294,
       "shortname": "firework.boomer.red",
@@ -2047,7 +2197,7 @@
       "displayName": "Frankenstein Table",
       "category": 2,
       "categoryName": "Items",
-      "availableAsBluePrint": true,
+      "availableAsBluePrint": false,
       "defaultBlueprint": true,
       "skinable": false
     },
@@ -2124,7 +2274,7 @@
     "trap.landmine": {
       "itemID": -1663759755,
       "shortname": "trap.landmine",
-      "displayName": "Land Mine",
+      "displayName": "Homemade Landmine",
       "category": 9,
       "categoryName": "Traps",
       "availableAsBluePrint": true,
@@ -2961,6 +3111,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "sofa.pattern": {
+      "itemID": 782422285,
+      "shortname": "sofa.pattern",
+      "displayName": "Sofa - Pattern",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "spinner.wheel": {
       "itemID": -1100422738,
       "shortname": "spinner.wheel",
@@ -3201,9 +3361,9 @@
       "defaultBlueprint": false,
       "skinable": false
     },
-    "chocholate": {
-      "itemID": 363467698,
-      "shortname": "chocholate",
+    "chocolate": {
+      "itemID": -965336208,
+      "shortname": "chocolate",
       "displayName": "Chocolate Bar",
       "category": 7,
       "categoryName": "Food",
@@ -3841,6 +4001,56 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "skylantern": {
+      "itemID": 1819863051,
+      "shortname": "skylantern",
+      "displayName": "Sky Lantern",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": true
+    },
+    "skylantern.skylantern.green": {
+      "itemID": -1770889433,
+      "shortname": "skylantern.skylantern.green",
+      "displayName": "Sky Lantern - Green",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "skylantern.skylantern.orange": {
+      "itemID": -1824770114,
+      "shortname": "skylantern.skylantern.orange",
+      "displayName": "Sky Lantern - Orange",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "skylantern.skylantern.purple": {
+      "itemID": 831955134,
+      "shortname": "skylantern.skylantern.purple",
+      "displayName": "Sky Lantern - Purple",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "skylantern.skylantern.red": {
+      "itemID": -1433390281,
+      "shortname": "skylantern.skylantern.red",
+      "displayName": "Sky Lantern - Red",
+      "category": 17,
+      "categoryName": "Fun",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "lunar.firecrackers": {
       "itemID": -1961560162,
       "shortname": "lunar.firecrackers",
@@ -3851,12 +4061,52 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "hat.tigermask": {
+      "itemID": 709206314,
+      "shortname": "hat.tigermask",
+      "displayName": "Tiger Mask",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "arcade.machine.chippy": {
       "itemID": 359723196,
       "shortname": "arcade.machine.chippy",
       "displayName": "Chippy Arcade Game",
       "category": 2,
       "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "bluedogtags": {
+      "itemID": 1036321299,
+      "shortname": "bluedogtags",
+      "displayName": "Blue Dog Tags",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "dogtagneutral": {
+      "itemID": 1223900335,
+      "shortname": "dogtagneutral",
+      "displayName": "Dog Tag",
+      "category": 3,
+      "categoryName": "Resources",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "reddogtags": {
+      "itemID": -602717596,
+      "shortname": "reddogtags",
+      "displayName": "Red Dog Tags",
+      "category": 3,
+      "categoryName": "Resources",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -3921,10 +4171,20 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "attire.egg.suit": {
+      "itemID": -747743875,
+      "shortname": "attire.egg.suit",
+      "displayName": "Egg Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "rustige_egg_a": {
       "itemID": -173268129,
       "shortname": "rustige_egg_a",
-      "displayName": "Rustigé Egg - Red",
+      "displayName": "RustigÃ© Egg - Red",
       "category": 10,
       "categoryName": "Misc",
       "availableAsBluePrint": false,
@@ -3934,7 +4194,7 @@
     "rustige_egg_b": {
       "itemID": -173268132,
       "shortname": "rustige_egg_b",
-      "displayName": "Rustigé Egg - Blue",
+      "displayName": "RustigÃ© Egg - Blue",
       "category": 10,
       "categoryName": "Misc",
       "availableAsBluePrint": false,
@@ -3944,7 +4204,7 @@
     "rustige_egg_c": {
       "itemID": -173268131,
       "shortname": "rustige_egg_c",
-      "displayName": "Rustigé Egg - Purple",
+      "displayName": "RustigÃ© Egg - Purple",
       "category": 10,
       "categoryName": "Misc",
       "availableAsBluePrint": false,
@@ -3954,7 +4214,7 @@
     "rustige_egg_d": {
       "itemID": -173268126,
       "shortname": "rustige_egg_d",
-      "displayName": "Rustigé Egg - Ivory",
+      "displayName": "RustigÃ© Egg - Ivory",
       "category": 10,
       "categoryName": "Misc",
       "availableAsBluePrint": false,
@@ -3964,7 +4224,7 @@
     "rustige_egg_e": {
       "itemID": -173268125,
       "shortname": "rustige_egg_e",
-      "displayName": "Rustigé Egg - Green",
+      "displayName": "RustigÃ© Egg - Green",
       "category": 10,
       "categoryName": "Misc",
       "availableAsBluePrint": false,
@@ -4401,6 +4661,46 @@
       "defaultBlueprint": true,
       "skinable": false
     },
+    "factorydoor": {
+      "itemID": 2054391128,
+      "shortname": "factorydoor",
+      "displayName": "Factory Door",
+      "category": 1,
+      "categoryName": "Construction",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "industrial.wall.light.green": {
+      "itemID": 1268178466,
+      "shortname": "industrial.wall.light.green",
+      "displayName": "Green Industrial Wall Light",
+      "category": 16,
+      "categoryName": "Electrical",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "industrial.wall.light": {
+      "itemID": 1623701499,
+      "shortname": "industrial.wall.light",
+      "displayName": "Industrial Wall Light",
+      "category": 16,
+      "categoryName": "Electrical",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "industrial.wall.light.red": {
+      "itemID": -1160621614,
+      "shortname": "industrial.wall.light.red",
+      "displayName": "Red Industrial Wall Light",
+      "category": 16,
+      "categoryName": "Electrical",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "skull.human": {
       "itemID": 996293980,
       "shortname": "skull.human",
@@ -4651,6 +4951,16 @@
       "defaultBlueprint": true,
       "skinable": false
     },
+    "trophy": {
+      "itemID": 975983052,
+      "shortname": "trophy",
+      "displayName": "Twitch Rivals Trophy",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "twitchsunglasses": {
       "itemID": 20489901,
       "shortname": "twitchsunglasses",
@@ -4691,6 +5001,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "xmas.advent": {
+      "itemID": -2027793839,
+      "shortname": "xmas.advent",
+      "displayName": "Advent Calendar",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "candycaneclub": {
       "itemID": 1789825282,
       "shortname": "candycaneclub",
@@ -4715,6 +5035,16 @@
       "itemID": 674734128,
       "shortname": "xmas.door.garland",
       "displayName": "Festive Doorway Garland",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "xmas.double.door.garland": {
+      "itemID": -1230433643,
+      "shortname": "xmas.double.door.garland",
+      "displayName": "Festive Double Doorway Garland",
       "category": 2,
       "categoryName": "Items",
       "availableAsBluePrint": false,
@@ -4995,6 +5325,16 @@
       "itemID": -575483084,
       "shortname": "santahat",
       "displayName": "Santa Hat",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "attire.snowman.helmet": {
+      "itemID": -842267147,
+      "shortname": "attire.snowman.helmet",
+      "displayName": "Snowman Helmet",
       "category": 4,
       "categoryName": "Attire",
       "availableAsBluePrint": false,
@@ -6181,6 +6521,46 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "concretehatchet": {
+      "itemID": 1176355476,
+      "shortname": "concretehatchet",
+      "displayName": "Concrete Hatchet",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "concretepickaxe": {
+      "itemID": -1360171080,
+      "shortname": "concretepickaxe",
+      "displayName": "Concrete Pickaxe",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "lumberjack.hatchet": {
+      "itemID": -399173933,
+      "shortname": "lumberjack.hatchet",
+      "displayName": "Prototype Hatchet",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "lumberjack.pickaxe": {
+      "itemID": 236677901,
+      "shortname": "lumberjack.pickaxe",
+      "displayName": "Prototype Pickaxe",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "map": {
       "itemID": 696029452,
       "shortname": "map",
@@ -6230,6 +6610,26 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
+    },
+    "spraycan": {
+      "itemID": -596876839,
+      "shortname": "spraycan",
+      "displayName": "Spray Can",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
+    "spraycandecal": {
+      "itemID": -1366326648,
+      "shortname": "spraycandecal",
+      "displayName": "Spray Can Decal",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": true
     },
     "supply.signal": {
       "itemID": 1397052267,
@@ -6611,6 +7011,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "weapon.mod.extendedmags": {
+      "itemID": 2005491391,
+      "shortname": "weapon.mod.extendedmags",
+      "displayName": "Extended Magazine",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "weapon.mod.flashlight": {
       "itemID": 952603248,
       "shortname": "weapon.mod.flashlight",
@@ -6700,6 +7110,16 @@
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": true
+    },
+    "rifle.ak.ice": {
+      "itemID": -1335497659,
+      "shortname": "rifle.ak.ice",
+      "displayName": "Assault Rifle - ICE",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
     },
     "bandage": {
       "itemID": -2072273936,
@@ -6798,7 +7218,7 @@
       "category": 0,
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
-      "defaultBlueprint": true,
+      "defaultBlueprint": false,
       "skinable": false
     },
     "crossbow": {
@@ -6851,10 +7271,30 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "grenade.flashbang": {
+      "itemID": -936921910,
+      "shortname": "grenade.flashbang",
+      "displayName": "Flashbang",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "multiplegrenadelauncher": {
       "itemID": -1123473824,
       "shortname": "multiplegrenadelauncher",
       "displayName": "Multiple Grenade Launcher",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "mace.baseballbat": {
+      "itemID": -2026042603,
+      "shortname": "mace.baseballbat",
+      "displayName": "Baseball Bat",
       "category": 0,
       "categoryName": "Weapon",
       "availableAsBluePrint": false,
@@ -6891,6 +7331,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "torch.torch.skull": {
+      "itemID": -1175656359,
+      "shortname": "torch.torch.skull",
+      "displayName": "Cultist Deer Torch",
+      "category": 5,
+      "categoryName": "Tool",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": true,
+      "skinable": false
+    },
     "skull": {
       "itemID": 1312843609,
       "shortname": "skull",
@@ -6917,6 +7367,16 @@
       "displayName": "Hatchet",
       "category": 5,
       "categoryName": "Tool",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": true
+    },
+    "hmlmg": {
+      "itemID": -1214542497,
+      "shortname": "hmlmg",
+      "displayName": "HMLMG",
+      "category": 0,
+      "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
       "skinable": false
@@ -6989,7 +7449,7 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": false
+      "skinable": true
     },
     "machete": {
       "itemID": -1137865085,
@@ -6999,6 +7459,16 @@
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
+      "skinable": false
+    },
+    "grenade.molotov": {
+      "itemID": 1556365900,
+      "shortname": "grenade.molotov",
+      "displayName": "Molotov Cocktail",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": true,
+      "defaultBlueprint": false,
       "skinable": false
     },
     "smg.mp5": {
@@ -7039,7 +7509,7 @@
       "categoryName": "Tool",
       "availableAsBluePrint": true,
       "defaultBlueprint": false,
-      "skinable": false
+      "skinable": true
     },
     "shotgun.waterpipe": {
       "itemID": -1367281941,
@@ -7199,7 +7669,7 @@
       "categoryName": "Tool",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": false
+      "skinable": true
     },
     "stone.pickaxe": {
       "itemID": 171931394,
@@ -7209,7 +7679,7 @@
       "categoryName": "Tool",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": false
+      "skinable": true
     },
     "spear.stone": {
       "itemID": 1602646136,
@@ -7269,7 +7739,7 @@
       "categoryName": "Tool",
       "availableAsBluePrint": true,
       "defaultBlueprint": true,
-      "skinable": false
+      "skinable": true
     },
     "bucket.water": {
       "itemID": 1424075905,
