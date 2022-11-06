@@ -1,5 +1,5 @@
 {
-  "version": 2360,
+  "version": 2362,
   "AllItemsAvailable": {
     "hat.wolf": {
       "itemID": -1478212975,
@@ -57,16 +57,6 @@
       "displayName": "Rowboat",
       "category": 2,
       "categoryName": "Items",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false,
-      "skinable": false
-    },
-    "locomotive": {
-      "itemID": -2027988285,
-      "shortname": "locomotive",
-      "displayName": "Locomotive",
-      "category": 10,
-      "categoryName": "Misc",
       "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
@@ -155,6 +145,16 @@
       "itemID": -187031121,
       "shortname": "submarinesolo",
       "displayName": "Solo Submarine",
+      "category": 10,
+      "categoryName": "Misc",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "locomotive": {
+      "itemID": -2027988285,
+      "shortname": "locomotive",
+      "displayName": "Locomotive",
       "category": 10,
       "categoryName": "Misc",
       "availableAsBluePrint": false,
@@ -2198,7 +2198,7 @@
       "category": 2,
       "categoryName": "Items",
       "availableAsBluePrint": false,
-      "defaultBlueprint": true,
+      "defaultBlueprint": false,
       "skinable": false
     },
     "fridge": {
@@ -7011,6 +7011,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "weapon.mod.burstmodule": {
+      "itemID": 838308300,
+      "shortname": "weapon.mod.burstmodule",
+      "displayName": "Burst Module",
+      "category": 13,
+      "categoryName": "Component",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "weapon.mod.extendedmags": {
       "itemID": 2005491391,
       "shortname": "weapon.mod.extendedmags",
@@ -7278,6 +7288,16 @@
       "category": 0,
       "categoryName": "Weapon",
       "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
+    "pistol.prototype17": {
+      "itemID": 1914691295,
+      "shortname": "pistol.prototype17",
+      "displayName": "Prototype 17",
+      "category": 0,
+      "categoryName": "Weapon",
+      "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
     },
