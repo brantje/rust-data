@@ -1,5 +1,5 @@
 {
-  "version": 2362,
+  "version": 2366,
   "AllItemsAvailable": {
     "hat.wolf": {
       "itemID": -1478212975,
@@ -1161,6 +1161,16 @@
       "defaultBlueprint": false,
       "skinable": true
     },
+    "metal.facemask.icemask": {
+      "itemID": 110116923,
+      "shortname": "metal.facemask.icemask",
+      "displayName": "Ice Metal Facemask",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "nightvisiongoggles": {
       "itemID": -1518883088,
       "shortname": "nightvisiongoggles",
@@ -1488,6 +1498,16 @@
       "category": 4,
       "categoryName": "Attire",
       "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": true
+    },
+    "metal.plate.torso.icevest": {
+      "itemID": -1478855279,
+      "shortname": "metal.plate.torso.icevest",
+      "displayName": "Ice Metal Chest Plate",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
     },
@@ -1978,6 +1998,16 @@
       "category": 2,
       "categoryName": "Items",
       "availableAsBluePrint": true,
+      "defaultBlueprint": false,
+      "skinable": true
+    },
+    "chair.icethrone": {
+      "itemID": -1944704288,
+      "shortname": "chair.icethrone",
+      "displayName": "Ice Throne",
+      "category": 2,
+      "categoryName": "Items",
+      "availableAsBluePrint": false,
       "defaultBlueprint": false,
       "skinable": false
     },
@@ -3891,16 +3921,6 @@
       "defaultBlueprint": true,
       "skinable": false
     },
-    "car.key": {
-      "itemID": 946662961,
-      "shortname": "car.key",
-      "displayName": "Car Key",
-      "category": 10,
-      "categoryName": "Misc",
-      "availableAsBluePrint": false,
-      "defaultBlueprint": false,
-      "skinable": false
-    },
     "door.key": {
       "itemID": -1112793865,
       "shortname": "door.key",
@@ -5008,7 +5028,7 @@
       "category": 2,
       "categoryName": "Items",
       "availableAsBluePrint": false,
-      "defaultBlueprint": false,
+      "defaultBlueprint": true,
       "skinable": false
     },
     "candycaneclub": {
@@ -5078,7 +5098,7 @@
       "category": 1,
       "categoryName": "Construction",
       "availableAsBluePrint": false,
-      "defaultBlueprint": false,
+      "defaultBlueprint": true,
       "skinable": false
     },
     "wall.external.high.ice": {
@@ -5088,7 +5108,7 @@
       "category": 1,
       "categoryName": "Construction",
       "availableAsBluePrint": false,
-      "defaultBlueprint": false,
+      "defaultBlueprint": true,
       "skinable": false
     },
     "giantlollipops": {
@@ -5301,6 +5321,16 @@
       "defaultBlueprint": false,
       "skinable": false
     },
+    "gingerbreadsuit": {
+      "itemID": -558880549,
+      "shortname": "gingerbreadsuit",
+      "displayName": "Gingerbread Suit",
+      "category": 4,
+      "categoryName": "Attire",
+      "availableAsBluePrint": false,
+      "defaultBlueprint": false,
+      "skinable": false
+    },
     "attire.reindeer.headband": {
       "itemID": -324675402,
       "shortname": "attire.reindeer.headband",
@@ -5458,7 +5488,7 @@
       "category": 2,
       "categoryName": "Items",
       "availableAsBluePrint": false,
-      "defaultBlueprint": false,
+      "defaultBlueprint": true,
       "skinable": false
     },
     "captainslog": {
